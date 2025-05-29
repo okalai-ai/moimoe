@@ -1,0 +1,898 @@
+puff adder|||A venomous snake found in Africa, known for its dangerous bite.|||XHOSA|||ibululu|||9
+fisherman|||A person who catches fish for a living or as a hobby.|||XHOSA|||umlobi|||1
+symbol|||A mark or character used as a conventional representation of something.|||XHOSA|||umqondiso|||3
+assault|||A physical attack or a concerted effort to do something demanding.|||XHOSA|||uhlaselo|||11
+America|||A country in North America.|||XHOSA|||iMelika|||5
+surname|||A hereditary name common to all members of a family, often passed down from one generation to the next.|||XHOSA|||ifani|||9
+meal|||A coarsely ground grain, often used as food.|||XHOSA|||umgubo|||3
+lamentation|||The passionate expression of grief or sorrow; weeping.|||XHOSA|||isililo|||7
+essence|||The intrinsic nature or indispensable quality of something.|||XHOSA|||unqontsonqa|||11
+vision|||The ability to see or a thought or concept of how something could be.|||XHOSA|||isiboniso|||7
+spear|||A weapon with a pointed tip, typically of steel, and a long shaft.|||XHOSA|||isagweba|||7
+amendment|||A change or addition designed to improve a text, document, or law.|||XHOSA|||isilungiso|||7
+devil|||A supernatural entity often associated with evil or harm.|||XHOSA|||umhendi|||3
+prisoner|||A person who is confined in a prison or held captive.|||XHOSA|||umbanjwa|||1
+detergent|||A water-soluble cleansing agent which combines with impurities and dirt to make them more soluble.|||XHOSA|||isicoci|||7
+kindness|||The quality of being friendly, generous, and considerate.|||XHOSA|||ububele|||14
+octopus|||A marine animal with eight limbs known for its intelligence and ability to camouflage.|||XHOSA|||ingwane|||9
+song|||A short musical composition with words.|||XHOSA|||uncuthu|||11
+broth|||A liquid food preparation, typically made by simmering ingredients in water.|||XHOSA|||umhluzi|||3
+brain|||The organ in humans and other vertebrates responsible for thought, memory, emotion, and motor functions.|||XHOSA|||ingqondo|||9
+brown locust|||A species of locust known for its brown coloring and potential to form large swarms.|||XHOSA|||umcingwane|||3
+thief|||A person who steals.|||XHOSA|||isela|||5
+oldness|||The state of being old or advanced in life or years.|||XHOSA|||ubudala|||14
+benefit|||An advantage or profit gained from something.|||XHOSA|||isibonelelo|||7
+drought|||A prolonged period of abnormally low rainfall, leading to a shortage of water.|||XHOSA|||imbalela|||9
+cover|||something that is placed on or over something else for protection or enclosure|||XHOSA|||isiciko|||7
+squirrel|||a small rodent with a bushy tail, typically found in woodland areas.|||XHOSA|||unomatse|||1
+humanity|||The human race or the quality of being humane.|||XHOSA|||uluntu|||11
+pain|||A distressing sensation in a part of the body.|||XHOSA|||ubuhlungu|||14
+maternal uncle|||The brother of one's mother.|||XHOSA|||umalume|||1
+game|||An activity one engages in for amusement or fun.|||XHOSA|||umdlalo|||3
+tenacity|||The quality of being determined and persistent.|||XHOSA|||unama|||11
+coffin|||A long, narrow box used to hold a corpse for burial.|||XHOSA|||ibhokisi|||9
+deer|||A grazing or browsing animal, typically with antlers, known for its agility and speed.|||XHOSA|||inxala|||5
+preparation|||The action or process of making ready or being made ready for use or consideration.|||XHOSA|||ilungiselelo|||5
+child|||A young human being below the age of puberty.|||XHOSA|||umntwana|||1
+scapula|||The scapula, or shoulder blade, is the bone that connects the humerus with the clavicle.|||XHOSA|||ibango|||5
+hunger|||A feeling of discomfort or weakness caused by lack of food.|||XHOSA|||indlala|||9
+Zulu person|||A person belonging to the Zulu ethnic group.|||XHOSA|||umZulu|||1
+patriot|||A person who vigorously supports their country and is prepared to defend it against enemies.|||XHOSA|||ithandazwe|||5
+mirror|||A reflective surface, typically of glass coated with a metal amalgam.|||XHOSA|||isipili|||7
+servant|||A person who performs duties for others, especially domestic tasks.|||XHOSA|||isicaka|||7
+kernel|||The central or most important part of something.|||XHOSA|||ukhozo|||11
+Bushman|||A member of certain indigenous peoples of Southern Africa.|||XHOSA|||umThwa|||1
+cluster|||A group of similar things or people positioned closely together.|||XHOSA|||ibubu|||9
+report|||A written or spoken account of an event or situation.|||XHOSA|||uqikelelo|||11
+watermelon|||A large, oval fruit with a green rind and sweet, juicy, usually red or pink flesh.|||XHOSA|||umxoxozi|||3
+warfare|||Engagement in or the activities involved in war or conflict.|||XHOSA|||imfazwe|||9
+body|||The physical structure of a person or an organism.|||XHOSA|||isiqu|||7
+beer|||An alcoholic beverage made from fermented grains.|||XHOSA|||utywala|||14
+translation|||The process of translating words or text from one language into another.|||XHOSA|||inguqulo|||9
+aid|||Assistance, support, or relief provided to others.|||XHOSA|||uncedo|||11
+sweetie|||A type of candy or sweet treat.|||XHOSA|||uswidi|||11
+employer|||A person or organization that hires others to perform work.|||XHOSA|||umqeshi|||1
+heifer|||A young female cow that has not borne a calf.|||XHOSA|||ithokazi|||5
+bicycle|||A vehicle composed of two wheels held in a frame one behind the other, powered by pedaling.|||XHOSA|||ibhayisikile|||9
+violence|||Behavior involving physical force intended to hurt, damage, or kill someone or something.|||XHOSA|||ubundlobongela|||14
+drum|||A percussion instrument sounded by being struck with sticks or hands.|||XHOSA|||igubu|||5
+famine|||A severe shortage of food affecting a large number of people.|||XHOSA|||indlala|||9
+glutton|||a person who eats and drinks excessively.|||XHOSA|||isirhofu|||7
+ostrich|||A large, flightless bird with long legs and neck, native to Africa.|||XHOSA|||inciniba|||9
+help|||Assistance given to someone in need.|||XHOSA|||uncedo|||11
+sputum|||A mixture of saliva and mucus coughed up from the respiratory tract.|||XHOSA|||isikhohlela|||7
+kilt|||A knee-length skirt with pleats at the back, originating from traditional dress of Scottish men and boys.|||XHOSA|||umtsheke|||3
+hole|||An opening or cavity in something.|||XHOSA|||ikroba|||5
+sky|||The expanse of air over the Earth, appearing as a dome over the horizon.|||XHOSA|||isibhakabhaka|||7
+slope|||A surface of which one end or side is at a higher level than another; a rising or falling surface.|||XHOSA|||ithambeko|||5
+cooking pot|||A vessel used for cooking food.|||XHOSA|||imbiza|||9
+servant|||A person employed by another, especially to perform domestic duties.|||XHOSA|||umkhonzi|||1
+steamed bread|||A type of bread cooked by steaming rather than baking.|||XHOSA|||umkhupha|||3
+school|||An institution for educating children or a place where people go to learn.|||XHOSA|||isikolo|||7
+notion|||a conception or belief about something|||XHOSA|||ingcamango|||9
+chapter|||A main division of a book, typically with a number or title.|||XHOSA|||isiqendu|||7
+rope|||A strong, thick line made of long twisted threads.|||XHOSA|||umnxeba|||3
+story|||A narrative or account of events, real or imagined, created for entertainment, knowledge, or expression.|||XHOSA|||ibali|||5
+oppressor|||A person or entity that oppresses others.|||XHOSA|||umcinezeli|||1
+homestead|||A household or family residence, often in a rural setting.|||XHOSA|||umzi|||3
+heroism|||The qualities or attributes of a hero; bravery or courage in action.|||XHOSA|||ubugorha|||14
+eye|||The organ of sight in humans and animals.|||XHOSA|||iliso|||5
+need|||A requirement or necessity for something.|||XHOSA|||isidingo|||7
+sister|||A female sibling.|||XHOSA|||udade|||1
+exhibition|||A public showing of works of art or other items of interest.|||XHOSA|||umboniso|||3
+onionlike plant|||a plant resembling an onion in appearance or cultivation.|||XHOSA|||igramza|||5
+trunk|||The main woody stem of a tree as distinct from its branches and roots.|||XHOSA|||ibhuti|||9
+racism|||Prejudice or discrimination based on race.|||XHOSA|||ucalucalulo|||11
+expert|||A person with comprehensive and authoritative knowledge in a particular area.|||XHOSA|||isazi|||7
+lion|||A large wild member of the cat family with a mane, native to Africa and northwest India.|||XHOSA|||ingonyama|||9
+factory|||A building or group of buildings where goods are manufactured or assembled.|||XHOSA|||ishishini|||5
+illness|||A disease or period of sickness affecting the body or mind.|||XHOSA|||isigulo|||7
+nurse|||A person trained to care for the sick or infirm.|||XHOSA|||umongikazi|||1
+diamond|||A precious stone consisting of a clear and colorless crystalline form of pure carbon, the hardest naturally occurring substance.|||XHOSA|||idayimani|||9
+cluster|||A group of similar things or people positioned or occurring closely together.|||XHOSA|||ibubu|||9
+pumpkin bean stew|||a traditional dish made with pumpkin and beans|||XHOSA|||umthwane|||3
+event|||An occurrence or happening, especially one of significance.|||XHOSA|||isiganeko|||7
+speech|||The expression of thoughts and feelings by articulate sounds.|||XHOSA|||ukuthetha|||15
+actor|||A person who performs in plays, films, or television shows.|||XHOSA|||umdlali|||1
+spade|||A tool with a sharp-edged, typically rectangular, metal blade and a long handle used for digging.|||XHOSA|||umhlakulo|||3
+arrow|||A shaft sharpened at the front, shot from a bow as a weapon.|||XHOSA|||umkhonto|||3
+savanna|||A grassy plain in tropical and subtropical regions, with few trees.|||XHOSA|||isandle|||7
+blue crane|||A type of crane, native to southern Africa and known for its bluish-gray plumage.|||XHOSA|||indwe|||9
+permanent|||lasting or intended to last or remain unchanged indefinitely|||XHOSA|||isigxina|||7
+any seat|||A place or object for sitting.|||XHOSA|||isihlalo|||7
+string of beads|||A sequence of beads strung together.|||XHOSA|||uhlohlo|||11
+sjambok|||A heavy whip made from rhinoceros or hippopotamus hide.|||XHOSA|||isabokwe|||7
+lag|||a fabric or piece of cloth.|||XHOSA|||ilaphu|||5
+childhood|||The state or period of being a child; the early period in a person’s life before they become an adult.|||XHOSA|||ubuntwana|||14
+sister|||A female in relation to other children of her parents.|||XHOSA|||usisi|||1
+swimming|||The sport or activity of moving through water by using the limbs.|||XHOSA|||ukudada|||15
+bedbug|||A small nocturnal insect that feeds on human blood and lives in bedding and furniture.|||XHOSA|||incukuthu|||9
+toad|||An amphibian similar to a frog, but typically with drier, warty skin and shorter legs.|||XHOSA|||isele|||5
+dot|||A small round mark or spot.|||XHOSA|||ichaphaza|||5
+caucus|||A meeting of members of a political party to make decisions.|||XHOSA|||igqugula|||5
+egg|||An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo.|||XHOSA|||iqanda|||5
+giraffe|||A tall African mammal with a very long neck and forelegs.|||XHOSA|||indlulamthi|||9
+mankind|||Human beings viewed collectively; the human species.|||XHOSA|||isintu|||7
+fountain|||A source of water or a decorative feature surrounded by water.|||XHOSA|||iqula|||5
+sacrifice|||The act of giving up something valued for the sake of something else regarded as more important or worthy.|||XHOSA|||idini|||5
+river|||A large, flowing body of water that usually empties into a sea or ocean.|||XHOSA|||umlambo|||3
+counseling|||A service that provides guidance and support to individuals to help them address personal or psychological issues.|||XHOSA|||ingcebiso|||9
+confession|||A formal statement admitting to a crime or wrongdoing.|||XHOSA|||ubulo|||14
+socket|||A hollow part or recess into which something fits or in which something revolves.|||XHOSA|||usikrobana|||11
+headman|||A chief or leader of a community or group.|||XHOSA|||isibonda|||7
+coat|||An outer garment worn outdoors, having sleeves and typically extending below the hips.|||XHOSA|||idyasi|||9
+pig|||A domesticated animal raised for pork.|||XHOSA|||ingulube|||9
+paper|||A material consisting of thin sheets used for writing, printing, or wrapping.|||XHOSA|||iphepha|||5
+feast|||A large, elaborate meal often for a celebration.|||XHOSA|||isidlo|||7
+something nice|||An enjoyable or pleasant thing.|||XHOSA|||umnandi|||3
+hammer|||a tool with a heavy metal head used for pounding|||XHOSA|||isando|||7
+image|||A representation or likeness of someone or something.|||XHOSA|||umfanekiselo|||3
+salvation|||The act of saving or protecting from harm, risk, loss, destruction, etc.|||XHOSA|||usindiso|||11
+income|||Money received, especially on a regular basis, for work or through investments.|||XHOSA|||ingeniso|||9
+ridge|||A long, narrow raised landform or a series of hills.|||XHOSA|||imbombo|||9
+trachea|||a part of the respiratory system that allows air to enter the lungs.|||XHOSA|||uqhoqhoqho|||1
+handsome person|||A person who is attractive in appearance.|||XHOSA|||igeza|||5
+thorny kraalwood|||A type of wood known for its thorny characteristic.|||XHOSA|||umqaqoba|||3
+race|||A social group based on physical or cultural characteristics.|||XHOSA|||uhlanga|||11
+law|||A system of rules that a particular country or community recognizes as regulating the actions of its members.|||XHOSA|||ubugqwetha|||14
+bad driver|||A person who drives a vehicle poorly or recklessly.|||XHOSA|||igangxa|||5
+name|||A word or set of words by which a person or thing is known, addressed, or referred to.|||XHOSA|||ifani|||9
+cinema|||A theater where films are shown for public entertainment.|||XHOSA|||ibhayaskopho|||9
+mortar|||A bowl-shaped receptacle used for grinding or pounding substances.|||XHOSA|||isingqusho|||7
+to dampen|||To make slightly wet or less intense.|||XHOSA|||umda|||3
+hornet|||A large stinging wasp that typically builds large hanging muddy nests.|||XHOSA|||unomanxezane|||1
+watermelon|||A large fruit with a green rind and sweet, juicy, red flesh.|||XHOSA|||umxoxozi|||3
+ice|||Frozen water, a brittle transparent crystalline solid.|||XHOSA|||umkhenkce|||3
+manager|||A person responsible for controlling or administering an organization or group.|||XHOSA|||umphathi|||1
+lung|||A respiratory organ in the chest where gas exchange takes place.|||XHOSA|||iphaphu|||5
+telephone|||A system for transmitting voices over a distance using wire or radio, by converting acoustic vibrations to electrical signals.|||XHOSA|||umnxeba|||3
+eel|||A long, snakelike fish, known for its smooth skin and ability to swim by wiggling.|||XHOSA|||umlenga|||3
+mind|||The set of cognitive faculties including consciousness, perception, thinking, and memory.|||XHOSA|||ingqondo|||9
+Thursday|||The fourth day of the week, following Wednesday.|||XHOSA|||uLwesine|||1
+anus|||The opening at the end of the digestive tract where waste exits the body.|||XHOSA|||umnqundu|||3
+bar|||An establishment where alcohol is served.|||XHOSA|||ibhari|||9
+gap|||An opening or break in something, difference or disparity.|||XHOSA|||isikhewu|||7
+yoke|||A wooden beam for joining a pair of animals together for work.|||XHOSA|||idyokhwe|||9
+cheetah|||A large, fast-running wild cat.|||XHOSA|||ingwenkala|||9
+trade|||The activity of buying, selling, or exchanging goods and services between people or countries.|||XHOSA|||urhwebo|||11
+dry oxhide|||The hide of an ox that has been dried.|||XHOSA|||ingqongqo|||9
+root|||The part of a plant that attaches it to the ground, typically underground, conveying water and nourishment to the rest of the plant.|||XHOSA|||ingcambu|||9
+tradition|||Cultural customs and beliefs handed down through generations.|||XHOSA|||isintu|||7
+claw|||A curved, pointed appendage at the end of an animal's limb.|||XHOSA|||uzipho|||11
+fame|||The condition of being known or talked about by many people.|||XHOSA|||udumo|||11
+fence|||A structure serving as an enclosure, barrier, or boundary.|||XHOSA|||ingcingo|||9
+degree|||An academic qualification awarded by a college or university.|||XHOSA|||isidanga|||7
+miracle|||An extraordinary event that is beyond natural explanation.|||XHOSA|||ummangaliso|||3
+bridge|||A structure built to span a physical obstacle, such as a body of water.|||XHOSA|||umchankcatho|||3
+drawing|||A picture or diagram made with a pen, pencil, or crayon rather than paint.|||XHOSA|||umzobo|||3
+understanding|||The ability to comprehend or grasp the meaning of something.|||XHOSA|||ulwazi|||11
+criterion|||A standard or principle by which something is judged or decided.|||XHOSA|||umqathango|||3
+eyelash|||A hair that grows on the edge of the eyelid.|||XHOSA|||umsebe|||3
+son|||A male child in relation to his parents.|||XHOSA|||unyana|||1
+breeder|||A person who breeds animals or plants.|||XHOSA|||umfuyi|||1
+corner|||The point where two lines or surfaces meet to form an angle.|||XHOSA|||imbombo|||9
+nasal mucus|||A slippery secretion produced in the nose.|||XHOSA|||imifinya|||4
+grave|||A place of burial for a dead body.|||XHOSA|||ingcwaba|||5
+expert|||A person with a high level of knowledge or skill in a particular area or field.|||XHOSA|||ingcali|||9
+iguana|||A reptile resembling a large lizard found primarily in the Americas.|||XHOSA|||uxam|||1
+onus|||The burden of responsibility or duty.|||XHOSA|||imhemhe|||9
+donkey|||A domesticated hoofed mammal related to the horse, with long ears and a braying call.|||XHOSA|||imbongolo|||9
+pear|||A sweet fruit with a rounded shape and soft flesh.|||XHOSA|||ipere|||5
+pride|||A feeling of deep satisfaction derived from one's own achievements.|||XHOSA|||ibhongo|||5
+kingdom|||a country, state, or territory ruled by a king or queen|||XHOSA|||ubukumkani|||14
+expense|||An amount of money spent.|||XHOSA|||indleko|||9
+horn|||A hard, pointed structure growing from the head of certain animals.|||XHOSA|||iphondo|||5
+knowledge|||Facts, information, and skills acquired through experience or education.|||XHOSA|||ulwazi|||11
+official|||A person holding public office or having official duties, especially as a representative of an authority.|||XHOSA|||umphathiswa|||1
+spinal cord|||The cylindrical bundle of nerve fibers and associated tissue that is enclosed in the spine.|||XHOSA|||umnqonqo|||3
+witch doctor|||A person believed to have magic powers used for healing or protecting against witchcraft.|||XHOSA|||igqirha|||5
+ram|||A male goat.|||XHOSA|||imbuzi|||9
+dessert|||A sweet course typically served at the end of a meal.|||XHOSA|||isimuncumuncu|||7
+lecture|||an educational talk to an audience, especially a class in college|||XHOSA|||imfundiso|||9
+angel|||A spiritual being believed to act as a messenger of God.|||XHOSA|||ingelosi|||9
+diarrhea|||A condition characterized by frequent and liquid bowel movements.|||XHOSA|||umrhudo|||3
+beard|||The hair growing on the lower part of a man's face.|||XHOSA|||isilevu|||7
+metal|||A material that is typically hard, shiny, and has good electrical and thermal conductivity.|||XHOSA|||isinyithi|||7
+bladder|||A membranous sac in humans and other animals, in which urine is collected for excretion.|||XHOSA|||isinyi|||7
+infection|||The invasion and multiplication of microbes in the body.|||XHOSA|||usuleleko|||11
+mind|||The element of a person that enables them to be aware, to think, and to feel.|||XHOSA|||ingqondo|||9
+exercise|||Activity requiring physical effort, carried out to sustain or improve health and fitness.|||XHOSA|||uthambo|||11
+chicken pox|||A contagious disease caused by the varicella-zoster virus, characterized by an itchy rash and blisters.|||XHOSA|||ingqakaqha|||9
+food|||any nutritious substance that people or animals eat or drink to maintain life and growth.|||XHOSA|||ukutya|||15
+foolishness|||Lack of good sense or judgment; silliness.|||XHOSA|||ubudenge|||14
+hummingbird|||A small bird known for its ability to hover and produce a humming sound.|||XHOSA|||ingcungcu|||9
+wheat|||A cereal grain used to make flour for bread, pasta, pastry, etc.|||XHOSA|||ingqolowa|||9
+request|||an act of asking for something to be given or done.|||XHOSA|||isicelo|||7
+necessity|||Something that is essential or indispensable.|||XHOSA|||isidingo|||7
+pasture|||Land covered with grass and other low plants suitable for grazing animals.|||XHOSA|||ikriwi|||5
+Africa|||a continent on the Earth, known for its diverse cultures and geographical features.|||XHOSA|||i-Afrika|||5
+instruction|||Direction or teaching on how to do something.|||XHOSA|||umyalelo|||3
+bravery|||Courageous behavior or character.|||XHOSA|||ubugorha|||14
+lunatic|||A person who is mentally ill.|||XHOSA|||igeza|||5
+back|||The rear surface of the human body from the shoulders to the hips.|||XHOSA|||umhlana|||3
+redness|||The quality or state of being red or reddish.|||XHOSA|||ububomvu|||14
+handle|||The part of an object designed to be held in order to move or use it.|||XHOSA|||isiphini|||7
+hadada ibis|||A species of ibis native to Sub-Saharan Africa, known for its loud vocalizations.|||XHOSA|||ing'ang'ane|||9
+acacia|||A genus of shrubs and trees known for their distinctive blossoms.|||XHOSA|||umnga|||3
+well trodden place|||A location that has been frequently walked over, indicating heavy foot traffic.|||XHOSA|||ingqushu|||9
+heap|||A collection of things piled up haphazardly.|||XHOSA|||ingqumba|||9
+contest|||An event in which people compete for supremacy in a sport or other activity.|||XHOSA|||umnyhadala|||3
+discipline|||Training to act in accordance with rules; drill.|||XHOSA|||ingqeqesho|||9
+front|||the forward part of something or the most important position.|||XHOSA|||ubuso|||14
+cloud|||A visible mass of condensed water vapor floating in the atmosphere.|||XHOSA|||ilifu|||5
+radio|||An electronic device for listening to audio broadcasts.|||XHOSA|||unomathotholo|||1
+invitation|||a request for someone to attend an event|||XHOSA|||isimemo|||7
+station|||A regular stopping place on a public transportation route.|||XHOSA|||isikhululo|||7
+temptation|||A desire to do something, especially something wrong or unwise.|||XHOSA|||ukuhendwa|||15
+wrangle|||a dispute or argument, typically one that is long and complicated.|||XHOSA|||ingxabano|||9
+ceremony|||A formal religious or public occasion, typically celebrating a particular event or anniversary.|||XHOSA|||itheko|||5
+puffadder|||A venomous viper species found in Africa, known for its large size and dangerous bite.|||XHOSA|||irhamba|||5
+soldier|||A person who serves in an army.|||XHOSA|||isoldathi|||5
+Bible|||The sacred scriptures of Christianity containing the Old and New Testaments.|||XHOSA|||iBhayibhile|||9
+summit|||The highest point or top of a hill or mountain.|||XHOSA|||incopho|||9
+pus|||Thick, typically yellowish fluid that builds up in tissues, due to infection.|||XHOSA|||ububovu|||14
+prudence|||The quality of being prudent; cautiousness.|||XHOSA|||ingqiqo|||9
+witness|||A person who sees an event, typically a crime or accident.|||XHOSA|||ingqina|||9
+caution|||Care taken to avoid danger or mistakes.|||XHOSA|||ubulumko|||14
+purse|||A small bag for carrying money and personal items.|||XHOSA|||isipaji|||7
+English language|||The language that originated from England, now widely spoken around the world.|||XHOSA|||isiNgesi|||7
+ordinance|||An authoritative order or law.|||XHOSA|||ummiselo|||3
+misfortune|||An unfortunate condition or event.|||XHOSA|||ilishwa|||5
+kindness|||the quality of being friendly, generous, and considerate|||XHOSA|||umsa|||3
+criminal|||A person who has committed a crime.|||XHOSA|||unqantloko|||1
+picture|||A painting, drawing, or photograph on a surface.|||XHOSA|||umfanekiso|||3
+millipede|||A myriapod invertebrate with an elongated body composed of many segments, most of which bear two pairs of legs.|||XHOSA|||isongololo|||5
+music|||An art form consisting of sound and silence expressed through instruments or vocals.|||XHOSA|||umculo|||3
+shadow|||A dark area or shape produced by a body coming between rays of light and a surface.|||XHOSA|||umthunzi|||3
+widower|||A man who has lost his spouse by death and has not remarried.|||XHOSA|||umhlolo|||1
+armpit|||The area beneath the upper arm, where it joins the shoulder.|||XHOSA|||ikhwapha|||5
+scissors|||A tool used for cutting paper, cloth, or other thin material.|||XHOSA|||isikere|||7
+coughing person|||A person who is coughing.|||XHOSA|||umkhohleli|||1
+rooster|||A male domesticated chicken that is known for crowing.|||XHOSA|||umqhagi|||3
+quarrel|||an angry argument or disagreement between people, typically over a long period.|||XHOSA|||ingxabano|||9
+surprise|||An unexpected or astonishing event, fact, or thing that causes amazement or wonder.|||XHOSA|||umnqa|||3
+a type of grass|||A specific variety of grass, often known for resilience or particular usage.|||XHOSA|||idobo|||5
+saliva|||A watery liquid secreted into the mouth by glands, providing lubrication for chewing and swallowing, and aiding digestion.|||XHOSA|||amathe|||6
+bread|||A staple food made from flour, water, and yeast or another leavening agent, and baked.|||XHOSA|||isonka|||7
+shield|||A protective device used to block blows or missiles.|||XHOSA|||ingweletshetshe|||9
+peer|||A person who is equal to another in capabilities or qualifications.|||XHOSA|||umlingane|||1
+belly|||the front part of the human trunk below the ribs, containing the stomach and bowels.|||XHOSA|||umkhaba|||3
+barrier|||A physical structure which blocks or impedes something.|||XHOSA|||umvalo|||3
+necessity|||the condition of being required or indispensable.|||XHOSA|||isidingo|||7
+consumption|||The using up of a resource or the act of consuming.|||XHOSA|||uxhamlo|||11
+neighbour|||A person living near or next door to the speaker or person referred to.|||XHOSA|||ummelwane|||1
+billycan|||A lightweight metal container used for cooking.|||XHOSA|||ibhekile|||9
+hump|||A rounded raised mass of earth or a protuberance.|||XHOSA|||ilunda|||5
+fungus|||A type of organism that feeds on organic matter.|||XHOSA|||ukungunda|||15
+carpenter|||A person who makes and repairs wooden objects and structures.|||XHOSA|||umchweli|||1
+something nice|||An object or experience that is pleasant or enjoyable.|||XHOSA|||umnandi|||3
+announcer|||A person who introduces or presents on radio or television.|||XHOSA|||umsasazi|||1
+instrument|||A tool or device used for a particular purpose.|||XHOSA|||isikhaliso|||7
+brightness|||The quality or state of giving out or reflecting light.|||XHOSA|||ubuqaqawuli|||14
+well trodden place|||A place that is frequently used or traveled.|||XHOSA|||ingqushu|||9
+shade|||An area or a space of darkness formed by blocking light.|||XHOSA|||umthunzi|||3
+servant|||A person employed to perform domestic duties.|||XHOSA|||isicakazana|||7
+degree|||A unit of measurement for angles or temperature.|||XHOSA|||iqondo|||5
+firm|||A business or company.|||XHOSA|||ifema|||9
+back|||The rear surface of the human body.|||XHOSA|||umhlana|||3
+region|||An area or division with definable boundaries.|||XHOSA|||ummandla|||3
+disaster|||A sudden event, such as an accident or a natural catastrophe, that causes great damage or loss.|||XHOSA|||isihelegu|||7
+jump rope|||A length of rope used in skipping games or as an exercise tool.|||XHOSA|||ugqaphu|||11
+goose|||A large waterbird with a long neck and webbed feet.|||XHOSA|||umrhanisi|||3
+tourist|||A person who is traveling or visiting a place for pleasure.|||XHOSA|||umkhenkethi|||1
+cream|||A thick, white dairy product made from milk.|||XHOSA|||ucwambu|||11
+fierce wrathful person|||A person known for extreme fierceness and wrath.|||XHOSA|||isirhalarhume|||7
+department|||A division of a large organization dealing with a specific area of activity.|||XHOSA|||isebe|||5
+fax|||A method of transmitting scanned printed material via telephone lines.|||XHOSA|||ifeksi|||9
+last letter|||The final letter of a word or phrase.|||XHOSA|||isimamva|||7
+small piece of meat taken by one who butchers an animal|||A piece of meat cut from an animal by the person who is butchering it.|||XHOSA|||intshontsho|||5
+muscle|||Tissue in the body that has the ability to contract, producing movement or force.|||XHOSA|||isihlunu|||7
+character|||The mental and moral qualities distinctive to an individual.|||XHOSA|||isimilo|||7
+greeting|||A gesture or expression used to acknowledge someone’s presence or to communicate good will.|||XHOSA|||umbuliso|||3
+pinnacle|||The most successful point or highest level of something.|||XHOSA|||incopho|||9
+earring|||A piece of jewelry worn on the earlobe.|||XHOSA|||icuba|||5
+shoulder|||The part of the body between the neck and the upper arm.|||XHOSA|||iligxa|||5
+cloud|||A visible mass of condensed watery vapor floating in the atmosphere.|||XHOSA|||ilifu|||5
+secret|||information that is not meant to be known by others.|||XHOSA|||ihlebo|||5
+alligator|||A large semiaquatic reptile similar to a crocodile.|||XHOSA|||icilikishe|||9
+coward|||A person who lacks the courage to face danger or confrontation.|||XHOSA|||igwala|||5
+strategy|||A plan of action designed to achieve a long-term or overall aim.|||XHOSA|||isicwangciso|||7
+window|||An opening in the wall or roof of a building or vehicle, usually fitted with glass.|||XHOSA|||ifestile|||9
+typist|||A person who types, especially as a job.|||XHOSA|||umchwethezi|||1
+damselfly|||A slender insect related to the dragonfly, with a delicate iridescent body.|||XHOSA|||isabonkolo|||7
+fever|||An abnormally high body temperature, usually accompanied by shivering and headache.|||XHOSA|||ifiva|||9
+kitchen|||A room or area where food is prepared and cooked.|||XHOSA|||ikhitshi|||5
+test|||A procedure intended to establish the quality, performance, or reliability of something.|||XHOSA|||uvavanyo|||11
+swollen cheek or neck|||An enlargement or puffiness of the cheek or neck, possibly due to injury or infection.|||XHOSA|||isidlele|||7
+axe|||A tool with a heavy bladed head used for chopping wood.|||XHOSA|||ingxabela|||9
+paragraph|||A distinct section of a piece of writing usually dealing with a single theme.|||XHOSA|||isigaba|||7
+pride|||a feeling or deep pleasure or satisfaction derived from one's own achievements, the achievements of those with whom one is closely associated, or from qualities or possessions that are widely admired.|||XHOSA|||ikratshi|||5
+constructor|||A person who builds or assembles something.|||XHOSA|||umakhi|||1
+grass warbler|||A small bird found in grasslands, known for its singing abilities.|||XHOSA|||unogqaza|||1
+tribal dance|||A traditional dance performed by a specific ethnic group within a cultural setting.|||XHOSA|||umdudo|||3
+nail|||A small metal spike with a broadened flat head, driven into wood to join things together or to serve as a hook.|||XHOSA|||isikhonkwane|||7
+rope|||A length of strong cord made by twisting together strands of natural or artificial fibers.|||XHOSA|||umnxeba|||3
+collection|||the action or process of collecting items for a purpose|||XHOSA|||udibaniso|||11
+stratum|||A layer or a series of layers of rock in the ground.|||XHOSA|||ucamba|||11
+the human race|||All human beings collectively.|||XHOSA|||isintu|||7
+industry|||Economic activity concerned with the processing of raw materials and manufacture of goods in factories.|||XHOSA|||imizi-mveliso|||4
+design|||An arrangement or plan in art or engineering.|||XHOSA|||uyilo|||11
+clavicle|||The bone that connects the breastplate to the shoulder in humans and other mammals.|||XHOSA|||ingqosha|||9
+reed|||A tall, slender-leaved plant of the grass family, usually growing in wetland areas.|||XHOSA|||ingcongolo|||9
+comrade|||A companion who shares one's activities or is a fellow member of an organization.|||XHOSA|||iqabane|||5
+chin|||The lower part of the face below the mouth.|||XHOSA|||isilevu|||7
+government|||The governing body of a nation, state, or community.|||XHOSA|||urhulumente|||1
+coffin|||A long, narrow box in which a dead body is buried or cremated.|||XHOSA|||ibhokisi|||9
+cholera|||An infectious disease causing severe diarrhea, often linked to contaminated water supplies.|||XHOSA|||umsheko|||3
+pollution|||The introduction of harmful substances or products into the environment.|||XHOSA|||ungcoliseko|||11
+goodness|||The quality of being morally good or virtuous.|||XHOSA|||ubumnandi|||14
+black ant|||A species of small, black, social insects known for their role in ecosystems.|||XHOSA|||isaphompolo|||7
+light beer|||A type of beer with lower alcohol content.|||XHOSA|||amarhewu|||6
+sleep|||The natural state of rest during which the body is inactive and the mind is either unconscious or in a state of reduced consciousness.|||XHOSA|||ubuthongo|||14
+wheat|||A cereal grain used for food, made from wheat plant.|||XHOSA|||ingqolowa|||9
+Thursday|||The fourth day of the week.|||XHOSA|||uLwesine|||1
+danger|||The possibility of suffering harm or injury.|||XHOSA|||ingozi|||9
+language of respect|||A formal or polite way of speaking that shows deference.|||XHOSA|||isihlonipho|||7
+vision|||The ability to think about or plan the future with imagination or wisdom.|||XHOSA|||isiboniso|||7
+wedding|||A marriage ceremony and its accompanying festivities.|||XHOSA|||umtshato|||3
+vetkoek|||A type of fried dough bread similar to a doughnut.|||XHOSA|||igwinya|||5
+America|||A country in North America, known officially as the United States of America.|||XHOSA|||iMelika|||5
+back|||The rear surface of the human body from the shoulders to the hips.|||XHOSA|||umqalo|||3
+whistling|||The act of producing a clear, high-pitched sound by forcing breath through a small hole in the lips.|||XHOSA|||umlozi|||3
+baby carrier|||a device used to carry an infant on one's person.|||XHOSA|||imbeleko|||9
+cotton plant|||A plant that produces cotton, used for textiles.|||XHOSA|||umqhaphu|||3
+orange|||A citrus fruit with a sweet, tangy taste.|||XHOSA|||i-orenji|||5
+maize|||A cereal grain that is a staple food in many parts of the world, also known as corn.|||XHOSA|||umbona|||1
+fertilizer|||A substance that is added to soil to help the growth of plants.|||XHOSA|||isichumisi|||7
+happiness|||The state of being happy or content.|||XHOSA|||ulonwabo|||11
+African dream root|||A traditional herb used to induce vivid dreams and enhance spiritual practices.|||XHOSA|||ubulawu|||14
+yellow backed finch|||A type of small bird with yellow markings on its back.|||XHOSA|||isahombe|||7
+sneezing|||The act of expelling air from the lungs through the nose or mouth involuntarily.|||XHOSA|||uthimlo|||11
+surgery|||medical procedure involving an incision to treat or investigate a condition|||XHOSA|||uqhaqho|||11
+red|||The color at the end of the visible spectrum, commonly associated with danger, temperament, and the essence of life.|||XHOSA|||ububomvu|||14
+sledge|||A vehicle of various forms, mounted on runners and often drawn by draft animals.|||XHOSA|||isileyi|||7
+polecat|||A small mammal of the weasel family known for its musky smell.|||XHOSA|||iqaqa|||5
+rich man|||A man who possesses a great deal of wealth and financial resources.|||XHOSA|||isinhanha|||7
+chair|||A piece of furniture for one person to sit on, with a back, legs, and sometimes arm supports.|||XHOSA|||isihlalo|||7
+depth|||The distance from the top or surface to the bottom of something.|||XHOSA|||ubunzulu|||14
+smile|||A pleased, kind, or amused facial expression, typically with the corners of the mouth turned up.|||XHOSA|||uncumo|||11
+waist|||The part of the human body below the ribs and above the hips.|||XHOSA|||isinqa|||7
+doctor|||A person trained and licensed to practice medicine.|||XHOSA|||ugqirha|||1
+danger|||The possibility of harm or adverse effects.|||XHOSA|||ubungozi|||14
+skills|||The ability to do something well, usually gained through training or experience.|||XHOSA|||ubuchule|||14
+council|||A body of people elected to manage the affairs of a city, county, or other municipal district.|||XHOSA|||ibhunga|||9
+disaster|||An event causing great damage or distress.|||XHOSA|||isihelegu|||7
+maize drink|||A traditional fermented beverage made from maize.|||XHOSA|||amarhewu|||6
+murderer|||A person who commits murder.|||XHOSA|||umbulali|||1
+meal|||The edible part of any grain or pulse ground to powder, such as cornmeal or oatmeal.|||XHOSA|||umgubo|||3
+actor|||A person who performs in plays, movies, or television shows.|||XHOSA|||umdlali-qonga|||1
+south|||The direction toward the bottom of a map; opposite of north.|||XHOSA|||umzantsi|||3
+tour|||A journey for pleasure in which several different places are visited.|||XHOSA|||ukhenketho|||11
+caring|||Displaying kindness and concern for others.|||XHOSA|||ukukhathalela|||15
+face|||The front part of a person's head from the forehead to the chin, or the corresponding part in an animal.|||XHOSA|||ubuso|||14
+parrot|||A bird with a curved beak, often kept as a pet.|||XHOSA|||isikhwenene|||7
+problem|||A matter or situation regarded as unwelcome or harmful.|||XHOSA|||ingxaki|||9
+crowd|||A large number of people gathered together.|||XHOSA|||isihlwele|||7
+barrel|||A cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops around them.|||XHOSA|||umphanda|||3
+ditch|||A long narrow excavation in the ground used for drainage or irrigation.|||XHOSA|||umsele|||3
+pasture|||Land covered with grass and other low plants suitable for grazing animals.|||XHOSA|||idlelo|||5
+gate|||A hinged barrier used to close an opening in a wall, fence, or hedge.|||XHOSA|||isango|||5
+padlock|||A detachable lock hanging by a pivoted hook on the object fastened.|||XHOSA|||iqhagi|||5
+apex|||The top or highest part of something, especially one forming a point.|||XHOSA|||incam|||9
+event|||An occurrence or happening, especially one of significant interest.|||XHOSA|||isiganeko|||7
+hunger|||A feeling of discomfort or weakness caused by lack of food.|||XHOSA|||ubulambo|||14
+widow|||A woman who has lost her spouse to death and has not remarried.|||XHOSA|||umhlolokazi|||1
+economy|||The system of production, consumption, and distribution of goods and services in a particular society.|||XHOSA|||uqoqosho|||11
+collective|||A cooperative group working together for a common purpose.|||XHOSA|||ilima|||5
+rooster|||A male domestic chicken, known for its loud crowing.|||XHOSA|||umqhagi|||3
+liberation struggle|||An organized effort to achieve freedom or liberation from oppression.|||XHOSA|||umzabalazo|||3
+ball|||A spherical or approximately spherical object used in games and sports.|||XHOSA|||ibhola|||9
+newspaper|||A publication, typically issued daily or weekly, containing news, articles, advertisements, and other features.|||XHOSA|||iphephandaba|||5
+square|||A shape with four equal sides and four right angles.|||XHOSA|||isikwere|||7
+rag|||A piece of old cloth, especially one torn from a larger piece, used typically for cleaning or wiping.|||XHOSA|||idlavu|||5
+battle|||A conflict or fight between opposing groups, typically as part of a war.|||XHOSA|||idabi|||5
+ethnicity|||A category of people identified by shared cultural, linguistic, or ancestral heritage.|||XHOSA|||ubuhlanga|||14
+patient|||a person receiving or registered to receive medical treatment.|||XHOSA|||isigulana|||7
+audit|||A formal examination of financial records.|||XHOSA|||uphicotho|||11
+event|||A planned public or social occasion.|||XHOSA|||ukhuphiswano|||11
+guest|||A person who is invited to visit or stay in someone's home.|||XHOSA|||undwendwe|||11
+conversation|||An informal talk in which people exchange thoughts, feelings, or ideas.|||XHOSA|||ulondolozo|||11
+stamp|||A small adhesive piece of paper stuck on mail as evidence of payment.|||XHOSA|||isitampu|||7
+area|||A particular extent of space or surface; a region.|||XHOSA|||ingingqi|||9
+reward|||Something given in recognition of service, effort, or achievement.|||XHOSA|||umvuzo|||3
+mat|||A piece of protective material placed on a floor or other surface.|||XHOSA|||isandlalo|||7
+kindheartedness|||The quality of being kind, generous, and compassionate.|||XHOSA|||isisa|||7
+manure|||Animal dung used for fertilizing land.|||XHOSA|||ubulongwe|||14
+wild cat|||A small, wild feline animal related to the domestic cat.|||XHOSA|||ingada|||9
+mongoose|||A small carnivorous mammal known for fighting snakes.|||XHOSA|||umhlangala|||3
+A Japanese yokai|||A mythological creature from Japanese folklore, described as an old woman with a child, who tricks passersby into holding the child, which then becomes a heavy stone.|||XHOSA|||ubume|||14
+redness|||The quality or condition of being red, often associated with irritation or inflammation.|||XHOSA|||ububomvu|||14
+tractor|||A powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and trailers.|||XHOSA|||ugandaganda|||1
+imperative of amendi|||A command or crucial action related to the word 'amendi'.|||XHOSA|||amendu|||6
+rectangle|||A plane figure with four straight sides and four right angles.|||XHOSA|||uxande|||11
+link|||A connection or relationship between people or things.|||XHOSA|||ikhonkco|||5
+assegai tree|||A type of tree known for producing wood used for traditional spears.|||XHOSA|||umgxina|||3
+youth|||The period between childhood and adult age; young people collectively.|||XHOSA|||ubuncinane|||14
+aspect|||A particular part or feature of something.|||XHOSA|||ibakala|||5
+introduction|||The action of introducing something or the state of being introduced.|||XHOSA|||isinqe|||7
+ocean|||A large, continuous body of saltwater.|||XHOSA|||ulwandle|||11
+village|||a small community or group of houses in a rural area.|||XHOSA|||idolophana|||9
+law|||The system of rules recognized as regulating actions within a community.|||XHOSA|||ubugqwetha|||14
+physics|||The branch of science concerned with the nature and properties of matter and energy.|||XHOSA|||ifiziki|||9
+anthem|||A rousing or uplifting song identified with a particular group, body, or cause.|||XHOSA|||umhobe|||3
+butter|||A solid dairy product made by churning milk or cream.|||XHOSA|||ibhotolo|||9
+corpse|||A dead body, especially of a human being.|||XHOSA|||isidumbu|||7
+circumcision|||The surgical removal of the foreskin of males.|||XHOSA|||ulwaluko|||11
+tree|||A perennial plant with an elongated stem, or trunk, supporting branches and leaves.|||XHOSA|||umthi|||3
+predator|||An animal that naturally preys on others.|||XHOSA|||irhamncwa|||5
+zero|||The number 0; a point of no value or quantity.|||XHOSA|||iqanda|||5
+dried fruit|||Fruit that has been dried to preserve it.|||XHOSA|||umqwayitho|||3
+cheek|||The soft, fleshy part of the face below the eyes, forming the side of the face.|||XHOSA|||isidlele|||7
+voter|||A person who has the right to vote in an election.|||XHOSA|||umvoti|||1
+milk|||A white liquid produced by the mammary glands of mammals, rich in nutrients and used as food.|||XHOSA|||ubisi|||11
+thirst|||A sensation of needing or wanting to drink.|||XHOSA|||unxano|||11
+operation|||A medical procedure involving an incision with instruments.|||XHOSA|||uqhaqho|||11
+bandit|||An outlaw who engages in crime and often violent behavior.|||XHOSA|||isigebenga|||7
+group|||A number of people or things that are located, gathered, or classed together.|||XHOSA|||iqela|||5
+hyperbole|||Exaggerated statements or claims not meant to be taken literally.|||XHOSA|||umbabazo|||3
+blossom|||The flower or bloom of a plant, especially one that produces fruit.|||XHOSA|||imbali|||9
+visitor|||A person visiting a place, especially socially or as a tourist.|||XHOSA|||umtyeleli|||1
+writer|||A person who writes books, stories, or articles as a profession.|||XHOSA|||umlobi|||1
+envy|||A feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.|||XHOSA|||ubukhwele|||14
+peanut|||A type of legume commonly roasted and eaten as a snack.|||XHOSA|||indongomane|||5
+bath|||A container filled with water for washing the body.|||XHOSA|||ibhavu|||9
+fire|||Combustion in which substance undergoes rapid oxidation and produces heat and usually light.|||XHOSA|||umlilo|||3
+hypochondria|||A condition involving excessive worry about having a serious illness.|||XHOSA|||ufuba|||11
+clod|||A lump of earth or clay.|||XHOSA|||igada|||5
+wound|||An injury to the body caused by a cut, blow, or other impact, typically one in which the skin is cut or broken.|||XHOSA|||inxeba|||5
+basket|||A container used for carrying items, typically made from woven strips of cane or wire.|||XHOSA|||ingobozi|||9
+steel|||a strong, hard metal made of iron and carbon|||XHOSA|||isitali|||7
+reptile|||A cold-blooded, egg-laying vertebrate such as a snake, lizard, or turtle.|||XHOSA|||isirhubuluzi|||7
+rhinoceros|||A large, thick-skinned, horned mammal.|||XHOSA|||umkhombe|||3
+neighbour|||A person living near or next door to the speaker or person referred to.|||XHOSA|||ummelwana|||1
+homepage|||The introductory or main page of a website, typically serving as a table of contents for the site.|||XHOSA|||umphandle|||3
+something small|||an object or item of small size|||XHOSA|||ucuntsu|||11
+a hair|||A single strand of hair.|||XHOSA|||unwele|||11
+small animal|||A small-sized animal.|||XHOSA|||isilwanyana|||7
+overview|||A general review or summary of a subject.|||XHOSA|||ubume|||14
+image|||A representation of the external form of a person or thing in art.|||XHOSA|||umfanekiso|||3
+quarrel|||An angry argument or disagreement between people.|||XHOSA|||ingxabano|||9
+trousers|||An outer garment covering the body from the waist to the ankles, with a separate part for each leg.|||XHOSA|||ibhulukhwe|||9
+storeroom|||A room or space where goods and supplies are stored.|||XHOSA|||uvimba|||1
+clip|||A device used for holding things together.|||XHOSA|||isipeliti|||7
+red ochre|||A natural earth pigment containing hydrated iron oxide, used as a pigment in art.|||XHOSA|||imbola|||9
+picture|||A painting or drawing.|||XHOSA|||umfanekiso|||3
+claw|||A curved pointed appendage at the end of a limb of some animals.|||XHOSA|||uzipho|||11
+baby carrier|||A cloth or device used to carry babies on the back.|||XHOSA|||imbeleko|||9
+naught|||The numerical value zero; nothing at all.|||XHOSA|||unothi|||11
+shoe|||A covering for the foot, typically made of leather or other durable material.|||XHOSA|||inyathelo|||5
+saliva|||A watery fluid secreted in the mouth.|||XHOSA|||amathe|||6
+car in bad shape|||A vehicle that is in poor or dilapidated condition.|||XHOSA|||isikorokoro|||7
+budget|||An estimate of income and expenditure for a set period of time.|||XHOSA|||indleko|||9
+church|||A building used for public Christian worship.|||XHOSA|||icawa|||9
+chapter|||A main division of a book, typically with a number or title.|||XHOSA|||isahluko|||7
+imperfect indicative|||The first/third-person singular imperfect form of the verb 'igar'.|||XHOSA|||igaba|||5
+tenant|||A person who occupies land or property rented from a landlord.|||XHOSA|||ibhoda|||9
+mankind|||The human race or humanity in general.|||XHOSA|||ubudoda|||14
+cook|||a person who prepares and cooks food|||XHOSA|||umpheki|||1
+dispute|||A disagreement or argument about something important.|||XHOSA|||ingxabano|||9
+love|||An intense feeling of deep affection.|||XHOSA|||uthando|||11
+manhood|||The state or condition of being an adult man.|||XHOSA|||ubudoda|||14
+flatness|||The quality of having a level surface or being even.|||XHOSA|||ubucwecwe|||14
+lunatic|||A person who is mentally ill, typically in a severe way.|||XHOSA|||igeza|||5
+feud|||A prolonged and bitter quarrel or dispute.|||XHOSA|||imbambano|||9
+joint|||A point where two things, typically parts of a structure, are joined.|||XHOSA|||isihlomelo|||7
+dignity|||The state or quality of being worthy of honor or respect.|||XHOSA|||isidima|||7
+right side|||The side of the body or object that is on the east when one is facing north.|||XHOSA|||ukunene|||17
+bucket|||A cylindrical container for holding and carrying liquids or other materials.|||XHOSA|||i-emele|||9
+fever|||A temporary increase in body temperature, often due to an illness.|||XHOSA|||ifiva|||9
+goose|||A waterbird with a long neck, known for migrating in flocks.|||XHOSA|||urhanisi|||1
+specialist|||A person with expert knowledge in a particular area.|||XHOSA|||incutshe|||9
+red ochre|||A natural earth pigment containing hydrated iron oxide, used for its red coloring.|||XHOSA|||ibomvu|||5
+arm|||A limb of the human body that extends from the shoulder to the hand.|||XHOSA|||ingalo|||9
+pimple|||A small inflamed swelling on the skin.|||XHOSA|||iqhakuva|||5
+nail|||A thin, horny plate forming a covering on the upper surface of the end joint of each finger and toe.|||XHOSA|||uzipho|||11
+crocus|||a small, spring-flowering plant with vibrant colored flowers|||XHOSA|||umfiyo|||3
+vegetable|||A plant or part of a plant used as food.|||XHOSA|||umfuno|||3
+violence|||Physical force intended to hurt, damage, or kill.|||XHOSA|||ungquzulwano|||11
+tsotsi|||A term commonly used in Southern Africa to refer to a hoodlum or a petty criminal.|||XHOSA|||utsotsi|||1
+fellow|||A man or boy; a companion or comrade.|||XHOSA|||umfo|||1
+sunflower|||A tall plant with a large yellow flower head, grown for its edible seeds.|||XHOSA|||ujongilanga|||11
+thought|||An idea or mental process occurring in the mind.|||XHOSA|||ingcinga|||9
+soldier|||A person who serves in an army.|||XHOSA|||ijoni|||5
+sap|||A fluid carrying nutrients in plants.|||XHOSA|||incinda|||9
+offender|||A person who has committed a crime or illegal act.|||XHOSA|||isigilamkhuba|||7
+psalm|||A sacred song or hymn, particularly in a biblical context.|||XHOSA|||indumiso|||9
+search|||The act of looking for information or an object.|||XHOSA|||uphendlo|||11
+trip|||A journey or excursion, especially for pleasure.|||XHOSA|||uhambo|||11
+war|||A state of armed conflict between different countries or different groups within a country.|||XHOSA|||imfazwe|||9
+rust|||A reddish-brown coating on iron or steel formed by oxidation.|||XHOSA|||umhlwa|||3
+wild berry|||A berry that grows in the wild, especially those in the genus Rubus.|||XHOSA|||iqunube|||5
+hire|||The act of employing someone for work or services.|||XHOSA|||ingqesho|||9
+lung|||A respiratory organ in the chest that facilitates breathing in many vertebrate animals.|||XHOSA|||umphunga|||3
+frog|||A small tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping.|||XHOSA|||isele|||5
+top|||The highest point or part of something.|||XHOSA|||umphezulu|||3
+calling|||A strong urge toward a particular way of life or career; a vocation.|||XHOSA|||ubizo|||11
+rat|||A long-tailed rodent, often associated with urban areas and known for being a pest.|||XHOSA|||ibuzi|||9
+nephew|||The son of one's brother or sister, or of one's brother-in-law or sister-in-law.|||XHOSA|||umtshala|||1
+responsibility|||The state or fact of having a duty to deal with something.|||XHOSA|||uxanduva|||11
+line|||A long, narrow mark or band.|||XHOSA|||uluhlu|||11
+ugliness|||The quality of being unpleasant to look at.|||XHOSA|||ububi|||14
+strife|||angry or bitter disagreement over fundamental issues; conflict.|||XHOSA|||ingxabano|||9
+defendant|||An individual, company, or institution sued or accused in a court of law.|||XHOSA|||ummangalelwa|||1
+decision|||A conclusion or resolution reached after consideration.|||XHOSA|||isigqibo|||7
+agriculture|||The practice or science of farming, including cultivation of the soil for growing crops and rearing animals to provide food, wool, and other products.|||XHOSA|||ulimo|||11
+cross|||a geometrical figure consisting of two intersecting lines or bars|||XHOSA|||umnqamlezo|||3
+inheritance|||Property or assets received from an ancestor or predecessor.|||XHOSA|||ilifa|||5
+brother|||A male sibling.|||XHOSA|||umnakwe|||1
+big toe|||The largest toe on the human foot.|||XHOSA|||ubhontsi|||1
+rib|||A bone formed in pairs along the side of the chest.|||XHOSA|||imbambo|||9
+foot|||The lower extremity of the leg below the ankle, used for standing and walking.|||XHOSA|||unyawo|||11
+open country|||An area of open, uncultivated land.|||XHOSA|||indle|||9
+person full of oneself|||Someone who is conceited or self-important.|||XHOSA|||unkabi|||11
+neck|||The part of a person's or animal's body connecting the head to the rest of the body.|||XHOSA|||umqala|||3
+meat juice|||Liquid extracted from meat during the cooking process.|||XHOSA|||umhluzi|||3
+matrimony|||The state of being married.|||XHOSA|||umtshato|||3
+invitation|||A request or call for someone to attend an event or activity.|||XHOSA|||isimemo|||7
+hospital|||A medical facility where people receive treatment and care.|||XHOSA|||isibhedlele|||7
+singing|||The activity of performing songs or tunes by making musical sounds with the voice.|||XHOSA|||ukucula|||15
+year|||A period of twelve months.|||XHOSA|||umnyaka|||3
+inspector|||An official employed to ensure regulations are followed.|||XHOSA|||umhlodi|||1
+prayer|||A solemn request for help or expression of thanks addressed to God or another deity.|||XHOSA|||umthandazo|||3
+lake|||a large body of water surrounded by land, usually larger and deeper than a pond.|||XHOSA|||ichibi|||5
+dam|||A barrier constructed to hold back water and raise its level, forming a reservoir used to generate electricity or as a water supply.|||XHOSA|||idamu|||9
+journey|||An act of traveling from one place to another.|||XHOSA|||uhambo|||11
+famine|||A severe shortage of food that results in widespread hunger.|||XHOSA|||indlala|||9
+root|||The part of a plant that typically lies below the surface of the soil.|||XHOSA|||ingcambu|||9
+kraal|||An enclosure for livestock, traditionally seen in southern Africa.|||XHOSA|||uhlanti|||11
+pride|||A feeling of deep satisfaction derived from one's own achievements or qualities.|||XHOSA|||ikratshi|||5
+gentleman|||A courteous, gracious man with good manners.|||XHOSA|||umnumzana|||1
+opinion|||A view or judgment formed about something, not necessarily based on fact or knowledge.|||XHOSA|||uluvo|||11
+balloon|||A flexible bag filled with air or another gas.|||XHOSA|||ibhaloni|||9
+ancestor|||a person, typically one more remote than a grandparent, from whom one is descended.|||XHOSA|||umnyanya|||3
+important person|||A person of significance or high rank.|||XHOSA|||isinxibamxhaka|||7
+animal|||A living organism that feeds on organic matter, typically having specialized sense organs and a nervous system.|||XHOSA|||isilwane|||7
+slate|||A fine-grained gray, green, or bluish metamorphic rock easily split into smooth, flat pieces.|||XHOSA|||isileyiti|||7
+kilt|||A knee-length garment with pleats at the back, originating from Scotland.|||XHOSA|||umtsheke|||3
+presence|||The state or fact of existing, occurring, or being present.|||XHOSA|||ubukho|||14
+large shield|||A broad piece of armor used for protection, especially used by someone in combat.|||XHOSA|||isihlangu|||7
+summer|||The warmest season of the year, occurring between spring and autumn.|||XHOSA|||ihlobo|||5
+pressure|||The force applied perpendicular to the surface of an object per unit area.|||XHOSA|||uxinzelelo|||11
+hide and seek|||A children's game where one player closes their eyes for a short period of time while the other players hide, then the 'seeker' tries to find the hidden players.|||XHOSA|||undize|||11
+belly button|||The small, depressed scar on the abdomen.|||XHOSA|||umbhono|||3
+hoe|||A garden tool with a thin metal blade used for weeding and breaking up soil.|||XHOSA|||igaba|||5
+builder|||A person who constructs or repairs buildings.|||XHOSA|||umakhi|||1
+front|||The foremost part or surface.|||XHOSA|||ubuso|||14
+back of the kraal|||The rear part of an enclosure used for livestock.|||XHOSA|||umthonyama|||3
+payer|||An individual or entity that makes a payment for goods, services, or debts.|||XHOSA|||umhlawuli|||1
+management|||The process of dealing with or controlling things or people.|||XHOSA|||ulawulo|||11
+jaw|||The bone structure forming the framework of the mouth.|||XHOSA|||umhlathi|||3
+test|||A procedure for assessing something's performance or quality.|||XHOSA|||uvavanyo|||11
+carrot|||A root vegetable, typically orange in color, known for its nutritional value and sweet taste.|||XHOSA|||umnqathe|||3
+empty tin|||A container made of metal that is now vacant or devoid of contents.|||XHOSA|||igogogo|||5
+employer|||A person or organization that hires people to work for them.|||XHOSA|||umqeshi|||1
+mangrove|||A type of tree or shrub that grows in coastal saline or brackish water.|||XHOSA|||isikhangati|||7
+Africa|||A large continent located south of Europe and borders the Atlantic and Indian Oceans.|||XHOSA|||i-Afrika|||5
+laughter|||The action or sound of laughing, often expressed as a response to humor or joy.|||XHOSA|||ukuhleka|||15
+expert|||a person with a high level of knowledge or skill in a particular area.|||XHOSA|||ingcungela|||9
+winter|||The coldest season of the year, occurring between autumn and spring.|||XHOSA|||ubusika|||14
+calf|||A young cow or bull.|||XHOSA|||ithole|||5
+criminal|||A person who has committed a crime.|||XHOSA|||igxagxa|||5
+history|||The study of past events, particularly in human affairs.|||XHOSA|||imbali|||9
+calf|||The young of a cow or other larger animal such as a whale.|||XHOSA|||isiquluba|||7
+white powder|||A loose, solid substance consisting of fine white particles.|||XHOSA|||ingceke|||9
+wealth|||abundance of valuable possessions or money|||XHOSA|||indyebo|||9
+bank|||A financial institution licensed to receive deposits and provide loans.|||XHOSA|||ibhanki|||9
+parent|||A father or mother; a person who has given birth to or raised a child.|||XHOSA|||umzali|||1
+district|||An area of a country or city marked by shared features or purposes.|||XHOSA|||ihlelo|||5
+poetry|||Literary work in which the expression of feelings and ideas is given intensity by the use of distinctive style and rhythm.|||XHOSA|||isihobe|||7
+fight|||A violent confrontation or struggle.|||XHOSA|||umlo|||3
+cheek|||The fleshy part of the face that is located below the eye and between the nose and the ear.|||XHOSA|||umhlathi|||3
+basket|||a container used for holding or carrying things, typically made from interwoven strips|||XHOSA|||umnyazi|||3
+spinach|||A leafy green flowering plant used as a vegetable.|||XHOSA|||isipinatshi|||7
+to dampen|||To make something slightly wet or less intense.|||XHOSA|||umda|||3
+permanent|||lasting or intended to last or remain unchanged indefinitely.|||XHOSA|||isigxina|||7
+palace|||The official residence of a sovereign, archbishop, bishop, or other exalted person.|||XHOSA|||ibhotwe|||5
+shark|||A large fish known for its sharp teeth and predatory behavior.|||XHOSA|||ukrebe|||1
+room|||A part or division of a building enclosed by walls, floor, and ceiling.|||XHOSA|||igumbi|||5
+gardener|||A person who tends and cultivates a garden as a pastime or for a living.|||XHOSA|||umlimi|||1
+flour|||A powder made by grinding raw grains or roots.|||XHOSA|||umgubo|||3
+dung beetle|||a beetle that rolls balls of dung in which it lays its eggs.|||XHOSA|||uqongqothwane|||1
+rapist|||A person who commits the crime of sexual assault.|||XHOSA|||isidlwengu|||7
+clay|||A natural earth material that is plastic when wet and used for pottery, bricks, and other objects.|||XHOSA|||udongwe|||11
+wire|||Thin metal drawn out into a string-like form.|||XHOSA|||ingcingo|||9
+gnome|||A mythical creature, often small and humanoid, in folklore.|||XHOSA|||utikoloshe|||1
+eyelash|||The short hairs growing on the edge of the eyelids.|||XHOSA|||ukhophe|||11
+parrot|||A brightly colored tropical bird known for its ability to imitate sounds.|||XHOSA|||isikhwenene|||7
+dream|||A series of thoughts, images, or emotions occurring during sleep.|||XHOSA|||iphupho|||5
+circle|||A round plane figure whose boundary consists of points equidistant from the center.|||XHOSA|||isazinge|||7
+eyelid|||A movable fold of skin and muscle that can be closed to cover and protect the eye.|||XHOSA|||ukhophe|||11
+million|||The number one thousand thousand (1,000,000).|||XHOSA|||isigidi|||7
+correspondence|||Written communication exchanged between people, commonly in the form of letters or emails.|||XHOSA|||imbalelwano|||9
+search|||An act of looking for or seeking something.|||XHOSA|||uphendlo|||11
+untruth|||A statement that is not in accordance with the facts.|||XHOSA|||ubuxoki|||14
+robbery|||The crime of taking or attempting to take something of value by force or threat of force.|||XHOSA|||uqhekezo|||11
+ash|||The powdery residue left after burning something.|||XHOSA|||uthuthu|||11
+clarification|||An explanation or statement that makes something clear.|||XHOSA|||ingcaciso|||9
+noise|||A sound, especially one that is loud or disturbing.|||XHOSA|||ingxolo|||9
+nerve|||A bundle of fibers that transmits electrical impulses between the brain and other parts of the body.|||XHOSA|||umthambo|||3
+arts|||Creative disciplines, such as painting, music, and dance.|||XHOSA|||ubugcisa|||14
+gender|||A category used to describe the characteristics of being male or female.|||XHOSA|||isini|||7
+island|||A piece of land surrounded by water.|||XHOSA|||isiqithi|||7
+witness box|||The enclosed space in a courtroom where a witness gives evidence.|||XHOSA|||umkhumbi|||3
+initiate|||A person who is beginning a process or journey, often in a formal ceremony.|||XHOSA|||umkhwetha|||1
+accident|||An unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury.|||XHOSA|||ingozi|||9
+research|||The systematic investigation into and study of materials and sources to establish facts and reach new conclusions.|||XHOSA|||uphando|||11
+bathtub|||A large container for holding water in which a person may bathe.|||XHOSA|||ibhafu|||9
+multitude|||a large number, gathering, or quantity of people or things.|||XHOSA|||uthotho|||11
+piece of meat|||A portion or chunk of meat, usually cut or prepared for cooking or eating.|||XHOSA|||umnqatha|||3
+mosquito|||A small flying insect known for biting and possibly transmitting diseases.|||XHOSA|||ingcongconi|||9
+fist|||A person's hand when the fingers are bent in towards the palm and held tightly.|||XHOSA|||inqindi|||5
+incense|||A substance that is burned for the sweet smell it produces.|||XHOSA|||isiqhumiso|||7
+mine|||An excavation in the earth for extracting coal or other minerals.|||XHOSA|||umgodi|||3
+kinship|||A connection through family or blood relations.|||XHOSA|||ubuhlobo|||14
+infection|||The invasion and multiplication of microorganisms in body tissues.|||XHOSA|||usulelo|||11
+windpipe|||the trachea; a tube in the throat that leads to the lungs.|||XHOSA|||uqhoqhoqho|||1
+file|||A collection of documents or records.|||XHOSA|||umqulu|||3
+lighter|||a small device for making fire, often used to light cigarettes.|||XHOSA|||idosha|||9
+horn|||A hard, permanent outgrowth, often curved and pointed, on the head of some animals.|||XHOSA|||iphondo|||5
+murmuring person|||A person who speaks in a low, gentle voice or mutters.|||XHOSA|||umdumzeli|||1
+nun|||A member of a religious community of women, typically living under vows of poverty, chastity, and obedience.|||XHOSA|||unongendi|||1
+tenacity|||The quality or fact of being able to grip something firmly; determination.|||XHOSA|||unama|||11
+rectangular European styled house|||A house designed in a rectangular shape, common in European architecture.|||XHOSA|||uxande|||11
+type of porridge|||A dish made by boiling ground grains, commonly found in various cultures' cuisines.|||XHOSA|||isidudu|||7
+container|||An object used for holding or transporting something.|||XHOSA|||isingxobo|||7
+desk|||A piece of furniture with a flat top used for writing, reading, or working.|||XHOSA|||idesika|||9
+trade|||the action of buying, selling, or exchanging goods or services|||XHOSA|||urhwebo|||11
+elder brother|||A male sibling who is older than oneself.|||XHOSA|||umkhuluwa|||1
+smoke|||The visible vapor and gases given off by a burning substance.|||XHOSA|||umsi|||3
+type|||A category or class made up of items of the same kind or having similar characteristics.|||XHOSA|||udidi|||11
+fierce wrathful person|||An extremely angry or aggressive individual.|||XHOSA|||isirhalarhume|||7
+nausea|||A feeling of sickness with an inclination to vomit.|||XHOSA|||ubucaphucaphu|||14
+noun stem|||The main part of a noun to which prefixes or suffixes can be added.|||XHOSA|||isimaphambili|||7
+seriousness|||The quality of being serious or solemn.|||XHOSA|||undileko|||11
+dust|||Fine, dry particles of matter found in places where they are usually unwanted.|||XHOSA|||uthuli|||11
+violence|||Behavior involving physical force intended to hurt or damage.|||XHOSA|||udushe|||11
+creator|||A being or person who brings something into existence.|||XHOSA|||umdali|||1
+document|||A written, drawn, presented, or recorded artifact.|||XHOSA|||uxwebhu|||11
+expression|||The process of making known one's thoughts or feelings.|||XHOSA|||ibinzana|||5
+boron|||A chemical element with atomic number 5.|||XHOSA|||ibhoron|||9
+mankind|||Human beings considered collectively; the human race.|||XHOSA|||ubudoda|||14
+separation|||The action or state of moving or being moved apart.|||XHOSA|||isahlukaniso|||7
+policeman|||A male police officer.|||XHOSA|||ipolisa|||5
+goat|||A domesticated ruminant animal raised for its milk and meat.|||XHOSA|||ibhokhwe|||9
+dead person|||Someone who is no longer alive.|||XHOSA|||umfi|||1
+hat|||a head covering, typically with a brim, worn for warmth, fashion, or protection.|||XHOSA|||umnqwazi|||3
+bad deed|||An action that is morally wrong or evil.|||XHOSA|||isono|||7
+killer|||A person or thing that kills.|||XHOSA|||umbulali|||1
+relationship|||The way in which two or more people or things are connected.|||XHOSA|||ubuhlobo|||14
+kraal|||An enclosure for livestock or the traditional village used by some African peoples.|||XHOSA|||ubuhlanti|||14
+inhabitant|||A person or animal that lives in a particular place.|||XHOSA|||ummi|||1
+council|||A group of people convened for advice or discussion.|||XHOSA|||ibhunga|||9
+assistance|||The act of helping or aiding someone.|||XHOSA|||uncedo|||11
+kernel|||The softer, usually edible part of a nut, seed, or fruit stone contained within its shell.|||XHOSA|||ukhozo|||11
+joy|||A feeling of great pleasure and happiness.|||XHOSA|||ingcobo|||9
+hunter|||A person or animal that hunts animals for food or sport.|||XHOSA|||umzingeli|||1
+father|||A male parent.|||XHOSA|||utata|||1
+woman|||An adult female human.|||XHOSA|||umfazi|||1
+quarrel|||an angry argument or disagreement|||XHOSA|||ingxabano|||9
+representative|||A person chosen or appointed to act or speak for another.|||XHOSA|||ummeli|||1
+noun|||A word that is the name of a person, place, thing, or idea.|||XHOSA|||isibizo|||7
+hornet|||A large, aggressive wasp known for its painful sting.|||XHOSA|||unomanxezane|||1
+gravy|||A sauce made by thickening and seasoning meat juices.|||XHOSA|||umhluzi|||3
+nausea|||A feeling of sickness with an inclination to vomit.|||XHOSA|||isicaphucaphu|||7
+cancer|||A disease caused by an uncontrolled division of abnormal cells.|||XHOSA|||umdlavuza|||3
+glory|||High renown or honor won by notable achievements.|||XHOSA|||ubungangamsha|||14
+younger brother|||A male sibling who is younger than oneself.|||XHOSA|||umninawa|||1
+ship|||A large watercraft that travels on water, carrying people or goods.|||XHOSA|||umkhumbi|||3
+front|||The foremost part or area.|||XHOSA|||umphambili|||3
+brother|||A male sibling.|||XHOSA|||umntase|||1
+square|||A plane figure with four equal straight sides and four right angles.|||XHOSA|||isikwere|||7
+proverb|||A short, well-known saying that expresses a general truth or piece of advice.|||XHOSA|||iqhalo|||5
+young man|||A male youth or young adult.|||XHOSA|||umlisela|||1
+hero|||A person who is admired for their courage, outstanding achievements, or noble qualities.|||XHOSA|||iqhawe|||5
+quotation|||A repetition of someone else's statement or thoughts.|||XHOSA|||isicatshulwa|||7
+elbow|||The joint or bend of the arm between the upper arm and the forearm.|||XHOSA|||ingqiniba|||9
+proverb|||A short, well-known saying that expresses a general truth or piece of advice.|||XHOSA|||isafobe|||7
+driver ant|||A species of ant known for its aggressive foraging groups that move en masse.|||XHOSA|||igaxothi|||5
+tune|||A melody, especially a simple and easily remembered one.|||XHOSA|||umlozi|||3
+authority|||The power or right to give orders, make decisions, and enforce obedience.|||XHOSA|||igunya|||5
+ostrich|||A large, flightless bird native to Africa, known for its long neck and legs.|||XHOSA|||inciniba|||9
+step|||A single movement of the foot with the purpose of walking or running.|||XHOSA|||inyathelo|||5
+intersection|||A place where two or more roads meet or cross.|||XHOSA|||isiphambuka|||7
+claim|||A demand or request for something considered one's due.|||XHOSA|||ibango|||5
+assegai tree|||A type of tree, usually found in Africa, known for its spear-like shape.|||XHOSA|||umgxina|||3
+caution|||The trait of being careful in actions and decisions to avoid danger or mistakes.|||XHOSA|||ubulumko|||14
+liver|||A vital organ in the human body responsible for detoxification and metabolism.|||XHOSA|||isibindi|||7
+body|||The physical structure of a person or an animal.|||XHOSA|||umzimba|||3
+wealth|||An abundance of valuable possessions or money.|||XHOSA|||indyebo|||9
+witchcraft|||The practice of magical skills, spells, and abilities.|||XHOSA|||ubugqwirha|||14
+African wormwood|||A plant native to southern Africa, used for medicinal purposes.|||XHOSA|||umhlonyane|||3
+the human race|||All human beings considered collectively as a species.|||XHOSA|||isintu|||7
+mass|||A large body of matter with no definite shape.|||XHOSA|||ubunzima|||14
+bus|||A large vehicle that carries passengers by road.|||XHOSA|||ibhasi|||9
+oppressor|||A person or group that imposes unjust hardship on others.|||XHOSA|||umbandezeli|||1
+proverb|||A short, commonly known saying that expresses a truth or piece of advice.|||XHOSA|||isafobe|||7
+duty|||An obligation or responsibility assigned to someone.|||XHOSA|||isibophelelo|||7
+radiation|||The emission of energy as electromagnetic waves or particles.|||XHOSA|||ukugqatsa|||15
+research|||The systematic investigation into and study of materials and sources.|||XHOSA|||uphando|||11
+cob|||The central cylindrical core of an ear of corn.|||XHOSA|||isikhwebu|||7
+historian|||A person who studies or writes about history.|||XHOSA|||imbalisi|||9
+across|||from one side to the other of a place, area, etc.|||XHOSA|||ummi|||1
+congress|||A formal meeting or assembly for discussion among delegates.|||XHOSA|||ingqungquthela|||9
+fungus|||Any of a group of spore-producing organisms feeding on organic matter, including molds and mushrooms.|||XHOSA|||ikhowa|||5
+footprint|||An impression of the foot on a surface.|||XHOSA|||unyawo|||11
+duck|||A waterbird with a broad blunt bill, short legs, and webbed feet.|||XHOSA|||idada|||5
+help|||Assistance or support provided to someone.|||XHOSA|||uncedo|||11
+skills|||Proficiency, expertise, or competence in a particular area.|||XHOSA|||ubuchule|||14
+whale|||A large marine mammal known for its size and aquatic adaptations.|||XHOSA|||umnenga|||3
+repetition|||The action of repeating something that has already been said or written.|||XHOSA|||uphindaphindo|||11
+tortoise|||A land-dwelling reptile known for its hard shell and slow movement.|||XHOSA|||ufudo|||11
+goat|||A hardy domesticated ruminant animal.|||XHOSA|||imbuzi|||9
+photographer|||A person who takes photographs, especially as a job.|||XHOSA|||umfoti|||1
+address|||A location for receiving mail or directions to a place.|||XHOSA|||idilesi|||9
+rugby|||A team sport played with an oval ball that may be kicked, carried, and passed from hand to hand.|||XHOSA|||umbhoxo|||3
+campaign|||An organized course of action to achieve a particular goal, typically in politics or business.|||XHOSA|||umkhankaso|||3
+youth|||The time in life when a person is young, especially the period between childhood and adulthood.|||XHOSA|||ulutsha|||11
+room|||A part of a building enclosed by walls and used for a particular purpose.|||XHOSA|||igumbi|||5
+switch|||A slender, flexible shoot or rod used for swatting or whipping.|||XHOSA|||uswazi|||11
+occupier|||A person who resides in or uses a place.|||XHOSA|||umhlali|||1
+licence|||An official permit to do or own something.|||XHOSA|||iphephamvume|||5
+boron|||A chemical element with the symbol B, essential in plant growth.|||XHOSA|||ibhoron|||9
+scarcity|||The state of being in short supply; a situation in which something is not easy to find or obtain.|||XHOSA|||ukusweleka|||15
+election|||a formal and organized choice by vote of a person for a political office or other position.|||XHOSA|||unyulo|||11
+heat|||The quality of being hot; high temperature.|||XHOSA|||ubushushu|||14
+holiness|||The quality or state of being holy.|||XHOSA|||ubungcwele|||14
+essay|||A short piece of writing on a particular subject.|||XHOSA|||isincoko|||7
+sea|||A large body of saltwater smaller than an ocean.|||XHOSA|||ulwandle|||11
+quill pen|||A writing implement made from a feather used in the past.|||XHOSA|||usiba|||11
+hill|||A naturally raised area of land, not as high or craggy as a mountain.|||XHOSA|||ummango|||3
+party|||A social gathering of invited guests, typically involving eating, drinking, and entertainment.|||XHOSA|||itheko|||5
+pauper|||A very poor person.|||XHOSA|||ihlwempu|||5
+tortoise|||A land-dwelling reptile known for its slow movement and hard shell.|||XHOSA|||ufudo|||11
+bathroom|||A room containing a toilet and usually a shower or bathtub.|||XHOSA|||ibhafrum|||9
+duty|||A moral or legal obligation; a responsibility.|||XHOSA|||isibophelelo|||7
+forehead|||The part of the face above the eyebrows.|||XHOSA|||ibunzi|||5
+tramp|||A person who travels on foot, often without a permanent home or employment.|||XHOSA|||irhanuga|||5
+lamb|||A young sheep.|||XHOSA|||itakane|||5
+hole|||An opening or gap.|||XHOSA|||ikroba|||5
+manliness|||Qualities traditionally associated with men.|||XHOSA|||ubudoda|||14
+heavy rain|||a large amount of rain that falls in a short amount of time.|||XHOSA|||isiphango|||7
+madman|||A man who is insane or wildly foolish.|||XHOSA|||igeza|||5
+ending|||The final part of something, especially a period of time, an activity, or a narrative.|||XHOSA|||ukuphela|||15
+village|||A small community or group of houses in a rural area.|||XHOSA|||umzi|||3
+question|||A sentence or phrase used to find out information.|||XHOSA|||umbuzo|||3
+manhood|||The condition or stage of being a man.|||XHOSA|||ubudoda|||14
+calf|||A young bovine animal, especially a domestic cow or bull in its first year.|||XHOSA|||ithole|||5
+menu|||A list of dishes available in a restaurant or a list of options available to a user on a computer screen.|||XHOSA|||uludwe|||11
+savanna|||A grassy plain in tropical and subtropical regions, often with scattered trees.|||XHOSA|||isandle|||7
+beryllium|||A chemical element with symbol Be and atomic number 4.|||XHOSA|||ibheriliya|||9
+province|||A principal administrative division of certain countries or empires.|||XHOSA|||iphondo|||5
+proverb|||a short, well-known saying that expresses a general truth or advice|||XHOSA|||umzekeliso|||3
+deputy|||A person appointed as a substitute or assistant for another.|||XHOSA|||ibamba|||5
+ancestor|||A person from whom one is descended, often venerated.|||XHOSA|||idlozi|||5
+plot of land|||A small piece of land used for specific purposes.|||XHOSA|||isiqithi|||7
+lip|||The fleshy border of the mouth.|||XHOSA|||umlebe|||3
+jacket|||A piece of clothing worn on the upper body over other clothes, usually for warmth or protection.|||XHOSA|||ibhatyi|||9
+fairy|||A small imaginary being of human form with magical powers.|||XHOSA|||umkholonjane|||3
+expert in driving away|||A person skilled in dismissing or dispersing others.|||XHOSA|||ingxothi|||9
+advice|||Guidance or recommendations offered regarding prudent action.|||XHOSA|||ingcebiso|||9
+large puff adder|||A large venomous snake species found in Africa.|||XHOSA|||ibululu|||9
+vision|||The ability to see or a mental image of a possible future event.|||XHOSA|||umbulo|||3
+cockroach|||A type of insect known for its flat, oval body and ability to survive in rough environments.|||XHOSA|||iphela|||5
+albatross|||A large seabird known for its large wingspan, found mainly in the Southern Ocean.|||XHOSA|||ingabangaba|||9
+lamp|||A device that produces light by electricity or gas.|||XHOSA|||isibane|||7
+desk|||A piece of furniture with a flat top for writing or working.|||XHOSA|||idesika|||9
+person with a limp|||An individual who moves unevenly due to an injury or disability.|||XHOSA|||isiqhwala|||7
+dried meat|||Meat that has been dehydrated to preserve it.|||XHOSA|||umqwayito|||3
+chaff|||Husks of corn or other seed separated by threshing.|||XHOSA|||umququ|||3
+source|||A place, person, or thing from which something originates.|||XHOSA|||ijelo|||5
+adversity|||A difficult or unpleasant situation.|||XHOSA|||imbandezelo|||9
+finger|||One of the five digits of the hand, especially one other than the thumb.|||XHOSA|||umnwe|||3
+lamb|||A young sheep, especially one that is not yet one year old.|||XHOSA|||itakane|||5
+math|||The abstract science of number, quantity, and space.|||XHOSA|||isibalo|||7
+king cricket|||A type of large, wingless cricket known for its prominent size.|||XHOSA|||ubhomoyi|||1
+Saturday|||The day of the week following Friday and preceding Sunday.|||XHOSA|||uMgqibelo|||3
+over|||extending directly upward from someone or something|||XHOSA|||ummi|||1
+fool|||A person who acts unwisely or imprudently.|||XHOSA|||isidenge|||7
+floor|||The surface of a room on which one stands.|||XHOSA|||umgangatho|||3
+dove|||A type of bird known for its gentle nature and often associated with peace.|||XHOSA|||ihobe|||5
+citizenship|||The status of being a legal member of a specific country.|||XHOSA|||ubumi|||14
+headman|||A local leader or chief in a tribal community.|||XHOSA|||usibonda|||1
+band|||a flat, thin strip or loop of material put around something, typically to hold it together or on.|||XHOSA|||ibhanti|||5
+security|||the state of being free from danger or threat.|||XHOSA|||ukhuseleko|||1
+baldness|||The condition of having no hair on the scalp.|||XHOSA|||ubunkqayi|||14
+agriculture|||The practice of farming and cultivation of the soil.|||XHOSA|||ulimo|||11
+cause|||A person or thing that gives rise to an action, phenomenon, or condition.|||XHOSA|||ubangwa|||11
+shoe|||A covering for the foot, typically made of leather, with a sturdy sole and not reaching above the ankle.|||XHOSA|||isihlangu|||7
+lid|||A removable or hinged cover for a container.|||XHOSA|||isiciko|||7
+scientist|||A person engaged in systematic activity to acquire knowledge.|||XHOSA|||isazinzulu|||7
+damselfly|||A slender-bodied insect related to the dragonflies, typically resting with wings folded.|||XHOSA|||isabonkolo|||7
+orderliness|||The quality of being methodically organized.|||XHOSA|||ucwangco|||11
+thick piece of wood|||A large or dense section of wood.|||XHOSA|||isiqosho|||7
+our brother|||a male sibling or close male friend referred to collectively by sisters|||XHOSA|||umntakwethu|||1
+excitement|||A feeling of great enthusiasm and eagerness.|||XHOSA|||uchulumanco|||11
+hard worker|||A person who consistently puts in a lot of effort in their work or activities.|||XHOSA|||ikhuthala|||5
+motion|||A proposal put to a legislature or committee.|||XHOSA|||isiphakamiso|||7
+mosquito|||A small flying insect known for biting and possibly transmitting diseases.|||XHOSA|||idzedze|||5
+marvel|||A wonderful or astonishing person or thing.|||XHOSA|||ummangaliso|||3
+lunch|||A meal eaten in the middle of the day.|||XHOSA|||ilantshi|||5
+butter|||A dairy product made by churning cream.|||XHOSA|||ibhotolo|||9
+crocus|||A small, flowering plant known for its colorful blooms, often appearing in early spring.|||XHOSA|||umfiyo|||3
+sword|||A weapon with a long, metal blade used for thrusting or striking.|||XHOSA|||ikrele|||5
+madman|||A man who behaves in an uncontrolled or impulsive way.|||XHOSA|||igeza|||5
+ray|||A beam of light or energy.|||XHOSA|||umtha|||3
+potter|||A person who makes pottery.|||XHOSA|||umbumbi|||1
+dove|||A type of bird known for its soft cooing calls and association with peace.|||XHOSA|||ihobe|||5
+spancel|||A rope or strap used for hobbling a horse or other animal.|||XHOSA|||umtya|||3
+discussion|||The action or process of talking about something in order to reach a decision or to exchange ideas.|||XHOSA|||ingxoxo|||9
+masculinity|||Attributes or roles associated with being male.|||XHOSA|||ubudoda|||14
+insanity|||The state of being seriously mentally ill; madness.|||XHOSA|||ubugeza|||14
+shadow|||A dark area produced by a body coming between rays of light and a surface.|||XHOSA|||umthunzi|||3
+crop|||A cultivated plant grown as food, especially a grain, fruit, or vegetable.|||XHOSA|||isilimo|||7
+idiot|||A person of low intelligence or someone who acts in a foolish manner.|||XHOSA|||isibhanxa|||7
+report|||a written or spoken account of an event or situation|||XHOSA|||ingxelo|||9
+round object|||An object shaped like a sphere or circle.|||XHOSA|||igaqa|||5
+ancestor|||A person, typically one more remote than a grandparent, from whom one is descended in the cultural context.|||XHOSA|||umnyanya|||3
+feast|||A large meal, typically a celebratory one.|||XHOSA|||umbhiyozo|||3
+courage|||The ability to confront fear, pain, danger, uncertainty, or intimidation.|||XHOSA|||isibindi|||7
+drug|||A substance used for medical treatment to cure or alleviate symptoms of a condition.|||XHOSA|||ichiza|||5
+death|||The end of the life of a person or organism.|||XHOSA|||ukufa|||15
+abbreviation|||A shortened form of a word or phrase.|||XHOSA|||isishunqulelo|||7
+nature|||The inherent qualities or characteristics of the planet and life in general.|||XHOSA|||indalo|||9
+horse|||A large domesticated mammal used for riding or racing.|||XHOSA|||ipere|||5
+distance|||The amount of space between two points.|||XHOSA|||umgama|||3
+hole|||An opening or hollow space in the ground.|||XHOSA|||umgodi|||3
+mud dauber|||A type of wasp that builds mud structures for nesting.|||XHOSA|||isidunguli|||7
+singer|||A person who sings, typically professionally.|||XHOSA|||umculi|||1
+tourist|||A person who travels for pleasure.|||XHOSA|||umkhenkethi|||1
+marriage|||The legally or formally recognized union of two people as partners in a personal relationship.|||XHOSA|||umtshato|||3
+flower|||The reproductive structure in flowering plants, often colorful and fragrant.|||XHOSA|||imbali|||9
+pressure|||Continuous physical force exerted on or against an object by something in contact with it.|||XHOSA|||uxinzelelo|||11
+throat|||The passage that leads from the back of the mouth of a person or animal.|||XHOSA|||umqala|||3
+infection|||the invasion of body tissues by disease-causing agents, their multiplication, and the reaction of host tissues to these organisms and the toxins they produce.|||XHOSA|||ukusulela|||15
+cancer|||A disease caused by an uncontrolled division of abnormal cells in a part of the body.|||XHOSA|||umdlobha|||3
+beginning|||The point in time or space at which something starts.|||XHOSA|||ukuqala|||15
+scapula|||The bone that connects the humerus with the clavicle; shoulder blade.|||XHOSA|||ibango|||5
+loner|||A person who prefers not to associate with others.|||XHOSA|||ilolo|||5
+guide|||A person or thing that shows the way to others.|||XHOSA|||isikhokelo|||7
+registrar|||An official responsible for keeping a register or official records.|||XHOSA|||umbhexeshi|||1
+matter|||A subject under consideration or discussion.|||XHOSA|||umcimbi|||3
+sweet|||A pleasant taste characteristic often of sugar or honey.|||XHOSA|||uswidi|||11
+anthill|||A mound built by ants, typically in the soil or sand.|||XHOSA|||isiduli|||7
+businessman|||A man who works in business or commerce, especially at an executive level.|||XHOSA|||usomashishini|||1
+ship|||A large watercraft designed to travel on water, often for transporting passengers or cargo.|||XHOSA|||isikhephe|||7
+hailstorm|||A weather event involving falling pellets of frozen rain.|||XHOSA|||isichotho|||7
+guitar|||A stringed musical instrument played by strumming or plucking.|||XHOSA|||isiginkci|||7
+apple|||The round fruit of a tree of the rose family, typically with thin green or red skin and crisp flesh.|||XHOSA|||i-apile|||5
+bravery|||Courageous behavior or character.|||XHOSA|||ubukhalipha|||14
+Xhosa person|||An individual belonging to the Xhosa ethnic group.|||XHOSA|||umXhosa|||1
+sin|||An immoral act considered to be a transgression against divine law.|||XHOSA|||isono|||7
+young man|||A male youth or a man in the earlier stages of adulthood.|||XHOSA|||umfana|||1
+master|||A person with the ability or power to use or control something.|||XHOSA|||umnini|||1
+clan name|||A name identifying members of a clan or family group.|||XHOSA|||isiduko|||7
+neck|||The part of the body connecting the head to the rest of the body.|||XHOSA|||umxhadi|||3
+employment|||The state of having paid work.|||XHOSA|||ukuqeshwa|||15
+publication|||The process of printing or distributing literary or informational material.|||XHOSA|||ushicilelo|||11
+falcon|||A bird of prey, known for its speed and keen eyesight.|||XHOSA|||ukhetshe|||1
+cold|||a common viral infection that affects the nose, throat, and airways.|||XHOSA|||umkhuhlane|||3
+outside|||The external side or surface of something.|||XHOSA|||umphandle|||3
+relative|||A person connected by blood or marriage; a family member.|||XHOSA|||umzalwane|||1
+small piece|||A little part, fragment, or portion of something.|||XHOSA|||iqhekeza|||5
+janitor|||A person employed as a caretaker of a building.|||XHOSA|||umgcini-sango|||1
+manhood|||The state or condition of being a man.|||XHOSA|||ubudoda|||14
+ring|||a small circular band, typically of precious metal worn on a finger as an ornament or a token.|||XHOSA|||isangqa|||7
+old person|||An elderly person.|||XHOSA|||iluphala|||5
+statement|||a clear expression of something in speech or writing|||XHOSA|||ingxelo|||9
+rib|||One of the curved bones of the chest that are connected to the spine and protect the thoracic cavity.|||XHOSA|||ubambo|||11
+hen|||A female chicken, especially one kept for its eggs.|||XHOSA|||isikhukukazi|||7
+handmaid|||A female servant or attendant.|||XHOSA|||umkhonzazana|||3
+commencement|||The beginning or start of something.|||XHOSA|||ingqalo|||9
+fee|||A payment made for professional advice or services.|||XHOSA|||umrhumo|||3
+trainer|||A person who coaches or instructs others in a skill.|||XHOSA|||umqeqeshi|||1
+year|||A period of twelve months as a unit of time.|||XHOSA|||umnyaka|||3
+goat|||A domesticated animal kept for milk and meat.|||XHOSA|||imbuzi|||9
+baby bottle|||A bottle with a nipple used for feeding infants.|||XHOSA|||incanca|||9
+erector|||A person who puts something into position, such as a structure.|||XHOSA|||umakhi|||1
+owner|||A person who possesses something.|||XHOSA|||umnini|||1
+quail|||A small ground-dwelling bird often hunted for sport or food, known for its distinctive call.|||XHOSA|||isagwityi|||7

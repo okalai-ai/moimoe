@@ -1,0 +1,958 @@
+jar|||a jar is a cylindrical container with a wide mouth and lid, used for storing food|||KWANYAMA|||edjaaga|||5
+fig|||a fig is a sweet fruit that grows on a fig tree|||KWANYAMA|||onghwiyu|||9
+calm|||a state of tranquility, peace, and quietness, free from agitation, excitement, or disturbance|||KWANYAMA|||elotelo|||5
+ink|||ink is a colored fluid used for writing, drawing, printing, or duplicating|||KWANYAMA|||ohinga|||9
+goat|||a goat is a hardy domesticated ruminant animal that has backward curving horns and (in the male) a beard|||KWANYAMA|||oshikombo|||7
+liberty|||liberty refers to the state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views|||KWANYAMA|||emanguluko|||5
+butcher|||a butcher is a person who slaughters animals or prepares meat for sale|||KWANYAMA|||omutomi|||1
+education|||education is the process of receiving or giving systematic instruction, especially at a school or university|||KWANYAMA|||elongo|||5
+luncheon|||a luncheon is a formal lunch, or a formal word for lunch|||KWANYAMA|||omusha|||3
+hunch|||a hunch is a rounded lump or protuberance on the back of a person, often due to a medical condition|||KWANYAMA|||onhunda|||9
+history|||history is the study of past events, particularly in human affairs|||KWANYAMA|||ondjokonona|||9
+melon|||a melon is a large round fruit with a hard skin and sweet flesh|||KWANYAMA|||enuwa|||5
+chip|||a wood chip is something is a break off or cut away a small, thin piece from a larger object, often unintentionally or as a result of damage|||KWANYAMA|||oshixwandu|||7
+fag|||fag can also refer to a cigarette|||KWANYAMA|||ekaya|||5
+marksman|||a marksman is a person who is skilled in hitting targets|||KWANYAMA|||omuyashielela|||1
+mist|||mist is a natural phenomenon that occurs when tiny water droplets are suspended in the air, often seen in the early morning or late evening|||KWANYAMA|||oshihemime|||7
+bounty|||a generous amount of something, often given as a reward|||KWANYAMA|||oshiyandjwa|||7
+child|||a child is a young human being, typically one who has not yet reached puberty or the legal age of majority|||KWANYAMA|||okaana|||12
+orient|||orient refers to the countries of the east, especially east asia|||KWANYAMA|||oushilo|||14
+chastity|||chastity refers to the state of being morally pure in thought or conduct|||KWANYAMA|||oukoshoki|||14
+bullet|||a bullet is a projectile propelled from a gun, often made of metal, plastic, or rubber|||KWANYAMA|||oholo|||9
+hat|||a hat is a head covering often worn for protection against the sun or for fashion|||KWANYAMA|||embale|||5
+furnace|||a furnace is a device used for high-temperature heating, such as ore-smelting|||KWANYAMA|||ediko|||5
+brandy|||brandy is a type of strong alcoholic beverage that is made by distilling wine or fermented fruit juice|||KWANYAMA|||owalende|||9
+custody|||custody can also refer to the state of being imprisoned or confined|||KWANYAMA|||eidililo|||5
+padlock|||a padlock is a detachable lock with a hinged or sliding shackle that can be passed through a link, ring, staple, or the like|||KWANYAMA|||ekumba|||5
+head|||a head or leader is a person who leads or commands a group, organization, or country|||KWANYAMA|||omukulunhu|||1
+head|||the head is the upper part of the human body, where the brain, eyes, ears, nose, and mouth are located|||KWANYAMA|||omutwe|||3
+fighter|||a fighter is a person who engages in a conflict or struggle, often in a military context|||KWANYAMA|||omukwaita|||1
+camouflage|||camouflage refers to the method used by animals, military personnel, and equipment to blend in with their surroundings to avoid detection|||KWANYAMA|||ehondamo|||5
+clout|||a patch or piece of fabric used to mend or cover a hole or tear|||KWANYAMA|||oshivandeko|||7
+gold|||gold is a precious yellow metallic element that is used for making jewelry and ornaments, and as a standard for monetary systems|||KWANYAMA|||oshingolodo|||7
+epiphany|||epiphany is also a christian festival, celebrated on the 6th of january, that commemorates the visit of the magi to the baby jesus|||KWANYAMA|||epifani|||5
+iron|||iron is a strong, hard magnetic silvery-grey metal, often used in construction and manufacturing|||KWANYAMA|||oshivela|||7
+narrowness|||narrowness refers to the quality or state of being narrow.|||KWANYAMA|||ofina|||9
+pang|||a pang is a sudden sharp pain or painful emotion|||KWANYAMA|||oululume|||14
+appropriation|||appropriation is the act of taking something for one's own use, typically without the owner's permission|||KWANYAMA|||elikufilo|||5
+foreword|||a foreword is a short introduction to a book, typically by a person other than the author|||KWANYAMA|||omahovelo|||6
+compound|||a compound refers to a substance formed from two or more elements chemically united in fixed proportions.|||KWANYAMA|||elumbakanifo|||5
+fig-tree|||a fig tree is a type of tree that produces figs.|||KWANYAMA|||omukwiyu|||3
+mouth|||a mouth is the part of the face used for eating and speaking|||KWANYAMA|||okanya|||12
+livestock|||livestock refers to farm animals regarded as an asset|||KWANYAMA|||oimuna|||8
+nuisance|||a nuisance is a person, thing, or circumstance causing inconvenience or annoyance|||KWANYAMA|||oshikenyeneki|||7
+interest|||money paid regularly at a particular rate for the use of money lent, or for delaying the repayment of a debt|||KWANYAMA|||oshitanifo|||7
+interest|||a feeling of wanting to know or learn about something or someone|||KWANYAMA|||ohokwe|||9
+mediator|||a mediator is a person who attempts to make people involved in a conflict come to an agreement|||KWANYAMA|||omwaanuni|||9
+complaint|||a complaint is a formal expression of dissatisfaction or a grievance|||KWANYAMA|||oshibofa|||7
+bast|||bast refers to the fibrous material that is derived from the phloem, or inner bark, of certain plants.|||KWANYAMA|||ongodi|||9
+deterioration|||deterioration refers to the process of becoming progressively worse or declining in quality or condition.|||KWANYAMA|||enaipalo|||5
+carrion|||carrion refers to the decaying flesh of dead animals, unlike 'corpse,' which specifically denotes the dead body of a person, 'carrion' is more generally applied to dead and decaying animal flesh and is associated with a state of decomposition that attracts scavengers, such as vultures, hyenas, and certain insect species.|||KWANYAMA|||omudimba|||3
+interment|||interment refers to the burial of a corpse in a grave or tomb, typically with funeral rites|||KWANYAMA|||efudiko|||5
+bone|||a bone is any of the hard, whitish tissue making up the skeleton in humans and other vertebrates|||KWANYAMA|||ekipa|||5
+brook|||a brook is a small, natural stream of fresh water, often found in the countryside|||KWANYAMA|||okamulonga|||12
+decease|||decease refers to the death of a person|||KWANYAMA|||efyo|||5
+deaf person|||a deaf person is an individual who cannot hear|||KWANYAMA|||omufitamatwi|||1
+ant|||(red) a small insect, often with a sting, that usually lives in a complex social colony with one or more breeding queens.|||KWANYAMA|||okafelepuka|||12
+bible|||the bible is a sacred text in christianity, composed of two main sections: the old testament, which is shared with judaism, and the new testament, which outlines the life and teachings of jesus christ|||KWANYAMA|||ombiibeli|||9
+canon|||a canon is a general law, rule, principle, or criterion by which something is judged or evaluated|||KWANYAMA|||omango|||6
+jail|||a jail, or gaol, is a place where people are kept when they have been arrested and are being punished for a crime|||KWANYAMA|||odolongo|||9
+oath|||an oath is a solemn promise, often invoking a divine witness, regarding one's future action or behavior|||KWANYAMA|||eano|||5
+cattle|||cattle are large domesticated cloven-hoofed herbivores|||KWANYAMA|||eengobe|||10
+coquette|||a woman who flirts playfully with others, often without serious intentions|||KWANYAMA|||ekokavaya|||5
+cousin|||cousin refers to a child of one's uncle or aunt|||KWANYAMA|||omukwetu|||1
+gravy|||gravy is a sauce made from the juices of meats that run naturally during cooking and often thickened with wheat flour or cornstarch for added texture|||KWANYAMA|||omunghoka|||3
+belly|||the belly is the part of the body between the chest and the hips, containing the stomach and bowels|||KWANYAMA|||edimo|||5
+laziness|||laziness is the quality of being unwilling to work or use energy|||KWANYAMA|||oundede|||14
+nervousness|||nervousness is the state of feeling anxious, worried, or scared about something that is going to happen|||KWANYAMA|||oumbada|||14
+european|||a european is a person from or associated with europe.|||KWANYAMA|||omueuropa|||1
+covenant|||a covenant refers to a solemn agreement or contract|||KWANYAMA|||eudafano|||5
+mendicant|||a mendicant is a beggar or someone who lives by asking others for money or food|||KWANYAMA|||omweeheli|||9
+cutlery|||cutlery refers to knives, forks, and spoons used for eating or serving food|||KWANYAMA|||oilifo|||8
+celerity|||celerity refers to the speed or rapidity of motion or action|||KWANYAMA|||oshidudu|||7
+hull|||a hull can also refer to the outer covering of a nut or seed|||KWANYAMA|||oshipeta|||7
+male|||a male, in the context of a man, refers to a human adult who is biologically male|||KWANYAMA|||omulume|||1
+force|||compulsion or the use of coercion to make someone do something|||KWANYAMA|||ekondjofo|||5
+fable|||a fable is a short story, typically with animals as characters, conveying a moral lesson|||KWANYAMA|||ongano|||9
+grass|||grass refers to a common plant with narrow leaves that usually grow close to the ground|||KWANYAMA|||omwiidi|||9
+foam|||foam can also refer to the frothy substance that forms on top of beer|||KWANYAMA|||etutu|||5
+defeatism|||acceptance of defeat without struggle, often with negative or pessimistic attitude|||KWANYAMA|||eyombamununo|||5
+experience|||experience refers to the knowledge or skill that you gain from doing, using, or living through something|||KWANYAMA|||owino|||9
+body|||in this context, a body refers to a dead human or animal|||KWANYAMA|||oshilutu|||7
+interference|||interference refers to the action of interfering or the process of being interfered with|||KWANYAMA|||elidopo|||5
+facilities|||facilities refer to services, equipment, or resources that are provided for a particular purpose|||KWANYAMA|||oikwafelifo|||8
+mug|||a mug is a large cup with a handle, used for drinking hot beverages|||KWANYAMA|||onheka|||9
+drought|||a drought is a prolonged period of abnormally low rainfall, leading to a shortage of water|||KWANYAMA|||oshikukuta|||7
+mosquito|||a mosquito is a small flying insect that feeds on blood and can spread diseases|||KWANYAMA|||omwe|||9
+impact|||the action of one object coming forcibly into contact with another|||KWANYAMA|||elingwadjulo|||5
+impact|||impact refers to the effect or influence that an event, person, or situation has on someone or something|||KWANYAMA|||omupondo|||3
+combat|||combat refers to a fight or battle, often involving physical force or violence|||KWANYAMA|||elidengo|||5
+commandment|||a commandment is a divine rule or law, often considered to be of supreme importance|||KWANYAMA|||oshipango|||7
+bridge|||a bridge is a structure designed to span physical obstacles such as bodies of water, valleys, or roads, without closing the way underneath|||KWANYAMA|||onopa|||9
+mathematics|||mathematics is the abstract science of number, quantity, and space|||KWANYAMA|||omwaalu|||9
+bag|||a bag is a versatile container, typically made of cloth, leather, plastic, or similar flexible materials, with an opening at the top|||KWANYAMA|||ondjato|||9
+legal|||legal as a noun refers to the body of rules and regulations that are recognized by a community as binding|||KWANYAMA|||oveta|||9
+deception|||deception is the act of deceiving or misleading someone|||KWANYAMA|||ekotokelo|||5
+giant|||a giant is a very large or powerful person or thing, often used in myths and fairy tales|||KWANYAMA|||omutongolume|||1
+denunciation|||a denunciation is a public condemnation of someone or something|||KWANYAMA|||eshado|||5
+fellow-countryman|||a fellow-countryman is a person from the same country|||KWANYAMA|||omunashilongo|||1
+grain|||grain refers to the small hard seeds of food plants such as wheat, rice, etc.|||KWANYAMA|||oilya|||8
+debauch|||debauch refers to excessive indulgence in sensual pleasures, often leading to a state of moral corruption|||KWANYAMA|||omahaluko|||6
+lawsuit|||a lawsuit is a legal case brought to a court of law|||KWANYAMA|||oihokolola|||8
+bottom|||the lowest part or point of something, whether physically or metaphorically|||KWANYAMA|||oshitako|||7
+list|||a list is a series of items written or printed consecutively, typically one below the other.|||KWANYAMA|||omusholondodo|||3
+influence|||influence refers to the power to have an effect on people or things, or a person or thing that is able to do this.|||KWANYAMA|||enwefemo|||5
+bloom|||flower (of a plant)|||KWANYAMA|||ongala|||9
+guild|||a guild is an organization of people who do the same job or have the same interests|||KWANYAMA|||ehangano|||5
+breeze|||a light, gentle wind|||KWANYAMA|||okamepo|||12
+farm|||a farm is a piece of land used for growing crops or rearing animals|||KWANYAMA|||ofaalama|||9
+beast|||a beast is a person who is perceived to be cruel, violent, or uncivilized|||KWANYAMA|||omukuanyanya|||1
+apparition|||an apparition is a supernatural appearance of a person or thing, especially a ghost|||KWANYAMA|||emoniko|||5
+mole|||a small, dark spot on a person's skin|||KWANYAMA|||ofile|||9
+mole|||a small burrowing mammal known for digging|||KWANYAMA|||onghwi|||9
+crop|||a crop refers to a plant or fruit that is grown by farmers and gardeners|||KWANYAMA|||oiimati|||8
+comfit|||comfits are small pieces of confectionery made with sugar coating, often flavored and colored, also known as sweets or candies|||KWANYAMA|||okalekanifa|||12
+obstinacy|||obstinacy is the quality of being stubborn or refusing to change one's opinion|||KWANYAMA|||omanganga|||6
+believer|||a believer is a person who accepts that something is true, especially without proof|||KWANYAMA|||omwiitaveli|||9
+goad|||a goad is a spiked stick used for driving cattle or other animals|||KWANYAMA|||odibo|||9
+flea|||a flea is a small wingless jumping insect that feeds on the blood of mammals and birds|||KWANYAMA|||okalipi|||12
+fissure|||a fissure is a long, narrow crack or opening|||KWANYAMA|||omufya|||3
+kinsfolk|||all of a person's relatives|||KWANYAMA|||ovakwetu|||2
+district|||a defined area or region within a country that has its own local government or administrative division|||KWANYAMA|||oshikandjo|||7
+buffalo|||a buffalo is a large, robust mammal native to africa and asia, characterized by its large horns, heavy forequarters, and a body covered with a mat of hair|||KWANYAMA|||onyati|||9
+evasion|||evasion refers to the act of avoiding something or someone|||KWANYAMA|||ehenuko|||5
+armpit|||the armpit is the hollow area located beneath the junction where the arm connects to the shoulder|||KWANYAMA|||onghwapa|||9
+ingenious person|||an ingenious person is someone who is inventive and resourceful|||KWANYAMA|||enyakwa|||5
+devotion|||devotion can also refer to religious worship or observance|||KWANYAMA|||oandaxa|||9
+devotion|||devotion refers to love, loyalty, or enthusiasm for a person, activity, or cause|||KWANYAMA|||elitulemo|||5
+cannon|||a cannon is a large, heavy firearm, typically mounted on wheels, that was historically used in warfare|||KWANYAMA|||oshikanona|||7
+pack|||a pack, in the context of a bundle, refers to a collection of items wrapped together|||KWANYAMA|||oshipandi|||7
+mendicancy|||mendicancy is the practice of begging or relying on charitable donations for survival|||KWANYAMA|||eehelo|||10
+gloss|||gloss refers to the shine or luster on a smooth surface|||KWANYAMA|||etaimo|||5
+foal|||a foal is a young horse, especially one less than a year old|||KWANYAMA|||okanghambwena|||12
+acne|||acne is a common skin condition that occurs when hair follicles become plugged with oil and dead skin cells|||KWANYAMA|||eembulwa|||10
+hermaphrodite|||a hermaphrodite is an organism that has both male and female reproductive organs|||KWANYAMA|||eshengelume|||5
+christmas|||christmas is an annual christian festival celebrating the birth of jesus christ, observed on december 25 as a cultural and religious celebration among billions of people around the world.|||KWANYAMA|||okilisitimisa|||9
+circle|||a circle is a round plane figure whose boundary consists of points equidistant from a fixed point|||KWANYAMA|||ongonga|||9
+loin|||the loin is the part of the body on both sides of the spine between the lower ribs and the hipbones|||KWANYAMA|||oshiya|||7
+hunter|||a hunter is a person who hunts game or other wild animals for food or in sport|||KWANYAMA|||omukongo|||1
+debt|||debt refers to something, typically money, that is owed or due|||KWANYAMA|||ongele|||9
+deceased person|||a deceased person is one who has died|||KWANYAMA|||omufi|||1
+chief|||a chief is the leader or ruler of a people or clan|||KWANYAMA|||ohamba|||9
+doll|||a doll is a small figure or toy that looks like a human, often used by children for play|||KWANYAMA|||okapopifa|||12
+deform|||a deformed person is someone who has a part of their body that is not the normal shape|||KWANYAMA|||oshilema|||7
+disposition|||the natural mental and emotional outlook or mood of an individual|||KWANYAMA|||omepo|||9
+money|||money is a medium of exchange in the form of coins and banknotes|||KWANYAMA|||oimaliwa|||8
+needlework|||needlework refers to decorative sewing or embroidery done by hand|||KWANYAMA|||oihondjwa|||8
+horse-fly|||a horse-fly is a large fly that bites horses and other livestock, and sometimes people|||KWANYAMA|||ewashe|||5
+fagend|||a fagend refers to anything that is left over or remaining|||KWANYAMA|||oixupe|||8
+line|||a line can refer to a mark or stroke long in proportion to its breadth, made with a pen, pencil, tool, etc., on a surface|||KWANYAMA|||omufinda|||3
+bonnet|||a bonnet is a type of hat that is typically tied under the chin and worn by women and children|||KWANYAMA|||okakootili|||12
+decomposition|||decomposition is the process by which organic substances are broken down into simpler organic matter|||KWANYAMA|||eolo|||5
+indolence|||indolence refers to avoidance of activity or exertion; laziness|||KWANYAMA|||ondede|||9
+lustre|||lustre refers to a gentle sheen or soft glow, especially that of a partly reflective surface|||KWANYAMA|||omutaimo|||3
+christianity|||christianity is the religion based on the person and teachings of jesus christ, or its beliefs and practices.|||KWANYAMA|||oukilisti|||14
+lily|||a lily is a type of flowering plant with large, often fragrant, flowers, often associated with purity and beauty|||KWANYAMA|||edo|||5
+bull|||bulls are male animals characterized by their larger, more muscular build, broader heads, and prominent horns compared to cows (female cattle). they are known for their strength, aggression, and the role they play in breeding.|||KWANYAMA|||omhedi|||9
+obsequies|||are funeral rites or ceremonies.|||KWANYAMA|||eenghali|||10
+freckle|||a freckle is a small patch of light brown color on the skin, often becoming more pronounced through exposure to the sun|||KWANYAMA|||okavangwa|||12
+episcopate|||episcopate is the collective body of all bishops of a church|||KWANYAMA|||oubishopa|||14
+covetousness|||covetousness refers to the strong desire for something that belongs to others.|||KWANYAMA|||ehaluko|||5
+modification|||a modification is a change made to something.|||KWANYAMA|||elundululo|||5
+heat|||heat is the quality of being hot or high temperature|||KWANYAMA|||oupyu|||14
+heat|||hot weather or the heat of the sun|||KWANYAMA|||omutenya|||3
+lunatic|||a lunatic is a person who is mentally ill, especially one who behaves in a wild or uncontrollable way|||KWANYAMA|||omunananghwengu|||1
+lust|||lust refers to a strong sexual desire or a passionate desire for something|||KWANYAMA|||oipala|||8
+dominion|||dominion refers to the power or right of governing and controlling|||KWANYAMA|||ouleli|||14
+nape|||the nape is the back part of the neck|||KWANYAMA|||ekofi|||5
+boa|||a boa is a large, heavy-bodied snake of the boa family, found mainly in the americas and the caribbean|||KWANYAMA|||ombome|||9
+criminality|||criminality refers to the state or quality of being criminal, encompassing all forms of illegal activities and behaviors.|||KWANYAMA|||oukolokoshi|||14
+oil|||oil refers to a viscous liquid derived from petroleum, used as a fuel or lubricant|||KWANYAMA|||omahooli|||6
+mettle|||mettle is the ability to cope well with difficulties or to face a demanding situation in a spirited and resilient way|||KWANYAMA|||eyombamo|||5
+attendance|||attendance refers to the act of being present at a particular location or event on a regular basis|||KWANYAMA|||euyo|||5
+allegation|||a claim or assertion that someone has done something illegal or wrong.|||KWANYAMA|||epopyo|||5
+blister|||a blister is a small, fluid-filled bubble on the skin that is caused by friction, heat, or other forms of damage|||KWANYAMA|||epuva|||5
+auspice|||an auspice is a sign or omen that is believed to predict future events, especially ones that are favorable|||KWANYAMA|||oshipo|||7
+date|||date can also refer to a specific time or period|||KWANYAMA|||efimbo|||5
+date|||a date refers to a particular day of the month or year|||KWANYAMA|||efiku|||5
+night|||night is the period of darkness between sunset and sunrise|||KWANYAMA|||oufiku|||14
+mayonnaise|||mayonnaise is a thick, creamy sauce or dressing that is made of oil, egg yolks, lemon juice or vinegar, and seasonings.|||KWANYAMA|||omayonaisha|||6
+callosity|||a hardened, thickened area of the skin that has become relatively insensitive and rough due to friction or pressure|||KWANYAMA|||onindo|||9
+flora|||flora refers to the plants of a particular region, habitat, or geological period|||KWANYAMA|||oimeno|||8
+operation|||an operation can also refer to a surgical procedure performed on a patient|||KWANYAMA|||etando|||5
+nest|||a nest is a structure built by birds to lay eggs and house their young.|||KWANYAMA|||oshihadi|||7
+constraint|||a constraint is a limitation or restriction that prevents someone from doing something|||KWANYAMA|||oshifindilo|||7
+cane|||a cane is a long, hollow, jointed stem of a reed-like plant, often used to make furniture or baskets|||KWANYAMA|||onondje|||9
+bed|||a bed is a piece of furniture that is used for sleeping or resting|||KWANYAMA|||omutala|||3
+gemsbok|||a gemsbok is a large antelope with long straight horns, native to the arid regions of southern africa|||KWANYAMA|||oshowa|||9
+mucilage|||mucilage is a thick, gluey substance produced by nearly all plants and some microorganisms|||KWANYAMA|||onghanyamu|||9
+gait|||gait refers to a person's manner of walking or running|||KWANYAMA|||eengeda|||10
+accusation|||an accusation is a claim or charge that someone has done something illegal or wrong|||KWANYAMA|||elundilo|||5
+eye|||the eye is the organ of sight in humans and animals|||KWANYAMA|||eisho|||5
+mushroom|||a mushroom is a type of fungus with a stem and a cap, which can be found growing in the wild|||KWANYAMA|||etumbula|||5
+intervention|||an intervention refers to the act of intervening, often to prevent a negative outcome|||KWANYAMA|||ehangukununo|||5
+competition|||competition refers to an event or contest in which people compete, often in sports, academics, or other fields|||KWANYAMA|||elifiyepo|||5
+dumb|||a dumb person, referring to someone who is unable to speak.|||KWANYAMA|||omufitindaka|||1
+donation|||a donation is something that is given to a charity, especially a sum of money|||KWANYAMA|||oshali|||9
+hum|||a hum refers to a low, steady, continuous sound|||KWANYAMA|||eumo|||5
+distance|||distance refers to the amount of space between two points or places|||KWANYAMA|||oshinano|||7
+furrow|||a furrow is a trench made in the ground, usually by a hoe for planting seeds or irrigation|||KWANYAMA|||epalela|||5
+furrow|||a furrow can also refer to a deep trench|||KWANYAMA|||omukangha|||3
+forbearance|||patient self-control; restraint and tolerance|||KWANYAMA|||elididimiko|||5
+memorial|||a memorial is a structure or object established to remember a person or event|||KWANYAMA|||oshidimbulukifo|||7
+gift|||a gift is a present or something given voluntarily without payment in return|||KWANYAMA|||omaano|||6
+extremity|||an extremity refers to the furthest point or limit of something|||KWANYAMA|||oxulo|||9
+capital|||refers to the total wealth of a business or individual, including assets such as cash, property, and equipment|||KWANYAMA|||emona|||5
+mirror|||a mirror is a reflective surface, now typically of glass coated with a metal amalgam, that reflects a clear image.|||KWANYAMA|||eshipili|||5
+epithet|||an epithet is an adjective or phrase expressing a quality or attribute regarded as characteristic of the person or thing mentioned.|||KWANYAMA|||oitya|||8
+albino|||an albino is a person or animal that has a genetic condition that causes a lack of pigmentation in the skin, hair, and eyes, resulting in a white or pale appearance and often pink or light-colored eyes.|||KWANYAMA|||ekishi|||5
+foliage|||foliage refers to the leaves of a plant or tree, or leaves collectively|||KWANYAMA|||omafo|||6
+inheritor|||an inheritor is a person who inherits|||KWANYAMA|||omufyuululi|||1
+cud|||cud is the partly digested food returned from the first stomach of ruminants to the mouth for further chewing|||KWANYAMA|||oshitaafinwa|||7
+cayenne|||cayenne is a type of hot, red pepper that is often used as a spice in cooking|||KWANYAMA|||ondungu|||9
+guarantee|||a guarantee is a formal assurance, often in writing, that certain conditions will be fulfilled, especially that a product will be repaired or replaced if not of a certain standard|||KWANYAMA|||eudaneko|||5
+gleam|||a gleam is a flash or beam of light|||KWANYAMA|||eminikilo|||5
+dowry|||marriage settlement, bride price (in some contexts) often in the form of cows given by the groom to the bride's family in exchange for the bride.|||KWANYAMA|||oyoonda|||9
+dip|||a dip, in the context of a landscape, refers to a downward slope or indentation in a surface.|||KWANYAMA|||efilukila|||5
+hamlet|||a hamlet is a small settlement, generally one smaller than a village, with few dwellings|||KWANYAMA|||okamukunda|||12
+flock|||a flock is a group of birds, sheep, or other animals that stay together|||KWANYAMA|||oshiyandja|||7
+distress|||distress, in the context of hardship, refers to severe suffering or difficulty|||KWANYAMA|||oudjuu|||14
+distress|||distress, in the context of fatigue, refers to extreme tiredness or exhaustion|||KWANYAMA|||eloloko|||5
+distress|||distress, in the context of affliction, refers to a state of pain, suffering, or hardship|||KWANYAMA|||ehepeko|||5
+kopje|||a kopje or koppie is a small hill rising up from the african savannah.|||KWANYAMA|||okandudu|||12
+backbone|||the backbone, or spine, is a column of vertebrae that extends from the skull to the pelvis in humans and animals|||KWANYAMA|||omwoongo|||9
+loot|||loot refers to goods, especially private property, taken from an enemy in war|||KWANYAMA|||oixuulwa|||8
+intestine|||the intestine is a long tube in the body that helps with digestion of food and absorption of nutrients|||KWANYAMA|||endjadja|||5
+jeopardy|||jeopardy refers to danger of loss, harm, or failure|||KWANYAMA|||oupatekenedi|||14
+finger|||a finger is one of the long, thin, separate parts of the hand, attached to the palm|||KWANYAMA|||omunwe|||1
+bully|||a bully is a person who uses strength or power to harm or intimidate those who are weaker|||KWANYAMA|||omukwanyanya|||1
+dairy|||a dairy is a place where milk is produced, stored, or processed|||KWANYAMA|||oxupa|||9
+chisel|||a chisel is a tool with a long metal blade that has a sharp edge, used for cutting or shaping hard materials such as wood, stone, or metal|||KWANYAMA|||omukwakwa|||3
+colander|||a colander is a kitchen utensil with a bowl shape and numerous small holes|||KWANYAMA|||oshiidindifo|||7
+farmer|||a farmer is a person who owns or manages a farm|||KWANYAMA|||omunafaalama|||1
+essay|||an essay is a short piece of writing on a particular subject, often written for school or publication|||KWANYAMA|||etotwahokololo|||5
+crupper|||a strap to prevent the saddle or harness from slipping forward|||KWANYAMA|||ekalo|||5
+measles|||measles is a highly contagious viral disease, common in children|||KWANYAMA|||okanghwenyenye|||12
+barbarian|||a barbarian is a person who is perceived to be uncivilized, primitive, or lacking in culture or refinement|||KWANYAMA|||ebalabali|||5
+damsel|||a damsel is a young unmarried woman|||KWANYAMA|||okakadona|||12
+door|||a door is a movable barrier used to cover an opening in a building, room or vehicle|||KWANYAMA|||omuvelo|||3
+fame|||fame is the state of being known or recognized by many people because of one's achievements|||KWANYAMA|||etumbalo|||5
+melody|||a melody is a sequence of single notes that is musically satisfying|||KWANYAMA|||ongovela|||9
+allegory|||a story, poem, or picture that can be interpreted to reveal a hidden meaning.|||KWANYAMA|||efaneko|||5
+millet|||millet is a type of grain that is grown in semi-arid areas, and is a staple food in many parts of namibia|||KWANYAMA|||omahangu|||6
+globule|||a globule is a small round particle or drop|||KWANYAMA|||okanguma|||12
+expletive|||an expletive is a word or phrase used to express strong emotion, often considered offensive or vulgar|||KWANYAMA|||etukano|||5
+justification|||justification is the reason or explanation given to show that something is right or reasonable|||KWANYAMA|||etomelo|||5
+manacle|||a manacle is a metal band, chain, or shackle for fastening someone's hands or ankles|||KWANYAMA|||oshiketanga|||7
+easter|||easter is a christian holiday celebrating the resurrection of jesus christ|||KWANYAMA|||opaasa|||9
+chaps|||jaws, cheeks.|||KWANYAMA|||eehamama|||10
+gaiety|||gaiety refers to the state of being cheerful or full of joy|||KWANYAMA|||enyakukwo|||5
+kidney|||a kidney is an organ in the human body that filters waste products out of the blood and produces urine|||KWANYAMA|||ofiyo|||9
+convert|||a person who has changed their religious faith or other fundamental beliefs.|||KWANYAMA|||omulidilululi|||1
+application|||an application refers to a formal request or plea for something, typically submitted to an authority or an organization.|||KWANYAMA|||eidilo|||5
+desolation|||desolation refers to a state of complete emptiness or destruction, often of a place|||KWANYAMA|||eputu|||5
+oblivion|||oblivion can also refer to the state of being forgotten, especially by the public|||KWANYAMA|||edimbiwo|||5
+anointed one|||a term that refers to the messiah, a savior or liberator figure in various religions|||KWANYAMA|||omuvaekwa|||1
+licence|||licence can refer to official permission or permit to do, use, or own something|||KWANYAMA|||eefo|||10
+locust|||a locust is a type of insect that often travels in large swarms and can cause significant damage to crops|||KWANYAMA|||epaxu|||5
+mixture|||a mixture is a combination of two or more substances or things that are combined together|||KWANYAMA|||endubwakanifo|||5
+lodger|||a lodger is a person who rents a room in another person's house|||KWANYAMA|||omunangekwa|||1
+cafe|||a cafe is a small, casual type of restaurant that typically sells light meals, coffee, and other beverages|||KWANYAMA|||okafitola|||12
+correlation|||a mutual relationship or connection between two or more variables, factors, or data sets, often suggesting that one may cause or affect the other or that they share a common cause or influence.|||KWANYAMA|||ekwatafano|||5
+flux|||flux refers to a state of continuous change or flow|||KWANYAMA|||ekunguluko|||5
+haft|||a haft is the handle of a tool or weapon.|||KWANYAMA|||omupini|||3
+pardon|||a pardon is the action of forgiving or being forgiven for an error or offense|||KWANYAMA|||ekufilepo|||5
+attire|||attire refers to clothes, particularly those that are fine or formal|||KWANYAMA|||oidjalomwa|||8
+hawk|||a hawk is a bird of prey known for its sharp vision and swift, powerful flight|||KWANYAMA|||ekodi|||5
+hill|||a hill is a naturally raised area of land, not as high or craggy as a mountain|||KWANYAMA|||okakulundudu|||12
+bracelet|||a piece of jewelry that is worn around the wrist or arm|||KWANYAMA|||okavela|||12
+cravat|||a cravat is a short, wide strip of fabric worn by men around the neck and tucked inside an open-necked shirt|||KWANYAMA|||ofilipusa|||9
+cargo|||cargo refers to the goods or merchandise transported on a ship, aircraft, or motor vehicle, especially for commercial purposes|||KWANYAMA|||ofulaxa|||9
+morning|||morning is the period of time from sunrise to noon|||KWANYAMA|||ongula|||9
+courage|||mental or moral strength to persevere and withstand danger, fear, or difficulty; bravery|||KWANYAMA|||ouladi|||14
+achievement|||an achievement is a task or goal that has been accomplished successfully, often requiring significant effort, skill, or courage.|||KWANYAMA|||epondolo|||5
+harlot|||a harlot is a derogatory term for a woman who engages in sexual activities for payment|||KWANYAMA|||ombwada|||9
+agility|||the ability to move with speed, ease, and grace, often implying nimbleness, quickness, and lightness in movement|||KWANYAMA|||ondjanga|||9
+composure|||the state or feeling of being calm and in control of oneself|||KWANYAMA|||engugumano|||5
+lime|||lime is a white substance that is used in building materials and in agriculture to improve soil|||KWANYAMA|||okaalaka|||12
+loquacity|||loquacity is the quality of talking a lot or too much|||KWANYAMA|||elombaulo|||5
+dance|||a dance is a series of steps and movements matching the speed and rhythm of a piece of music|||KWANYAMA|||oudano|||14
+almighty|||supreme being or deity who is omnipotent|||KWANYAMA|||omunenenhu|||1
+cross|||a cross is a symbol consisting of two intersecting lines or pieces, often used as a religious symbol in christianity|||KWANYAMA|||omushiyakano|||3
+malingerer|||a malingerer is a person who pretends to be ill, injured, or otherwise unable to work in order to avoid doing something|||KWANYAMA|||omulivelifi|||1
+belt|||a belt is a strip of leather or other material that is worn around the waist or across the chest, primarily to support clothes or carry weapons|||KWANYAMA|||ekwamo|||5
+book|||a book is a written or printed work that consists of pages, either glued or sewn together along one side, and bound in covers|||KWANYAMA|||embo|||5
+audience|||an audience refers to the group of people who read a particular piece of writing|||KWANYAMA|||ovaleshi|||2
+audience|||one's listeners those to whom a speech is addressed.|||KWANYAMA|||ovapwilikini|||2
+falsehood|||a falsehood is a lie or a statement that is not true|||KWANYAMA|||oipupulu|||8
+degradation|||degradation refers to the condition or process of being degraded|||KWANYAMA|||eshumunono|||5
+anecdote|||an anecdote is a brief, often amusing or interesting story about a real event or person.|||KWANYAMA|||okahokololo|||12
+adversity|||adversity refers to a state of hardship, difficulty, or misfortune that one faces, often due to circumstances beyond one's control|||KWANYAMA|||oupwakadi|||14
+arrogance|||arrogance is the quality or state of being overly proud, self-important, or feeling superior to others|||KWANYAMA|||elinenepeko|||5
+eye-witness|||an eye-witness is a person who has personally seen something happen, especially a crime or accident, and can therefore give a description of it|||KWANYAMA|||omumoni|||1
+ghost|||a ghost is a spirit of a dead person that can appear to the living, often in a vague or evasive form|||KWANYAMA|||oshilulu|||7
+lump|||a lump is a compact mass of a substance, especially one without a definite or regular shape|||KWANYAMA|||enguma|||5
+lump|||a lump can also refer to a swelling under the skin, often a result of injury or illness|||KWANYAMA|||odindo|||9
+maggot|||a maggot is the larva of a fly, often found in decaying matter|||KWANYAMA|||einyo|||5
+morsel|||a morsel is a small piece or amount of food|||KWANYAMA|||okandjaumukile|||12
+epilepsy|||epilepsy is a neurological disorder marked by sudden recurrent episodes of sensory disturbance, loss of consciousness, or convulsions, associated with abnormal electrical activity in the brain|||KWANYAMA|||oshipwiilila|||7
+container|||a container is an object used for holding or transporting something|||KWANYAMA|||oshikwateli|||7
+mouse|||a mouse is a small rodent with a pointed snout, typically found in houses or fields|||KWANYAMA|||omhuku|||9
+glee|||glee is a feeling of joy, triumph, or great happiness|||KWANYAMA|||enyakuko|||5
+parent|||a parent is a mother or father, someone who has given birth to or raised a child|||KWANYAMA|||omudali|||1
+lung|||the lung is a pair of organs situated within the rib cage, consisting of elastic sacs with branching passages into which air is drawn, so that oxygen can pass into the blood and carbon dioxide be removed|||KWANYAMA|||epunga|||5
+manure|||manure is animal dung used for fertilizing land|||KWANYAMA|||oushosho|||14
+donkey|||a donkey is a domesticated hoofed mammal of the horse family with long ears and a braying call, used as a beast of burden; an ass|||KWANYAMA|||ondongi|||9
+oaf|||an oaf is a person who is clumsy or lacks social grace|||KWANYAMA|||elai|||5
+guide|||a guide can also be a person who provides advice or information to help someone|||KWANYAMA|||omuulikili|||1
+care|||care, as a noun, refers to the provision of what is necessary for the health, well-being, maintenance, and protection of someone or something|||KWANYAMA|||etonatelo|||5
+elite|||the elite refers to a group of people considered to be the best in a particular society or category, often because of their power, talent, or wealth|||KWANYAMA|||ovanhuunhuu|||2
+idiocy|||idiocy refers to extremely foolish or stupid behavior|||KWANYAMA|||oulai|||14
+cot|||a cot is a small, portable bed usually for a baby or young child.|||KWANYAMA|||okambete|||12
+excursion|||a short journey or trip, especially one taken as a leisure activity.|||KWANYAMA|||epashiyono|||5
+gloom|||gloom refers to partial or total darkness|||KWANYAMA|||omulaulu|||3
+arm|||the arm is the upper limb of the human body, extending from the shoulder to the hand.|||KWANYAMA|||okwooko|||9
+delinquent|||a delinquent is a person, typically a young one, who has a tendency to commit crimes or behave in a way that is not socially acceptable|||KWANYAMA|||omukolokoshi|||1
+bruise|||a bruise is an injury that results in a discoloration of the skin due to bleeding underneath, typically caused by a blow or impact that doesn’t break the skin|||KWANYAMA|||ombole|||9
+intelligence|||intelligence refers to the ability to acquire and apply knowledge and skills|||KWANYAMA|||eendunge|||10
+basin|||a basin is a bowl-shaped container, typically attached to a wall and connected to a water supply, used for washing hands, face or for collecting water|||KWANYAMA|||oshiyaxa|||7
+clang|||a clang is a loud, resonant metallic sound or series of sounds, often made by two heavy objects being struck together|||KWANYAMA|||ekwelengedjo|||5
+bee|||a bee is a flying insect that is known for its ability to sting|||KWANYAMA|||onjiki|||9
+instance|||an instance is an example or single occurrence of something|||KWANYAMA|||oshiholelwa|||7
+bow|||a weapon for shooting arrows.|||KWANYAMA|||outa|||14
+concupiscence|||strong sexual desire or lust. this term often carries moral or religious connotations regarding sexual behavior and desire.|||KWANYAMA|||okahalu|||12
+nickname|||a nickname is a familiar or humorous name given to a person or thing instead of or as well as the real name|||KWANYAMA|||oshilukadina|||7
+nephew|||a nephew is the son of one's brother or sister, or of one's brother-in-law or sister-in-law|||KWANYAMA|||omutekulu|||1
+giraffe|||a giraffe is a large african mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines|||KWANYAMA|||onduli|||9
+biceps|||the biceps is a large muscle located in the upper arm between the shoulder and the elbow|||KWANYAMA|||onhuku|||9
+bubble|||a bubble is a thin sphere of liquid, typically soap or water, that encloses air or another gas|||KWANYAMA|||ombwibwi|||9
+deftness|||deftness refers to the quality of being skillful and quick in one's movements|||KWANYAMA|||oupyokoki|||14
+mediation|||mediation refers to the process of mediating or the action of mediating between parties in a dispute in order to bring about an agreement|||KWANYAMA|||eanuno|||5
+gain|||gain refers to the benefit or profit that is acquired from an action or activity|||KWANYAMA|||elikolo|||5
+nicotine|||nicotine is a toxic colorless or yellowish oily liquid which is the chief active constituent of tobacco|||KWANYAMA|||onicotine|||9
+escapade|||an act that is somewhat daring and often regarded as amusing or unconventional, though it might be seen as irresponsible or dangerous|||KWANYAMA|||oshinaunona|||7
+exercise|||activity requiring physical effort, carried out to sustain or improve health and fitness|||KWANYAMA|||elideulo|||5
+barricade|||a barricade is an improvised barrier, often made from various materials at hand, that is erected across a street, path, or other thoroughfare to prevent or delay the movement of opposing forces|||KWANYAMA|||oshifindikifo|||7
+endeavour|||an endeavour refers to an attempt to achieve a goal|||KWANYAMA|||ekondjo|||5
+fist|||a fist is a person's hand when the fingers are bent in towards the palm and held there tightly|||KWANYAMA|||ongonyo|||9
+cost|||the amount that needs to be paid or spent to obtain something.|||KWANYAMA|||ondado|||9
+gallows|||gallows is a structure, typically of two uprights and a crosspiece, for the hanging of criminals.|||KWANYAMA|||ohake|||9
+desperation|||desperation refers to a state of despair or hopelessness|||KWANYAMA|||oundifyanalye|||14
+fettle|||fettle refers to a person's state of health or fitness|||KWANYAMA|||onghalo|||9
+chaperon|||a chaperon is an individual who accompanies and supervises another person or group, especially for protection or guidance|||KWANYAMA|||omwaameni|||9
+gulf|||a gulf is a large area of a sea or ocean partially enclosed by land, larger than a bay|||KWANYAMA|||ekoloko|||5
+delivery|||delivery refers to the action of delivering something|||KWANYAMA|||etwalo|||5
+insignia|||insignia refers to a badge or mark put on something for the purpose of recognition later|||KWANYAMA|||oshihako|||7
+eucalyptus|||eucalyptus is a type of tree native to australia and cultivated worldwide, including in namibia, for its useful timber and oil.|||KWANYAMA|||omungaalipi|||3
+brim|||the top edge of a vessel or other container, which is usually circular|||KWANYAMA|||omulungu|||3
+beam|||(timber) a beam is a long, sturdy piece of wood, metal, or similar material, typically used as a horizontal support in construction|||KWANYAMA|||oshiti|||7
+beam|||(ray) a beam is a ray of light, often used in the plural form|||KWANYAMA|||ohandje|||9
+cowardice|||the lack of courage to face danger, difficulty, opposition, pain, etc. it refers to the absence of mental strength in confronting situations that require boldness or bravery.|||KWANYAMA|||ouvaya|||14
+homicide|||homicide refers to the act of killing another person|||KWANYAMA|||edipawo|||5
+invocation|||the action of invoking something or someone for assistance or as an authority|||KWANYAMA|||eifano|||5
+contraction|||a contraction is the process of becoming smaller or tighter.|||KWANYAMA|||elixweno|||5
+matron|||a matron is a woman in charge of domestic or medical arrangements in an institution such as a school or hospital.|||KWANYAMA|||omwalikadi|||9
+knot|||a knot is a fastening made by tying a piece of string, rope, or something similar|||KWANYAMA|||edita|||5
+paint|||paint is a colored substance which is spread over a surface to give it a particular color|||KWANYAMA|||opainta|||9
+depositor|||a depositor is a person who deposits money into a bank or other financial institution|||KWANYAMA|||omutuvukili|||1
+female|||a female is a woman or a girl, or anything of the female sex|||KWANYAMA|||omukainhu|||1
+beverage|||a beverage is a drink, especially one other than water|||KWANYAMA|||oshikunwa|||7
+guess|||a guess is an estimate or conclusion that is reached without all the facts or details|||KWANYAMA|||efeekelo|||5
+blemish|||a blemish is a small mark, flaw, or imperfection that mars or spoils the appearance of something|||KWANYAMA|||okapeketi|||12
+eruption|||an eruption is a sudden release of energy or emotions, often violently|||KWANYAMA|||etopo|||5
+likeness|||a likeness is the state or quality of being alike or similar to something else|||KWANYAMA|||elifo|||5
+kettle|||a kettle is a container or device in which water is boiled|||KWANYAMA|||oshiketifa|||7
+medicine-man|||a medicine-man is a person, often in tribal societies, who uses magic or spiritual power to cure illness or foretell the future|||KWANYAMA|||ondudu|||9
+darling|||a darling is a person who is very much loved or liked|||KWANYAMA|||omuholike|||1
+chair|||a piece of furniture designed for one person to sit on|||KWANYAMA|||oshipundi|||7
+arithmetic|||arithmetic is a fundamental branch of mathematics that involves the study and manipulation of numbers|||KWANYAMA|||eenomola|||10
+abyss|||an abyss refers to a deep or seemingly bottomless chasm or pit|||KWANYAMA|||obwili|||9
+intercessor|||an intercessor is a person who intervenes on behalf of another, especially by praying or pleading|||KWANYAMA|||omupopili|||1
+palace|||a palace is a large and often ornate place for a king or queen to live in|||KWANYAMA|||ombala|||9
+emergency|||an emergency is a serious, unexpected, and often dangerous situation requiring immediate action.|||KWANYAMA|||etukuluko|||5
+dealer|||a dealer is a person who buys and sells things as a business|||KWANYAMA|||omulandifi|||1
+knicker|||knicker is a short, loose-fitting undergarment for women and girls|||KWANYAMA|||ondolombuluku|||9
+dilatoriness|||dilatoriness refers to the quality of being slow to act or intentionally delaying something|||KWANYAMA|||emyo|||5
+dandy|||a dandy is a man who is excessively concerned about his clothes and appearance|||KWANYAMA|||omufuuli|||1
+ash|||ash is the powdery residue that remains after a substance, such as wood or coal, has been completely burned|||KWANYAMA|||omute|||3
+cool|||calmness or composure, especially under stress or in a difficult situation.|||KWANYAMA|||engungumano|||5
+boredom|||boredom refers to the state of being bored, which is the feeling of being uninterested or weary due to lack of variety, interest, or excitement|||KWANYAMA|||oudja|||14
+distaste|||distaste refers to a strong dislike or aversion towards something.|||KWANYAMA|||outondwe|||14
+altar|||an altar is a table or flat-topped block used as the focus for a religious ritual, especially for making sacrifices or offerings to a deity|||KWANYAMA|||oalutali|||9
+chanticlear|||chanticlear is a name for a rooster, often used in fairy tales and folklore|||KWANYAMA|||ekondobolo|||5
+malt|||malt is a type of grain, usually barley, that has been allowed to sprout, used in brewing beer|||KWANYAMA|||ongava|||9
+dint|||a dint is a dent or a hollow in a hard surface.|||KWANYAMA|||embodoko|||5
+disposal|||the action or process of throwing away or getting rid of something|||KWANYAMA|||ekupuleshi|||5
+buffet|||a buffet is a blow or strike, typically with the hand|||KWANYAMA|||enghava|||5
+hook|||a hook is a piece of metal or other hard material curved or bent back at an angle, for catching hold of or hanging things on|||KWANYAMA|||ondjolo|||9
+animal|||a domestic animal.|||KWANYAMA|||oshimuna|||7
+animal|||a living organism that is not domesticated and lives in the wild.|||KWANYAMA|||oshifitukuti|||7
+animal|||a living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.|||KWANYAMA|||oshinamwenyo|||7
+inquest|||an inquest is a judicial inquiry to ascertain the facts relating to an incident, such as a death|||KWANYAMA|||epulaapulo|||5
+charcoal|||charcoal is a black, porous solid substance that is produced by burning organic materials such as wood, bone, or coconut shells in the absence of air.|||KWANYAMA|||omakala|||6
+annoyance|||annoyance refers to the feeling or state of being irritated or bothered by something or someone|||KWANYAMA|||ehandu|||5
+orange|||orange refers to a round juicy citrus fruit of a bright reddish-yellow color|||KWANYAMA|||elemuna|||5
+deceiver|||a deceiver is a person who causes someone to believe something that is not true, typically in order to gain some personal advantage|||KWANYAMA|||omukengeleli|||1
+camel|||a camel is a large, humpbacked mammal that is adapted to live in arid regions like deserts|||KWANYAMA|||ongamelo|||9
+dust|||dust is fine particles of matter, often seen in dry areas or stirred up by movement|||KWANYAMA|||ondwi|||9
+antelope|||an antelope is a type of swift-running ruminant, similar to a deer, with smooth hair and upward-pointing horns|||KWANYAMA|||onholonholo|||9
+mud|||mud is a soft, sticky matter resulting from the mixing of earth and water|||KWANYAMA|||onhata|||9
+mud|||mud can also refer to a situation or substance that is confusing or unpleasant|||KWANYAMA|||edongauko|||5
+coach|||a railway carriage providing accommodation for passengers.|||KWANYAMA|||oshikoto|||7
+coach|||a person who trains and directs an athlete or team.|||KWANYAMA|||omulongi|||1
+hunt|||a hunt refers to an act or process of hunting|||KWANYAMA|||oukongo|||14
+hag|||a hag is an old woman who is considered to be ugly or frightening|||KWANYAMA|||oshikulukadi|||7
+ease|||ease can also refer to a state of rest or comfort|||KWANYAMA|||etulumuko|||5
+metamorphosis|||metamorphosis is a process in which an animal develops after birth or hatching, involving a conspicuous and relatively abrupt change in the animal's body structure|||KWANYAMA|||eshituko|||5
+lace|||lace is a fine open fabric, typically one of cotton or silk, made by looping, twisting, or knitting thread in patterns.|||KWANYAMA|||oulenga|||14
+commotion|||a state of confused and noisy disturbance|||KWANYAMA|||epiyaano|||5
+infidel|||an infidel is a person who does not believe in religion or who adheres to a religion other than one's own|||KWANYAMA|||omupaani|||1
+leprosy|||leprosy is a chronic, progressive bacterial infection caused by the bacterium mycobacterium leprae|||KWANYAMA|||oshilundu|||7
+chap|||a crack or fissure in the skin, typically on the hands or lips, caused by exposure to cold, dry weather|||KWANYAMA|||ofindja|||9
+crack|||an attempt at something.|||KWANYAMA|||ekendambalo|||5
+inhabitant|||an inhabitant is a person or animal that lives in or occupies a place.|||KWANYAMA|||omukalimo|||1
+paillasse|||a paillasse or palliasse is a thin mattress filled with straw or sawdust|||KWANYAMA|||etalashe|||5
+aspect|||the physical appearance, look, or distinctive features of a place or thing|||KWANYAMA|||ombinga|||9
+hitch|||a hitch is a hindrance or obstacle that causes a delay or disruption|||KWANYAMA|||eimbo|||5
+granule|||a granule is a small compact particle of a substance|||KWANYAMA|||okambulukutu|||12
+criterion|||a principle or standard by which something may be judged or decided|||KWANYAMA|||oshiyelekifo|||7
+credit|||an arrangement to receive goods, services, or money now and pay for them in the future|||KWANYAMA|||ongunga|||9
+fuel|||fuel is a material such as coal, gas, or oil that is burned to produce heat or power|||KWANYAMA|||oshixwami|||7
+dissolution|||dissolution can also refer to the process of making a solute dissolve in a solvent to form a solution.|||KWANYAMA|||ehengumuko|||5
+dissolution|||dissolution refers to the ending or the winding up of a legal entity or agreement.|||KWANYAMA|||exulepo|||5
+gluttony|||gluttony refers to the act or habit of eating or consuming things in large quantities, often excessively|||KWANYAMA|||oufukenhu|||14
+inmate|||an inmate is a person who is confined to an institution such as a prison or hospital|||KWANYAMA|||omunadolongo|||1
+beacon|||a fire or light that is set up in a high or prominent position, serving as a warning, signal, or celebration|||KWANYAMA|||onyeka|||9
+latitude|||latitude refers to the scope for freedom of action or thought|||KWANYAMA|||omhito|||9
+bodkin|||a bodkin.|||KWANYAMA|||okamukonda|||12
+gist|||the main or essential part of a matter|||KWANYAMA|||exuku|||5
+organ|||an organ refers to a large keyboard musical instrument with one or more manuals, and a pedalboard, producing sound by driving air through pipes or reeds|||KWANYAMA|||okaxumba|||12
+comfort|||comfort is a state or feeling of physical or mental ease, often characterized by a lack of hardship, pain, or distress|||KWANYAMA|||oupu|||14
+comfort|||comfort is a state or feeling of physical or mental ease, often characterized by a lack of hardship, pain, or distress|||KWANYAMA|||ehekeleko|||5
+casement|||a casement is a window or part of a window set on a hinge so that it opens like a door|||KWANYAMA|||ekende|||5
+napkin|||a napkin is a piece of cloth or paper used at a meal to wipe the fingers or lips and to protect garments|||KWANYAMA|||okanamayeye|||12
+godparent|||a godparent is a person who sponsors a child at baptism and pledges to help in their religious education|||KWANYAMA|||omufikameni|||1
+award|||an award is a prize, trophy, or other mark of recognition given to someone in honor of an achievement, accomplishment, or excellence in a certain field|||KWANYAMA|||ondjambi|||9
+duplicity|||duplicity refers to deceitfulness or the act of being two-faced.|||KWANYAMA|||oukavandje|||14
+deficit|||a deficit is the amount by which something, especially a sum of money, is too small|||KWANYAMA|||eshishakambako|||5
+help|||help refers to the act of assisting or aiding someone|||KWANYAMA|||ekwafo|||5
+gam|||gam refers to a sticky secretion, often from a plant or tree|||KWANYAMA|||omaka|||6
+hilt|||the hilt is the handle of a weapon or tool, especially a sword or dagger|||KWANYAMA|||oshikwatelo|||7
+coward|||a coward is an individual who lacks the bravery to face dangerous or unpleasant situations|||KWANYAMA|||evaya|||5
+firm|||a firm is a business, especially one involving a partnership of two or more people|||KWANYAMA|||ongeshefa|||9
+bunch|||a bunch refers to a group or collection of similar things or people that are positioned closely together or are somehow associated or connected|||KWANYAMA|||exwata|||5
+commission|||a commission is an instruction, command, or duty given to a person or group of people|||KWANYAMA|||eningo|||5
+desert|||a desert is a large, dry, and barren area of land, usually covered with sand, and receiving little or no rainfall|||KWANYAMA|||ombuwa|||9
+banana|||a tropical fruit that is long and curved, with a soft, sweet flesh inside a yellow peel when ripe|||KWANYAMA|||ebanana|||5
+countenance|||countenance refers to a person's facial expression or face|||KWANYAMA|||oshipala|||7
+ingenuity|||ingenuity refers to the quality of being clever, original, and inventive|||KWANYAMA|||ounyakwa|||14
+device|||a device can also refer to a plan or scheme.|||KWANYAMA|||omangela|||6
+device|||a thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.|||KWANYAMA|||oshilongifo|||7
+crook|||a bend, curve, or angle in something that is otherwise straight.|||KWANYAMA|||ongolyo|||9
+crook|||a person who is dishonest, deceitful, or engages in illegal activities or practices.|||KWANYAMA|||ongangala|||9
+employment|||employment refers to the state of having a paid job|||KWANYAMA|||oilonga|||8
+banner|||a banner is a long piece of cloth or similar material that bears a symbol, logo, slogan or other message.|||KWANYAMA|||epandela|||5
+paralysis|||paralysis is a medical condition characterized by the loss of muscle function in part of your body|||KWANYAMA|||ombada|||9
+glow|||a glow is a steady light or a state of warmth or redness|||KWANYAMA|||omutemo|||1
+board|||a board, in this context, refers to a flat, thin, rectangular piece of material such as cardboard, used for writing, drawing, or displaying information|||KWANYAMA|||oshipelende|||7
+board|||a board, in this context, refers to regular meals or food that is provided in a place such as a school, a hotel, or during a journey|||KWANYAMA|||oikulya|||8
+board|||a board is a long, thin, flat piece of wood or other hard material, used for floors or other building purposes|||KWANYAMA|||oshipilange|||7
+kitchen|||a kitchen is a room or part of a room used for cooking and food preparation|||KWANYAMA|||okombifa|||9
+pantry|||a pantry is a small room or closet in which food, dishes, and utensils are kept|||KWANYAMA|||elimba|||5
+navel|||a navel is the small hollow in the middle of a person's belly where the umbilical cord was attached when they were born|||KWANYAMA|||ekoto|||5
+conduct|||the manner in which a person behaves, especially in a particular situation or context.|||KWANYAMA|||elikwato|||5
+cinematograph|||a cinematograph is a motion-picture camera, projector, or machine.|||KWANYAMA|||okino|||9
+issue|||an issue is an important topic or problem for debate or discussion|||KWANYAMA|||oshilikundwa|||7
+government|||government refers to the group of people with the authority to govern a country or state at a given time|||KWANYAMA|||oholomende|||9
+crater|||a crater is a large, bowl-shaped cavity in the ground or on the surface of a planet or the moon, typically one caused by an explosion or the impact of a meteorite|||KWANYAMA|||elambo|||5
+mulatto|||a mulatto is a person of mixed white and black ancestry, especially a person with one white and one black parent|||KWANYAMA|||omulatu|||1
+couch|||a couch is a long, comfortable seat for multiple people|||KWANYAMA|||etjofa|||5
+cyclone|||a cyclone is a system of winds rotating inwards to an area of low atmospheric pressure, with an anticlockwise (northern hemisphere) or clockwise (southern hemisphere) circulation; a depression|||KWANYAMA|||efudaela|||5
+dress|||a dress is a one-piece garment for women or girls that covers the body and extends down over the legs|||KWANYAMA|||oshikutu|||7
+defence|||defence refers to the action of defending from or resisting attack|||KWANYAMA|||eameno|||5
+bear|||a bear is a large, heavy mammal with thick fur and a very short tail|||KWANYAMA|||engungule|||5
+diligence|||diligence refers to careful and persistent work or effort|||KWANYAMA|||oudiinini|||14
+intoxication|||intoxication is the state of being intoxicated, especially by alcohol|||KWANYAMA|||oukolwe|||14
+imprecation|||an imprecation is a spoken curse|||KWANYAMA|||efingo|||5
+author|||an author is a person who writes books, articles, or documents|||KWANYAMA|||omushangi|||1
+bandoleer|||a bandoleer is a belt worn over one shoulder, designed to hold ammunition|||KWANYAMA|||ehomato|||5
+address|||a specific location where a person, business, or organization can be found or contacted, usually including a street name, number, city, and country|||KWANYAMA|||oadelesa|||9
+ditty|||a short, simple song or poem|||KWANYAMA|||okaimbilo|||12
+heaven|||heaven refers to the spiritual realm regarded as the abode of god or the gods, and the angels|||KWANYAMA|||eulu|||5
+indigent|||an indigent person is someone who is poor or lacking the necessities of life|||KWANYAMA|||ohepele|||9
+calculation|||a calculation is a careful consideration of something, typically before making a decision|||KWANYAMA|||elekeno|||5
+calculation|||a calculation is the process of using mathematical methods to find out a quantity, amount, or the result of an operation|||KWANYAMA|||evalulo|||5
+jumper|||a person who jumps|||KWANYAMA|||omundjoboki|||1
+neighbour|||a neighbour is a person who lives near or next to your home|||KWANYAMA|||omushiinda|||1
+destruction|||the action or process of causing so much damage to something that it no longer exists or cannot be repaired|||KWANYAMA|||enyonauno|||5
+doctor|||a doctor, in a traditional sense, is a person who heals or treats people using traditional methods and medicines|||KWANYAMA|||onganga|||9
+doctor|||a doctor is a person who is qualified to treat people who are ill|||KWANYAMA|||ondokotola|||9
+mockery|||mockery is the act of making fun of or ridiculing someone or something|||KWANYAMA|||esheko|||5
+lapse|||a lapse can also refer to a fault or a mistake|||KWANYAMA|||elixutuko|||5
+aloe|||an aloe is a type of succulent plant that is characterized by its rosettes of spiky leaves and tubular flowers.|||KWANYAMA|||endobo|||5
+foe|||a foe is an enemy or opponent|||KWANYAMA|||omunaita|||1
+figure|||a figure can also refer to a number or numerical value|||KWANYAMA|||onomola|||9
+figure|||a figure refers to the form or shape of something|||KWANYAMA|||eholokepo|||5
+maniac|||a maniac is a person who behaves wildly and uncontrollably, often due to mental illness|||KWANYAMA|||omunanamhwengu|||1
+cup|||a cup is a small bowl-shaped container for drinking from, typically having a handle|||KWANYAMA|||okakopi|||12
+flower|||a flower is the seed-bearing part of a plant, often colorful and fragrant, that is typically produced by flowering plants|||KWANYAMA|||onhemo|||9
+idle|||an idle person is someone who is not working or active|||KWANYAMA|||omumbutumani|||1
+grit|||grit refers to small, hard particles of sand or stone|||KWANYAMA|||okamanya|||12
+flesh|||flesh refers to the soft substance consisting of muscle and fat that is found between the skin and bones of a human or an animal|||KWANYAMA|||onhumba|||9
+bazaar|||a market, often in an open area, where vendors sell goods such as food, clothing, and household items|||KWANYAMA|||oshilandelo|||7
+bankrupt|||a bankrupt is a person who has been legally declared insolvent by a court|||KWANYAMA|||omumbangoloti|||1
+monday|||monday is the day of the week between sunday and tuesday|||KWANYAMA|||omaandaxa|||6
+gospel|||gospel refers to the teachings or revelation of christ, often referring to the first four books of the new testament in the bible.|||KWANYAMA|||evaengeli|||5
+molar|||a type of tooth used for grinding food|||KWANYAMA|||etayoo|||5
+inscription|||an inscription is words inscribed, as on a monument or in a book|||KWANYAMA|||eshango|||5
+asperity|||harshness or severity in one's tone, manner, or behavior|||KWANYAMA|||engwanyaukilo|||5
+dissidence|||dissidence refers to disagreement or opposition to an established system, authority, or belief|||KWANYAMA|||epatano|||5
+brake|||a brake is a mechanical device that inhibits motion by absorbing energy from a moving system|||KWANYAMA|||ombiliki|||9
+instinct|||a natural or innate impulse, response, or ability, typically relating to behavior|||KWANYAMA|||onyitwe|||9
+drawback|||a drawback is a disadvantage or the negative part of a situation|||KWANYAMA|||omukundu|||3
+bribe|||a sum of money or other form of inducement that is offered or given to someone with the intention of influencing them in a way that is often dishonest or illegal|||KWANYAMA|||ombubo|||9
+miscreant|||a miscreant is a person who behaves badly or breaks the law|||KWANYAMA|||omhote|||9
+gully|||a gully is a water-worn ravine or a ditch|||KWANYAMA|||omholongela|||9
+age|||age is a noun that refers to the length of time that a person has lived or a thing has existed.|||KWANYAMA|||eedula|||10
+fray|||a fray is a situation of intense activity, typically one incorporating an element of aggression or competition|||KWANYAMA|||elidengomumwe|||5
+blackness|||blackness refers to the quality or state of being black or dark in color|||KWANYAMA|||oulaulu|||14
+breast|||the breast refers to either of the two soft, rounded parts on the upper front of a woman's body|||KWANYAMA|||evele|||5
+clamp|||a clamp is a device, usually made of metal, that is used to hold or secure objects tightly together to prevent movement or separation|||KWANYAMA|||oshikwatifo|||7
+employer|||an employer is a person or organization that hires people to work for them.|||KWANYAMA|||omukuti|||1
+heap|||a heap is a large pile or stack of something|||KWANYAMA|||onduba|||9
+nurture|||nurture refers to the care and attention given to someone or something that is growing or developing|||KWANYAMA|||etekulo|||5
+germ|||a germ is a microorganism, especially one that causes disease|||KWANYAMA|||eembakiteli|||10
+coil|||a coil is a series of loops that are formed when a long, flexible object such as a wire or rope is wound around in a spiral or helix|||KWANYAMA|||elulo|||5
+fate|||the development of events beyond a person's control, regarded as determined by a supernatural power|||KWANYAMA|||oshipewa|||7
+greedy person|||a greedy person is someone who has an excessive desire to acquire or possess more than what they need or deserve, particularly with respect to material wealth|||KWANYAMA|||omukwalwisho|||1
+disability|||a disability is a physical or mental condition that limits a person's movements, senses, or activities|||KWANYAMA|||oulema|||14
+hiss|||a hiss is a sound like that of a snake or a cat, or of steam or liquid escaping from a small hole|||KWANYAMA|||exwemo|||5
+extravagant|||an extravagant person is someone who spends more than is necessary, often excessively|||KWANYAMA|||omushinauni|||1
+boom|||hum, roar: a deep, resonant sound that is often loud and startling|||KWANYAMA|||oshihomo|||7
+disease|||a disease is a disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or that affects a specific location|||KWANYAMA|||omukifi|||3
+department|||a department is a distinct part of a larger organization or institution|||KWANYAMA|||oshikondo|||7
+favourite|||a favourite person is someone who is especially liked or trusted by someone, often more than others|||KWANYAMA|||omuhohikwa|||1
+negotiation|||negotiation is the process of discussing something with someone in order to reach an agreement|||KWANYAMA|||eenghundafano|||10
+leopard|||a leopard is a large, solitary cat that has a yellowish-brown or brown coat with black spots and usually hunts at night|||KWANYAMA|||ongwe|||9
+fact|||a fact is a thing that is known to be true or has really occurred|||KWANYAMA|||oshili|||7
+frost|||frost is a thin layer of ice that forms on the ground, plants, and other surfaces outside when the temperature drops below freezing|||KWANYAMA|||omumeme|||1
+film|||a film is a series of moving images shown on a screen to tell a story or convey information|||KWANYAMA|||ofilima|||9
+hundred|||hundred is the number equivalent to ten times ten|||KWANYAMA|||efele|||5
+lavender|||lavender is a type of plant known for its purple flowers and pleasant scent|||KWANYAMA|||ofeema|||9
+caution|||caution is care taken to avoid danger or mistakes|||KWANYAMA|||elondwelo|||5
+draft|||a draft is a preliminary version of a piece of writing, often a plan or a blueprint|||KWANYAMA|||oshitotwambapila|||7
+machine|||a machine is a device that uses power to perform a particular task|||KWANYAMA|||eshina|||5
+chalk|||a type of soft, white limestone formed from the microscopic shells of marine organisms|||KWANYAMA|||omya|||9
+circulation|||circulation refers to the movement of something in a circular path or course|||KWANYAMA|||edingonoko|||5
+captive|||a captive is a person or animal that has been taken prisoner or confined, often against their will|||KWANYAMA|||omukwatwa|||1
+bravery|||bravery refers to the quality of being brave, which means having or showing mental or moral strength to face danger, fear, or difficulty.|||KWANYAMA|||oupondo|||14
+apparel|||apparel refers to clothing or garments in general|||KWANYAMA|||oikutu|||8
+obesity|||obesity is a medical condition characterized by excessive body fat that increases the risk of health problems|||KWANYAMA|||eondoko|||5
+dexterity|||dexterity refers to skill in performing tasks, especially with the hands|||KWANYAMA|||oukeka|||14
+fellow|||man or boy (informal): used to refer to a man or boy, often in a friendly or informal context|||KWANYAMA|||omumati|||1
+owl|||an owl is a nocturnal bird of prey with large forward-facing eyes surrounded by facial disks, a hooked beak, and typically a loud call|||KWANYAMA|||exuvi|||5
+hell|||hell can also refer to a situation or place of chaos, misery, or destruction|||KWANYAMA|||oheli|||9
+crumb|||a small piece of bread, cake, or biscuit that has broken off|||KWANYAMA|||okapambu|||12
+cub|||a cub is a young animal, such as a young bear, lion, fox, etc.|||KWANYAMA|||okaninwena|||12
+cub|||a lion cub is a young lion.|||KWANYAMA|||okanghoshona|||12
+crest|||a comb or tuft of feathers, fur, or skin on the head of a bird or other animal.|||KWANYAMA|||eshuku|||5
+jurisdiction|||jurisdiction refers to the official power to make legal decisions and judgments|||KWANYAMA|||epangelo|||5
+deacon|||a deacon is a religious official, often in the christian church, who assists the priest in conducting services|||KWANYAMA|||omudiakoni|||1
+inability|||inability refers to the state of being unable to do something|||KWANYAMA|||enyongo|||5
+condition|||condition refers to the state or quality of something, particularly in terms of its physical appearance, functionality, or general health.|||KWANYAMA|||oukalelo|||14
+blandishment|||a blandishment is a flattering or pleasing statement or action used to persuade someone to do something|||KWANYAMA|||omalombaulo|||6
+hoe|||a hoe is a tool with a long handle and a thin flat blade, used for weeding and breaking up or moving earth|||KWANYAMA|||etemo|||5
+bane|||bane refers to something that causes ruin or destruction|||KWANYAMA|||eteyo|||5
+bane|||ruination, destruction, poison.|||KWANYAMA|||oudiyo|||14
+admiration|||feeling of great respect and approval. it often involves a sense of wonder or appreciation for someone’s qualities, achievements, or skills.|||KWANYAMA|||efimaneko|||5
+demarcation|||demarkation also refers to the act of marking out or defining something clearly|||KWANYAMA|||etaulilo|||5
+hole|||a hole is a hollow place in a solid body or surface|||KWANYAMA|||ombululu|||9
+candle|||a candle is a cylindrical or block-shaped object made of wax or tallow, with a central wick|||KWANYAMA|||elikita|||5
+bulb|||a bulb is a rounded underground storage organ present in some plants, such as onions and tulips|||KWANYAMA|||etindi|||5
+bank|||a bank is a financial institution that accepts deposits from customers, lends money at interest, invests funds, and also offers services like currency exchange and money transfer.|||KWANYAMA|||ombaanga|||9
+odour|||odour refers to a distinctive smell, especially an unpleasant one.|||KWANYAMA|||edimba|||5
+country|||country refers to a native land or nation|||KWANYAMA|||oshilongo|||7
+den|||a den is a wild animal's hidden home or a room in a house where people can pursue activities in private|||KWANYAMA|||omukwena|||3
+act|||an act, in this context, refers to a pretense or a way of behaving that is not genuine or sincere, often intended to deceive or impress others|||KWANYAMA|||eliningifo|||5
+act|||an act, in this context, refers to a major division or segment in a play, ballet, or opera|||KWANYAMA|||oshinyandwa|||7
+brat|||a brat is a term used to describe a child who behaves badly, is spoiled, or is disrespectful|||KWANYAMA|||oshinona|||7
+hire|||hire refers to the act of employing someone or the payment given in exchange for their work|||KWANYAMA|||omukutwa|||1
+content|||content, when used as a noun, refers to the substance or material contained within something, such as the information or topics covered in a book, website, or speech, or the elements inside a container. it represents what is inside or included in something|||KWANYAMA|||oshikalemo|||7
+filament|||a filament is a slender threadlike object or fiber, often found in light bulbs or some plants|||KWANYAMA|||okalungula|||12
+flick|||a flick is a sudden, quick movement, often made with a finger or hand.|||KWANYAMA|||efeulo|||5
+dwelling|||a dwelling is a place where a person lives, such as a house or home|||KWANYAMA|||eumbo|||5
+discord|||discord refers to disagreement or lack of harmony between people or things|||KWANYAMA|||eliyalo|||5
+communication|||a verbal or written message conveyed from one person or group to another|||KWANYAMA|||etumwalaka|||5
+communication|||the imparting or exchanging of information by speaking, writing, or using some other medium|||KWANYAMA|||omayele|||6
+lightning-flash|||a lightning-flash is a sudden bright light in the sky that is produced by a flash of lightning|||KWANYAMA|||okashelu|||12
+opponent|||an opponent is a person who competes against or fights another in a contest, game, or argument|||KWANYAMA|||omukondjifafani|||1
+health|||health refers to the state of being free from illness or injury|||KWANYAMA|||oukolele|||14
+map|||a map is a visual representation of an area or a place, showing physical features, cities, and roads|||KWANYAMA|||okaalita|||12
+levy|||a levy is a tax, fee, or fine that is charged or collected|||KWANYAMA|||efendelo|||5
+cartridge|||a cartridge is a type of casing that contains a charge and a bullet or shot for small firearms, or an explosive charge for blasting|||KWANYAMA|||oshikuti|||7
+fortune|||fortune refers to luck or chance that happens to a person|||KWANYAMA|||elao|||5
+gnu|||a gnu is a large dark antelope with a long head, a beard and mane, and a sloping back|||KWANYAMA|||omhuulu|||9
+gust|||a gust is a sudden strong rush of wind|||KWANYAMA|||okafeulamhepo|||12
+blindness|||the state of being unable to see due to injury, disease, or a condition present at birth|||KWANYAMA|||oupofi|||14
+integument|||integument refers to a natural covering, like a skin, shell, or rind|||KWANYAMA|||epeta|||5
+biscuit|||a biscuit is a small, typically round cake that is baked and usually unleavened|||KWANYAMA|||okabishikiti|||12
+hospital|||a hospital is a place where people who are ill or injured are treated and taken care of by doctors and nurses.|||KWANYAMA|||oshipangelo|||7
+damnation|||condemnation to eternal punishment in hell|||KWANYAMA|||ekano|||5
+damnation|||severe condemnation or reprobation; an expression of very strong disapproval|||KWANYAMA|||ehanyeno|||5
+alligator|||a large reptile similar to a crocodile.|||KWANYAMA|||ongadu|||9
+liver|||the liver is a large organ in the body that detoxifies various metabolites, synthesizes proteins, and produces biochemicals necessary for digestion|||KWANYAMA|||exuli|||5
+chin|||the chin is the part of the face that is below the mouth and to the front of the neck|||KWANYAMA|||oshedi|||9
+matter|||matter, in a physical context, refers to the material used for making something.|||KWANYAMA|||oshiningifo|||7
+groove|||a groove is a long, narrow cut or depression, especially one made to guide motion|||KWANYAMA|||omundandalingo|||3
+anus|||the anus is the final part of the alimentary canal in humans and many animals|||KWANYAMA|||onhufu|||9
+dignity|||dignity refers to the state or quality of being worthy of honor or respect|||KWANYAMA|||oufimanekwa|||14
+hide|||a hide is the skin of an animal, especially when tanned or dressed|||KWANYAMA|||oshipa|||7
+clique|||a clique is a small, exclusive group of individuals who share common interests, views, or purposes|||KWANYAMA|||okangudu|||12
+nurse|||a nurse is a person trained to care for the sick or infirm, especially in a hospital|||KWANYAMA|||omupangi|||1
+bass|||bass refers to the lowest range of sound or voice, often associated with depth and richness|||KWANYAMA|||ombaafa|||9
+bass|||a bass is a type of fish known for its large mouth and long sharp teeth, and can be found in both fresh and sea water|||KWANYAMA|||oshi|||7
+caterpillar|||a caterpillar is the larva of a butterfly or moth, having a long segmented body and many legs|||KWANYAMA|||okawakole|||12
+ordeal|||an ordeal is a difficult or painful experience|||KWANYAMA|||oixuna|||8
+flake|||a flake is a small, thin piece of something, especially if it has come from a surface covered with lots of similar pieces|||KWANYAMA|||okapakushule|||12
+janitor|||a janitor is a person employed to clean and maintain a building|||KWANYAMA|||omukombi|||1
+leveret|||a leveret is a young hare, especially one that is less than a year old|||KWANYAMA|||okandibwena|||12
+hush|||hush refers to a period of silence or calm|||KWANYAMA|||emweno|||5
+chick|||a chick is a baby chicken|||KWANYAMA|||okaxuxwema|||12
+herdsman|||a herdsman is a person who takes care of a large group of animals, especially cows|||KWANYAMA|||omufita|||1
+dignitary|||a dignitary is a person considered to be important because of high rank or office|||KWANYAMA|||omufinamekwa|||1
+disciple|||a disciple is a follower or student of a teacher or leader|||KWANYAMA|||omuhongwa|||1
+hoof|||a hoof is the hard foot of an animal, especially a horse, cow, or goat|||KWANYAMA|||ekondo|||5
+hindrance|||a hindrance is a thing that provides resistance, delay, or obstruction to something or someone|||KWANYAMA|||oshikangheki|||7
+nestling|||a nestling is a young bird that has not yet left the nest|||KWANYAMA|||okadilona|||12
+flaw|||a flaw is a blemish or imperfection that mars the appearance of something|||KWANYAMA|||epuko|||5
+flaw|||a flaw is a fault or defect in something or someone|||KWANYAMA|||ombedi|||9
+dressmaker|||a dressmaker is a person who makes or repairs dresses|||KWANYAMA|||omuhondji|||1
+marrow|||marrow refers to the soft, fatty substance in the cavities of bones|||KWANYAMA|||omungo|||3
+elephant|||an elephant is a large mammal with a long trunk, commonly found in africa, including namibia|||KWANYAMA|||ondjaba|||9
+china|||china refers to high-quality porcelain or ceramic ware, which was originally made in china|||KWANYAMA|||edu|||5
+joint|||a joint can also refer to a point at which parts of the human or animal body are connected|||KWANYAMA|||etifukilo|||5
+icon|||an icon is a person or thing regarded as a representative symbol or as worthy of veneration|||KWANYAMA|||ependa|||5
+excitement|||excitement is a feeling of enthusiasm, eagerness, or exhilaration|||KWANYAMA|||enyaku|||5
+adulation|||adulation refers to excessive or slavish admiration or praise|||KWANYAMA|||ekomeno|||5
+folk|||folk refers to people in general, or a particular group of people|||KWANYAMA|||ovanhu|||2
+avidity|||avidity refers to the state of having or showing extreme eagerness, enthusiasm, or passion towards something|||KWANYAMA|||ondjungu|||9
+pact|||a pact is a formal agreement between individuals or parties|||KWANYAMA|||oshilaye|||7
+degree|||a degree is a unit of measurement, a stage in a scale or series, or an academic rank conferred by a college or university|||KWANYAMA|||onghatu|||9
+coop|||a coop is a cage or enclosure used for keeping poultry, especially hens|||KWANYAMA|||oshikuku|||7
+blot|||a blot is a dark mark or stain, typically one made by ink, paint, or dirt|||KWANYAMA|||okatotombi|||12
+dewlap|||a dewlap is a loose flap of skin hanging from the neck or throat of certain animals|||KWANYAMA|||omuleka|||3
+laughter|||laughter is the act or sound of laughing|||KWANYAMA|||oshindjola|||7
+confirmation|||confirmation refers to the act of confirming something, often used in the context of solidifying beliefs, decisions, or agreements. it can also refer to a religious rite that confirms a person's commitment to a set of beliefs.|||KWANYAMA|||ekoleko|||5
+concealment|||concealment refers to the action of hiding something or preventing it from being known|||KWANYAMA|||eholeko|||5
+destiny|||the events that will necessarily happen to a particular person or thing in the future|||KWANYAMA|||efikilo|||5
+integrity|||integrity refers to the quality of being honest and having strong moral principles|||KWANYAMA|||ouyuuki|||14
+cement|||a powdery substance made by heating limestone and clay in a kiln.|||KWANYAMA|||oshamaende|||9
+dacoit|||a dacoit is a member of a class of criminals who engage in banditry|||KWANYAMA|||ombudi|||9
+dot|||a dot refers to a small round mark or spot|||KWANYAMA|||onhongo|||9
+key|||a key is a small piece of shaped metal with incisions cut to fit the wards of a particular lock, and is inserted into a lock and turned to open or close it|||KWANYAMA|||oshapi|||9
+affliction|||affliction refers to a state of pain, distress, or grief|||KWANYAMA|||eyehameko|||5
+chagrin|||chagrin is a feeling of vexation that is marked by disappointment or humiliation|||KWANYAMA|||eudolonya|||5
+faith|||faith refers to a strong belief in something, often in religious or spiritual doctrines|||KWANYAMA|||eitavelo|||5
+faith|||faith can also refer to trust or confidence in someone or something|||KWANYAMA|||elineekelo|||5
+kerchief|||a kerchief is a piece of fabric used to cover the head or neck|||KWANYAMA|||oshikaiwa|||7
+junction|||a junction is a point where two or more things are joined|||KWANYAMA|||etwikilo|||5
+malady|||a malady is a disease or ailment|||KWANYAMA|||oudu|||14
+ankle|||the ankle is the joint that connects the foot and the leg|||KWANYAMA|||omando|||6
+angle|||an angle is a corner or point where two lines or surfaces meet.|||KWANYAMA|||ohuke|||9
+glutton|||a glutton is a person who eats or consumes things in large quantities, often excessively|||KWANYAMA|||omufukenhu|||1
+bullock|||a bullock is a young bull, especially one that has been castrated|||KWANYAMA|||ohove|||9
+hollow|||a hollow can also refer to a valley, a low area between hills or mountains|||KWANYAMA|||efilu|||5
+cook|||a cook is a person who prepares and cooks food as a profession or hobby.|||KWANYAMA|||omuteleki|||1
+artist|||an artist is a person who creates art, typically as a profession or hobby|||KWANYAMA|||omufaneki|||1
+deity|||a deity is a god or goddess in a polytheistic religion - a religion that believes in many gods|||KWANYAMA|||oshikalunga|||7
+exclamation|||an exclamation is a sudden, forceful expression or cry|||KWANYAMA|||eingido|||5
+grandchild|||a grandchild is the child of a person's son or daughter|||KWANYAMA|||otekulu|||9
+fauna|||fauna refers to all the animals that live in a particular area, time period, or environment|||KWANYAMA|||oifitukuti|||8
+hummock|||a hummock is a small hill or mound above ground|||KWANYAMA|||okatunda|||12
+glamour|||an attractive or exciting quality that makes certain people or things seem appealing or special.|||KWANYAMA|||osheeta|||9
+dearth|||a dearth is a scarcity or lack of something|||KWANYAMA|||omhumbwe|||9
+healer|||a healer is a person who heals, especially one who heals using natural or traditional methods|||KWANYAMA|||omuhakuli|||1
+constipation|||constipation is a condition where a person experiences difficulty in emptying the bowels, often associated with hardened feces|||KWANYAMA|||ombato|||9
+deliverer|||a deliverer is a person who rescues or saves someone or something|||KWANYAMA|||omuxupifi|||1
+lane|||a lane is a narrow road or path, often between buildings or fields.|||KWANYAMA|||elila|||5
+contravention|||contravention refers to the action of violating a law or agreement|||KWANYAMA|||etauluko|||5
+milk|||milk is a white liquid produced by the mammary glands of mammals, used as food by human beings|||KWANYAMA|||omashini|||6
+boy|||a boy is a young male human, usually a child or adolescent|||KWANYAMA|||okamatyona|||12
+claim|||a claim is a demand or request for something considered one's due|||KWANYAMA|||evaleko|||5
+concord|||concord refers to a state of agreement, harmony, or peace between people or groups.|||KWANYAMA|||ombili|||9
+fat|||fat refers to a natural oily or greasy substance occurring in animal bodies, especially when deposited as a layer under the skin or around certain organs|||KWANYAMA|||omaadi|||6
+beauty|||beauty refers to a combination of qualities, such as shape, color, or form, that pleases the aesthetic senses, especially the sight|||KWANYAMA|||ouwa|||14
+auxiliary|||an auxiliary is a person or thing that provides additional help, support, or reinforcement|||KWANYAMA|||omukwafeli|||1
+forecast|||a forecast is a prediction or estimate of future events, especially coming weather or a financial trend|||KWANYAMA|||exunganeko|||5
+dejection|||dejection is a state of feeling sad or depressed|||KWANYAMA|||etokomukumo|||5
+director|||a director is a person who is in charge of an activity, department, or organization|||KWANYAMA|||omuwiliki|||1
+negro|||negro is an old-fashioned term for a person with black skin who comes from africa|||KWANYAMA|||omulaule|||1
+equanimity|||equanimity refers to mental calmness, composure, and evenness of temper, especially in a difficult situation.|||KWANYAMA|||eliteelelo|||5
+mould|||mould refers to the upper layer of soil|||KWANYAMA|||ombwembwedu|||9
+behest|||a behest is a person's orders or command|||KWANYAMA|||elombwelo|||5
+duress|||duress refers to threats, violence, constraints, or other action used to coerce someone into doing something against their will or better judgment|||KWANYAMA|||efininiko|||5
+anxiety|||anxiety is a psychological and physiological state characterized by somatic, emotional, cognitive, and behavioral components|||KWANYAMA|||elulilo|||5
+democrat|||a democrat is a person who believes in or supports democracy|||KWANYAMA|||omudemokoli|||1
+jealously|||jealously is the state or feeling of being jealous|||KWANYAMA|||ondubo|||9
+inhibition|||inhibition refers to a feeling of embarrassment or worry that prevents you from saying or doing what you want|||KWANYAMA|||oikwataakata|||8
+biltong|||biltong is a traditional southern african snack made from dried and cured meat, often beef or game|||KWANYAMA|||odingu|||9
+brother|||a brother is a male sibling, a man or boy who shares one or both parents with another individual|||KWANYAMA|||omumwameme|||1
+fingerprint|||a fingerprint is the unique pattern of lines on a person's finger, used for identification.|||KWANYAMA|||omanyala|||6
+incision|||an incision is a cut made in the body during a surgical procedure|||KWANYAMA|||eshato|||5
+extinguisher|||an extinguisher is a device used to put out fires|||KWANYAMA|||oshidimifo|||7
+forest|||a forest is a large area covered chiefly with trees and undergrowth|||KWANYAMA|||ofuka|||9
+can|||a can is a cylindrical or block-shaped container, often made of metal, that is used for storing various items such as food, chemicals, or rolls of film|||KWANYAMA|||ondoxa|||9
+clan|||a clan is a group of people who are related to each other, often by a common ancestor|||KWANYAMA|||epata|||5
+miser|||a miser is a person who hoards wealth and spends as little money as possible|||KWANYAMA|||omukukutu|||1
+furlough|||a furlough is a leave of absence or vacation, often granted to a worker or a soldier|||KWANYAMA|||efudo|||5
+arbitrator|||an arbitrator is an independent person or body that is officially appointed to settle a dispute|||KWANYAMA|||omupanguli|||1
+hearer|||a hearer is a person who hears or listens|||KWANYAMA|||omuudi|||1
+grove|||a grove is a small group of trees with minimal or no undergrowth|||KWANYAMA|||okamufitu|||12
+deputy|||a deputy is a person who is appointed to represent or act on behalf of others, especially in their absence.|||KWANYAMA|||omuponhele|||1
+actor|||an actor is an individual who portrays a character in a performance, typically in theatrical productions, films, or television shows|||KWANYAMA|||omunyandi|||1
+label|||a label is a piece of paper, cloth, or similar material attached to an object and giving information about it.|||KWANYAMA|||edidiliko|||5
+cemetery|||a designated place, often a large park-like area, where the remains of deceased people are buried or otherwise interred.|||KWANYAMA|||omaendo|||6
+flavour|||flavour refers to the distinctive taste of a food or drink|||KWANYAMA|||emakelo|||5
+chaos|||chaos refers to a state of extreme confusion, disorder, or unpredictability|||KWANYAMA|||edongakano|||5
+miracle|||a miracle is an extraordinary event or phenomenon that cannot be explained by natural or scientific laws and is therefore attributed to a divine agency.|||KWANYAMA|||oshikumwifilonga|||7
+approbation|||approval, commendation, or praise|||KWANYAMA|||epando|||5
+collar|||a collar refers to the part of a shirt, coat, or other garment that fits around the neck and is often folded over|||KWANYAMA|||ofingo|||9
+humility|||humility is the quality of being humble and not thinking that you are better than other people|||KWANYAMA|||elininipiko|||5
+larceny|||larceny is theft, the unlawful taking of personal property with intent to deprive the rightful owner of it permanently|||KWANYAMA|||evako|||5
+kind person|||a kind person is someone who is generous, helpful, and thinks about other people's feelings|||KWANYAMA|||omunanghenda|||1
+haze|||haze is a slight obscuration of the lower atmosphere, typically caused by fine suspended particles|||KWANYAMA|||oshitwime|||7
+deluge|||a deluge is a severe flood or a heavy fall of rain|||KWANYAMA|||efundja|||5
+dizziness|||dizziness is the feeling of being lightheaded, unsteady, or experiencing a sensation of spinning|||KWANYAMA|||etelele|||5
+magnate|||a magnate is a wealthy and influential person, especially in business|||KWANYAMA|||omukengeli|||1
+harm|||harm refers to physical or mental damage or injury|||KWANYAMA|||enyonauko|||5
+case|||a box or container, especially one that is typically used for storing a specific item or substance|||KWANYAMA|||oshikefa|||7
+dabbler|||a dabbler is someone who engages in an activity superficially or without serious intent|||KWANYAMA|||omudedauki|||1
+arms|||arms refer to weapons of any kind, including guns, ammunition, and other military equipment|||KWANYAMA|||oilwifo|||8
+ailment|||an ailment refers to an illness or health condition, typically of a minor or non-serious nature, that affects an individual's well-being|||KWANYAMA|||okauvela|||12
+greatness|||greatness refers to the quality of being great, distinguished, or eminent|||KWANYAMA|||ounene|||14
+minion|||a minion can also refer to a person who is treated like a slave or a servant, often doing unskilled and menial tasks|||KWANYAMA|||omupika|||1
+hovel|||a hovel is a small, poorly built and often dirty house|||KWANYAMA|||oshixwalikiti|||7
+guilt|||guilt is a feeling of having done wrong or failed in an obligation|||KWANYAMA|||ondjo|||9
+christian|||a christian is a person who has received christian baptism or is a believer in jesus christ and his teachings.|||KWANYAMA|||omukiliste|||1
+cockroach|||a cockroach is a type of insect that is often associated with dirty environments|||KWANYAMA|||epuka|||5
+canister|||a canister is a round or cylindrical container, often made of metal, that is used for storing various items such as food, chemicals, or rolls of film|||KWANYAMA|||ondooxa|||9
+halt|||a halt refers to a stop or pause in a process or activity|||KWANYAMA|||efikama|||5
+impulse|||a sudden strong desire or urge to act|||KWANYAMA|||ewahauko|||5
+fringe|||the outer, marginal, or extreme part of something|||KWANYAMA|||omunghulo|||3
+merchandise|||merchandise refers to goods that are bought and sold in business|||KWANYAMA|||oilaandomwa|||8
+gall|||gall refers to bitterness of spirit or rancor|||KWANYAMA|||onyango|||9
+paganism|||paganism is a religion other than one of the main world religions, specifically a non-christian or pre-christian religion|||KWANYAMA|||oupaani|||14
+mania|||mania refers to an excessive enthusiasm or desire, often a symptom of mental illness|||KWANYAMA|||eemhwengu|||10
+limestone|||limestone is a type of rock that is used in building and in making cement|||KWANYAMA|||onghungumanya|||9
+din|||a din is a loud, unpleasant, and prolonged noise.|||KWANYAMA|||omaweelelo|||6
+dialect|||a dialect is a form of a language that is spoken in a particular area and that uses some of its own words, grammar, and pronunciations|||KWANYAMA|||oshipopyo|||7
+enervation|||enervation refers to a feeling of being drained of energy or vitality|||KWANYAMA|||ouleele|||14
+breakfast|||breakfast is the first meal of the day, usually eaten in the morning|||KWANYAMA|||oshuumbululwa|||9
+feast|||a feast is a large meal, often a celebration, where people eat a lot of food|||KWANYAMA|||oitendele|||8
+mode|||a mode is a way or manner in which something occurs or is experienced, expressed, or done.|||KWANYAMA|||onghedi|||9
+kestrel|||a kestrel is a small bird of prey, often found in open country|||KWANYAMA|||okakodi|||12
+culvert|||a culvert is a tunnel carrying a stream or open drain under a road or railway|||KWANYAMA|||onhokolo|||9
+eminence|||eminence refers to a position of superiority, high status or reputation, or a person who has high status or reputation|||KWANYAMA|||etumbalekwo|||5
+eminence|||eminence can also refer to a piece of rising ground|||KWANYAMA|||etunda|||5
+bog|||a bog is a wetland area of soft, muddy ground, often containing decaying plant matter|||KWANYAMA|||elombo|||5
+emotion|||emotion is a natural instinctive state of mind deriving from one's circumstances, mood, or relationships with others|||KWANYAMA|||eliudo|||5
+context|||context refers to the circumstances that form the setting for an event, statement, or idea.|||KWANYAMA|||onhele|||9
+inebriate|||an inebriate is a person who is habitually drunk|||KWANYAMA|||ongholwe|||9
+effort|||effort refers to a vigorous or determined attempt to do something|||KWANYAMA|||ehetekelo|||5
+effort|||effort can also refer to the physical or mental exertion needed to do something|||KWANYAMA|||eenghono|||10
+heritage|||heritage refers to the traditions, achievements, beliefs, and objects that are part of the history of a group or nation.|||KWANYAMA|||omufyuululwakalo|||3
+appeal|||an appeal is a serious, urgent, or heartfelt request for help, support, or understanding|||KWANYAMA|||eilikano|||5
+guest|||a guest is a person who is invited to visit the home of or take part in a function organized by another|||KWANYAMA|||omweenda|||9
+kitten|||a kitten is a young cat|||KWANYAMA|||okambishona|||12
+curve|||a curve is a line or outline which gradually deviates from being straight for some or all of its length|||KWANYAMA|||ekomboko|||5
+bishop|||a bishop is a high-ranking member of the christian clergy who is typically in charge of a diocese, or a district of churches|||KWANYAMA|||omumbishopa|||1
+conduit|||a pipe, channel, or tube through which liquid or components flow.|||KWANYAMA|||omuninho|||3
+cramps|||a painful, involuntary contraction of a muscle or muscles, typically caused by fatigue or strain.|||KWANYAMA|||omadwanya|||6
+debacle|||a debacle is a sudden and ignominious failure; a fiasco|||KWANYAMA|||etewelelo|||5
+corridor|||a corridor is a long, narrow passageway, often in a building, connecting various rooms or sections|||KWANYAMA|||omukala|||3
+cutlass|||a cutlass is a short sword with a slightly curved blade, formerly used by sailors|||KWANYAMA|||ekatana|||5
+evening meal|||the evening meal, often referred to as dinner, is the main or last meal of the day|||KWANYAMA|||ouvalelo|||14
+fold|||a fold, in the context of a crease, refers to a line or mark made by folding a soft substance|||KWANYAMA|||eonya|||5
+compartment|||a separate section or part of something, especially one of the parts into which a space or container is divided|||KWANYAMA|||okatopolwa|||12
+lure|||a lure is something that tempts or attracts with the promise of pleasure or reward|||KWANYAMA|||ekoka|||5
+bladder|||the bladder is a hollow organ in the body of humans and many animals, where urine is stored before it is excreted from the body|||KWANYAMA|||oshinena|||7
+ornament|||an ornament is a decorative object|||KWANYAMA|||ewapeko|||5
+glare|||a glare is a strong, bright, often unpleasant light|||KWANYAMA|||oshiteni|||7
+divisor|||a divisor is a number by which another number is to be divided|||KWANYAMA|||oshitukulifo|||7
+location|||a location is a particular place or position, often referring to a residential area|||KWANYAMA|||onehel|||9
+fume|||fume refers to gas, smoke, or vapor that smells strongly or is dangerous to inhale|||KWANYAMA|||omwifi|||9
+accordion|||an accordion is a portable musical instrument that produces sound when its bellows are expanded or contracted, causing air to flow over metal reeds|||KWANYAMA|||ongongi|||9
+boot|||a boot is a type of footwear that not only covers the foot but also extends to cover part of the leg|||KWANYAMA|||onghaku|||9
+baby|||a baby is a very young human or animal, especially one that has recently been born and is not yet able to walk or talk|||KWANYAMA|||okahanana|||12
+compatriot|||a compatriot is a fellow citizen or national of a country|||KWANYAMA|||omukwashilongo|||1
+discussion|||a discussion is a conversation or debate about a specific topic|||KWANYAMA|||eenghundafana|||10
+buttermilk|||buttermilk is a slightly acidic, tangy milk product that is left over after churning butter|||KWANYAMA|||omashikwa|||6
+paroxysm|||a paroxysm is a sudden outburst of emotion or action|||KWANYAMA|||exwamuka|||5
+mark|||a small area on a surface having a different color from its surroundings, typically one caused by damage or dirt.|||KWANYAMA|||ediliko|||5
+designation|||designation refers to the act of choosing someone or something for a particular role or purpose|||KWANYAMA|||ehoololo|||5
+bondage|||bondage refers to the condition of being enslaved or subjected to the control of another person or entity|||KWANYAMA|||oupika|||14
+funnel|||a funnel is a tube or pipe that is wide at the top and narrow at the bottom, used for guiding liquid or powder into a small opening|||KWANYAMA|||omhakwila|||9
+eyebrow|||the eyebrow is the strip of hair growing on the ridge above a person's eye socket|||KWANYAMA|||ofeleisho|||9
+emphasis|||emphasis is special importance, value, or prominence given to something|||KWANYAMA|||ediviliko|||5
+article|||an article is a piece of writing that is included in a publication such as a newspaper, magazine, or online platform|||KWANYAMA|||omushangwa|||3
+article|||an article can also refer to a specific item or object, particularly in the context of a collection or a list of items|||KWANYAMA|||oshinima|||7
+double-faced|||a double-faced person, also known as a hypocrite, is someone who says one thing and does another|||KWANYAMA|||omunaihelele|||1
+ostrich|||an ostrich is a large, flightless bird native to africa, known for its speed and large eggs|||KWANYAMA|||omho|||9
+engine|||an engine is a machine that uses energy to produce mechanical power|||KWANYAMA|||oindjina|||8
+base|||the base of something is its lowest part or edge, especially the part on which it rests or is supported|||KWANYAMA|||efina|||5
+office|||an office refers to a role or function|||KWANYAMA|||oshilonga|||7
+office|||an office can also refer to a building or room where people work|||KWANYAMA|||ombelewa|||9
+exhumation|||exhumation refers to the act of digging out something, especially a corpse, from the ground|||KWANYAMA|||efudulemo|||5
+adept|||an adept is a person who is highly skilled or proficient in a particular area or activity|||KWANYAMA|||omunongo|||1
+foster-child|||a foster-child is a child who is brought up in a family that is not their own by birth|||KWANYAMA|||omutekulwas|||1
+judgement|||judgement refers to the ability to make considered decisions or come to sensible conclusions|||KWANYAMA|||etokolo|||5
+chicken|||a chicken is a type of domesticated bird that is commonly raised for its eggs and meat|||KWANYAMA|||oxuxwa|||9
+czar|||a czar is a person appointed by government to advise on and coordinate policy in a particular area|||KWANYAMA|||omutaleli|||1
+excellence|||the quality of being extremely good or outstanding|||KWANYAMA|||ouwaawa|||14
+disgrace|||disgrace is the loss of reputation or respect as the result of a dishonorable action|||KWANYAMA|||elengwa|||5
+barrel|||a barrel is a cylindrical container that bulges out in the middle, traditionally made from wooden staves bound by metal hoops|||KWANYAMA|||ongoma|||9
+bore|||a bore is a person who is dull, uninteresting, or tiresome|||KWANYAMA|||omukenyanekedi|||1
+instruction|||the act of teaching or the information taught|||KWANYAMA|||ehongo|||5
+invasion|||invasion refers to the act of invading, especially the entrance of an armed force into a territory to conquer|||KWANYAMA|||eponokelo|||5
+maiden|||a maiden is a young, unmarried girl, typically between the ages of 14-17, who has not yet been through a wedding, efundula|||KWANYAMA|||ehelende|||5
+flip|||a flip refers to an act of turning something over quickly|||KWANYAMA|||eangulo|||5
+bridegroom|||a bridegroom is a man who is about to be married or is newly wed|||KWANYAMA|||omuhomboli|||1
+irritation|||irritation refers to the state of feeling annoyed, impatient, or slightly angry|||KWANYAMA|||ekenyanano|||5
+frump|||a frump refers to a person, often a woman, who is considered to be dull, plain, or unfashionable|||KWANYAMA|||omumbodonhu|||1
+extortion|||extortion refers to the practice of obtaining something, especially money, through force or threats|||KWANYAMA|||oshinyeka|||7
+censure|||an expression of strong disapproval or harsh criticism, often in a formal or official capacity.|||KWANYAMA|||oushima|||14
+mount|||a mount can also refer to a hill or a raised area of land|||KWANYAMA|||oshikulundudu|||7
+file|||a file can also refer to a line of people or things one behind another|||KWANYAMA|||omukweyo|||3
+axe|||an axe is a tool with a heavy bladed head mounted across a handle|||KWANYAMA|||ekuva|||5
+importance|||importance refers to the quality of being significant or valuable|||KWANYAMA|||efimano|||5
+majesty|||majesty refers to the greatness and dignity of a sovereign|||KWANYAMA|||ouhamba|||14
+cycle|||a cycle, in this context, refers to a bicycle, a vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel|||KWANYAMA|||ombashikela|||9
+creator|||a creator is someone or something that brings something into existence|||KWANYAMA|||omutoti|||1
+despair|||despair refers to the complete loss of hope|||KWANYAMA|||elixupulo|||5
+abode|||an abode is a place where someone lives or resides|||KWANYAMA|||omutumba|||3
+contumacy|||the deliberate and stubborn refusal to obey authority or comply with orders.|||KWANYAMA|||ondudi|||9
+cough|||a cough is the act of coughing or the sound made when someone coughs|||KWANYAMA|||omukolo|||3
+berry|||a berry is a small, round, juicy fruit that does not have a stone or pit|||KWANYAMA|||okaimati|||12
+basket|||loose-plaited basket of palm leaves, for temporary use.|||KWANYAMA|||oshimbaba|||7
+basket|||a basket is a container that is typically cylindrical or bowl-shaped, made from interwoven strips of materials such as palm leaves, and used for holding or carrying items|||KWANYAMA|||oshimbale|||7
+basket|||flat basket-work platter on which oshifima (porridge/pap) is served.|||KWANYAMA|||elilo|||5
+basket|||finely woven mat of basket-work, for sifting meal.|||KWANYAMA|||ongalo|||9
+cold|||cold refers to the condition of having a low temperature|||KWANYAMA|||outalala|||14
+cold|||a cold refers to a common viral infection that affects the nose, throat, and sinuses|||KWANYAMA|||eshikisha|||5
+condiment|||a substance such as salt, mustard, or pickles that is used to add flavor to food.|||KWANYAMA|||omwai|||9
+disapproval|||disapproval refers to the feeling of disfavor or dislike towards something or someone|||KWANYAMA|||eanyo|||5
+ancestor|||a female ancestor is a woman from whom one is descended, who lived several generations before. typically one more remote than a grandparent, from whom one is descended.|||KWANYAMA|||omeekulululwa|||9
+misanthrope|||a misanthrope is a person who dislikes humankind and avoids human society.|||KWANYAMA|||omulikaleli|||1
+beggar|||a beggar is a person who begs, especially one who lives by asking for money or food|||KWANYAMA|||omueheli|||1
+cure|||a cure is a substance or treatment that cures a disease or condition|||KWANYAMA|||oshivelulifo|||7
+mumps|||mumps is a contagious viral disease causing fever and a painful swelling of the glands of the mouth and throat|||KWANYAMA|||okakombo|||12
+diaconate|||the diaconate is the office or the period of office of a deacon, a member of the christian clergy|||KWANYAMA|||oudiakoni|||14
+column|||a column is a vertical division of a page or text, often used to organize information or content in a clear, readable manner|||KWANYAMA|||omola|||9
+downpour|||a downpour is a heavy rainfall|||KWANYAMA|||oshikungulu|||7
+meeting|||a meeting is an assembly or gathering of people for a particular purpose, especially for discussion or decision-making|||KWANYAMA|||oshiongi|||7
+law|||law refers to the system of rules that a particular country or community recognizes as regulating the actions of its members and may enforce by the imposition of penalties|||KWANYAMA|||omhango|||9
+account|||an account is a detailed report or description of an event or experience|||KWANYAMA|||ehokololo|||5
+inheritance|||inheritance refers to the money, property, or title received from a person at his or her death|||KWANYAMA|||efyuululo|||5
+marshal|||a marshal is a high-ranking officer in the armed forces, responsible for maintaining the discipline, administration, and organization of military personnel|||KWANYAMA|||ondjai|||9
+eavesdropper|||an eavesdropper is a person who secretly listens to the conversations of others|||KWANYAMA|||omuvambeli|||1
+dexterous person|||a dexterous person is someone who is skilled in performing tasks, especially with their hands|||KWANYAMA|||omunekeka|||1
+crockery|||crockery refers to plates, dishes, cups, and other similar items, especially ones made of earthenware or china.|||KWANYAMA|||oiyuma|||8
+killer|||a killer is a person or thing that kills, especially a person who murders|||KWANYAMA|||omudipai|||1
+discipline|||the ability to control one's behavior, emotions, and impulses|||KWANYAMA|||elikotokelo|||5
+discipline|||the practice of training people to obey rules or a code of behavior, using punishment to correct disobedience.|||KWANYAMA|||elandulafano|||5
+flapdoodle|||flapdoodle is a term used to refer to nonsense or foolish talk|||KWANYAMA|||oshinhoko|||7
+extortioner|||an extortioner is a person who obtains something, especially money, through force or threats|||KWANYAMA|||omunyeki|||1
+chain|||a series of connected metal links or rings used for supporting or restraining objects|||KWANYAMA|||elyenge|||5
+clasp|||refers to the act of holding someone tightly in one's arms, often as a sign of affection or comfort|||KWANYAMA|||epapatelo|||5
+dodger|||a dodger is a person who cunningly evades or avoids something|||KWANYAMA|||omuhenuki|||1
+thunder-clap|||a thunder-clap is the sound of thunder, which is the loud, rumbling noise that follows a flash of lightning during a storm.|||KWANYAMA|||omupwalakato|||3
+helper|||a helper is a person who helps or assists others.|||KWANYAMA|||omukwafi|||1
+hiding-place|||a hiding-place is a place where someone or something can be hidden or can hide|||KWANYAMA|||oshihondameno|||7
+intermission|||an intermission is a pause or break in activity, often in a play, concert, or other public event|||KWANYAMA|||efudepo|||5
+cover|||a cover refers to something that is put over or on top of something else|||KWANYAMA|||oshituviko|||7
+effulgence|||effulgence refers to the state of being bright and radiant|||KWANYAMA|||evilimo|||5
+curiosity|||curiosity refers to the desire to learn or know about anything; inquisitiveness|||KWANYAMA|||oupuledi|||14
+curiosity|||curiosity, when referring to something strange, unusual or rare|||KWANYAMA|||oshikumwifa|||7
+bread|||bread is a staple food that is made by mixing flour or meal with other dry and liquid ingredients, then usually leavening and baking it|||KWANYAMA|||omungome|||3
+booth|||a booth is a small, temporary structure or tent that is set up, particularly at markets, fairs, or exhibitions, for the purpose of selling goods, providing information, or displaying exhibits|||KWANYAMA|||etwali|||5
+esteem|||the respect and admiration that someone or something receives|||KWANYAMA|||omufimanekwa|||1
+herb|||a herb is a plant used for flavoring food, in medicine, or for its pleasant smell.|||KWANYAMA|||oshimbodi|||7
+diffidence|||diffidence refers to modesty or shyness resulting from a lack of self-confidence|||KWANYAMA|||eehoni|||10
+lock|||a lock can also refer to a strand or cluster of hair|||KWANYAMA|||oxwiki|||9
+inquiry|||an inquiry is an act of asking for information|||KWANYAMA|||epulo|||5
+marsh|||a marsh is a type of wetland that is dominated by herbaceous rather than woody plant species|||KWANYAMA|||onhopo|||9
+impostor|||an impostor is a person who pretends to be someone else in order to deceive others|||KWANYAMA|||omunamakonda|||1
+exhortation|||an exhortation is a communication strongly urging someone to do something|||KWANYAMA|||ekumaido|||5
+contusion|||a bruise resulting from a blow or impact causing blood vessels to rupture beneath the skin.|||KWANYAMA|||edidimika|||5
+apostle|||an apostle is a messenger or representative, particularly one who spreads a message or advocates for a cause|||KWANYAMA|||omutumwa|||1
+filter|||a filter is a device or material for removing unwanted substances from something|||KWANYAMA|||oshidindifo|||7
+brick|||a brick is a small rectangular block, typically made of fired or sun-dried clay, that is used in construction to build structures such as houses, walls, and roads|||KWANYAMA|||odopi|||9
+breath|||a breath refers to the air that is inhaled and exhaled during respiration|||KWANYAMA|||omufudo|||1
+evidence|||evidence refers to the available body of facts or information indicating whether a belief or proposition is true or valid|||KWANYAMA|||oumbangi|||14
+cur|||a cur can also refer to a surly or ill-bred person|||KWANYAMA|||oshimhote|||7
+cur|||a cur refers to a worthless or aggressive dog|||KWANYAMA|||oshimbwa|||7
+lash|||a lash can refer to a whip or the act of whipping|||KWANYAMA|||ongola|||9
+bugle|||a bugle is a brass instrument similar to a trumpet, typically without valves or keys, used for military signals|||KWANYAMA|||ombeda|||9
+coxcomb|||a coxcomb is a vain and conceited man, often one who dresses or behaves extravagantly|||KWANYAMA|||omulifulaleki|||1
+introduction|||an introduction is the action of introducing something or someone|||KWANYAMA|||eeshivifo|||10
+luck|||luck is the success or failure apparently brought by chance rather than through one's own actions|||KWANYAMA|||omholo|||9
+mildew|||mildew refers to a thin whitish layer that forms on the surface of certain things in damp conditions|||KWANYAMA|||onguwi|||9
+appetite|||an appetite is a natural desire or craving to satisfy a bodily need, most commonly the need for food.|||KWANYAMA|||ehalo|||5
+nail|||a fingernail is the hard, translucent plate covering the tip of a finger|||KWANYAMA|||oshipanyala|||7
+nail|||a nail is a small, sharp, metal pin used in construction to join pieces of wood or other materials together|||KWANYAMA|||omboxa|||9
+answer|||a response to a question or statement, either verbal or written.|||KWANYAMA|||enyamukulo|||5
+mountaineer|||a mountaineer is a person who climbs mountains as a sport or hobby|||KWANYAMA|||omukwaemhunda|||1
+manager|||a manager is a person who is in charge of running a business, a team, or an organization|||KWANYAMA|||omughona|||1
+individual|||an individual refers to a single human being as distinct from a group, class, or family|||KWANYAMA|||omunhu|||1
+fun|||fun refers to enjoyment, amusement, or lighthearted pleasure|||KWANYAMA|||etyapulo|||5
+bachelorhood|||bachelorhood refers to the period in a man’s life when he is not married and lives independently, often enjoying the freedom and responsibilities that come with it|||KWANYAMA|||oumati|||14
+canticle|||a canticle is a hymn or chant, often with a biblical text, that forms a regular part of a church service|||KWANYAMA|||eimbilo|||5
+multiplicity|||multiplicity refers to a large number or variety of something|||KWANYAMA|||ouhapu|||14
+fawn|||a fawn is a young deer|||KWANYAMA|||ombabi|||9
+member|||a member refers to a part of a whole or a component of a larger structure|||KWANYAMA|||oshilyo|||7
+bower|||a pleasant, shaded area in a garden or forest.|||KWANYAMA|||etala|||5
+curd|||curd refers to a dairy product obtained by coagulating milk in a process called curdling|||KWANYAMA|||oshikandela|||7
+evil|||evil, as a noun, refers to morally wrong or bad actions or behavior|||KWANYAMA|||owii|||9
+orphan|||an orphan is a child whose parents are deceased.|||KWANYAMA|||ofiye|||9
+bell|||a bell is a hollow metal object, typically in the shape of a cup, that makes a ringing sound when struck.|||KWANYAMA|||ongedjo|||9
+awning|||an awning is a cover made from a material like canvas that is stretched over a frame|||KWANYAMA|||okafaila|||12
+famine|||a famine is a severe shortage of food resulting in widespread hunger|||KWANYAMA|||ondjala|||9
+household|||a household consists of all the people living together in a house|||KWANYAMA|||ovaneumbo|||2
+friendship|||friendship is the state of being friends with someone|||KWANYAMA|||oukaume|||14
+joy|||joy is a feeling of great happiness or pleasure|||KWANYAMA|||ehafo|||5
+clinging|||clinging refers to the act of holding on tightly to something or someone, often out of fear or affection|||KWANYAMA|||edamo|||5
+luxury|||luxury refers to the state of great comfort and extravagant living|||KWANYAMA|||oukengeli|||14
+jack|||a jack is a device used to lift heavy loads, especially a car|||KWANYAMA|||ondjeke|||9
+disparity|||disparity refers to a great difference or inequality between things|||KWANYAMA|||oulili|||14
+cramp|||a tool or device that clamps objects together or in place.|||KWANYAMA|||okakalalamala|||12
+caitiff|||a caitiff is a person who is contemptible, mean, or cowardly|||KWANYAMA|||omote|||9
+month|||a month is a unit of time, used with calendars, which is approximately as long as a natural period related to the motion of the moon|||KWANYAMA|||ohani|||9
+man|||a man is an adult human male|||KWANYAMA|||omulumenhu|||1
+exaggeration|||exaggeration is the act of making something seem larger, more important, better, or worse than it really is|||KWANYAMA|||enenepeko|||5
+exaggeration|||an exaggeration means to tell a story with added details or embellishments|||KWANYAMA|||omututulombo|||3
+defeat|||defeat refers to an instance of losing a game or contest|||KWANYAMA|||etewo|||5
+automobile|||an automobile is a wheeled motor vehicle used for transporting passengers, which also carries its own engine or motor|||KWANYAMA|||otuwa|||9
+nomad|||a person who does not stay long in the same place; a wanderer|||KWANYAMA|||omweendaendi|||9
+clock|||a clock is a device, either mechanical or electronic, that measures and displays the time of day|||KWANYAMA|||ovili|||9
+decoction|||a decoction is a concentrated liquid that results from heating or boiling a substance, especially a medicinal preparation made from a plant|||KWANYAMA|||edite|||5
+fertilizer|||fertilizer is a substance that is added to soil or plants to promote growth|||KWANYAMA|||oushusho|||14
+heart|||the heart is the central or innermost part of something|||KWANYAMA|||omutima|||3
+pangolin|||a pangolin is a nocturnal mammal that feeds on ants and termites and is covered in tough, overlapping scales|||KWANYAMA|||onghaka|||9
+adornment|||an adornment is an object, detail, or embellishment that enhances the beauty or attractiveness of someone or something|||KWANYAMA|||oshiwapekifo|||7
+mandible|||the mandible is the lower jawbone in mammals|||KWANYAMA|||eehamanana|||10
+model|||a model is a representation or a copy of an object, often smaller in scale, that is used to visualize or test designs before they are implemented or built|||KWANYAMA|||efanekelo|||5
+model|||a model can also refer to a person or thing that is considered an excellent example to be copied or imitated|||KWANYAMA|||oshihopaenenwa|||7
+analysis|||analysis is the process of breaking down a complex topic or substance into smaller parts to gain a better understanding of it.|||KWANYAMA|||etukaulo|||5
+correspondence|||the exchange of letters or messages between people, often over a period of time|||KWANYAMA|||elishangelafano|||5
+jacket|||a jacket is a short coat, typically extending to the hips|||KWANYAMA|||ombaikifa|||9
+notch|||a notch is a cut or indentation in an edge or surface|||KWANYAMA|||etakelo|||5
+baboon|||a baboon is a large, powerful monkey with a long, dog-like snout and large teeth|||KWANYAMA|||ekundughima|||5
+idleness|||idleness refers to the state of not working or being active|||KWANYAMA|||oumbutumani|||14
+ferocity|||ferocity refers to the quality or state of being ferocious|||KWANYAMA|||oukwanyatu|||14
+niggard|||a niggard is a stingy or ungenerous person|||KWANYAMA|||omuluva|||1
+cloud|||a visible mass of condensed water vapor floating in the atmosphere, typically high above the ground|||KWANYAMA|||oshilemo|||7
+bellows|||bellows are a device that consists of a bag with two handles, used for blowing air into a fire|||KWANYAMA|||omupepo|||3
+crustacean|||a crustacean is a type of animal that has a hard shell and lives in water, such as a crab or a lobster|||KWANYAMA|||oshikwamapeta|||7
+murder|||murder refers to the unlawful premeditated killing of one human being by another|||KWANYAMA|||edipao|||5
+craft|||aircraft or spacecraft. any vehicle capable of air or space travel.|||KWANYAMA|||odila|||9
+craft|||a craft, in maritime context, refers to any type of water vessel such as a ship, boat, submarine or even a hovercraft|||KWANYAMA|||oshikepa|||7
