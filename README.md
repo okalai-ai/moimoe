@@ -1,5 +1,5 @@
 
-Datasets  "Typology-Guided Adaptation for Multilingual Models"
+Datasets Introduced in the paper "Typology-Guided Adaptation for Multilingual Models" at ACL 2025
 
 
 # Noun Class Recognition (NCR) Datasets 
