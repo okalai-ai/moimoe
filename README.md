@@ -85,3 +85,11 @@ If you use this data for academic research, please cite the following paper:
 }
 </code></pre>
 
+## 📄 License
+
+This project is licensed under the terms of the **MIT License**.  
+You are free to use, modify, and distribute this software with proper attribution.
+
+A full copy of the license is available in the [LICENSE.txt](./LICENSE.txt) file.
+
+
