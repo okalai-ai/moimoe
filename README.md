@@ -1,5 +1,5 @@
 
-Resources introduced in the paper [Typology-Guided Adaptation in Multilingual Models](https://ndapa.us/assets/docs/papers/2025-moi-acl.pdf)
+Resources introduced in: [Typology-Guided Adaptation in Multilingual Models](https://ndapa.us/assets/docs/papers/2025-moi-acl.pdf)
 
 
 # 🗂️ Noun Class Recognition (NCR) Datasets 
