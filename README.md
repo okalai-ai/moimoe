@@ -72,3 +72,16 @@ This table is helpful for:
 
 
 
+## 📚 Citation
+
+If you use this data for academic research, please cite the following paper:
+
+<pre><code>
+@inproceedings{nakashole2025acl,
+  author    = {Nakashole, Ndapa},
+  title     = {Typology-Guided Adaptation in Multilingual Models},
+  booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics},
+  year      = {2025},
+}
+</code></pre>
+
