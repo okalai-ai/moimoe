@@ -73,7 +73,7 @@ This table is helpful for:
 
 ## 📚 Citation
 
-If you use this data for academic research, please cite the following paper:
+If you use this data for academic research, please cite the following [paper] (https://ndapa.us/assets/docs/papers/2025-moi-acl.pdf):
 
 <pre><code>
 @inproceedings{nakashole2025acl,
